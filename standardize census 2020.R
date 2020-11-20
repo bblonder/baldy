@@ -982,8 +982,8 @@ summary_stats = df_individual_demo %>%
     Number.seedlings=length(which(Is.seedling==1)),
     Number.total=(length(which(Length..cm.>0)) + Number.mortality.events)) # also include the dead ones from this year in the total abundance, so mortality rates are between 0 and 1
 
-# NA the mortality events in the 1st year of the study since we can't know this!
-summary_stats[summary_stats$Year==2014,c("Number.mortality.events","Number.total")]<-NA
+# NA the mortality events and growth in the 1st year of the study since we can't know this!
+summary_stats[summary_stats$Year==2014,c("Number.mortality.events")]<-NA
 summary_stats[summary_stats$Year==2014,"Mean.size.change"]<-NA
 
 # remove the NA
