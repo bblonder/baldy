@@ -1004,10 +1004,10 @@ g_demo = ggplot(summary_stats_short, aes(x=Year,y=value,col=Taxon)) +
   geom_line() + 
   geom_point() +
   geom_abline(slope=0,intercept=0) +
-  facet_wrap(~variable,scales='free_y',labeller=labeller(variable=c(Survival.rate="D) Survival rate",
-                                                                    Mean.size.change='A) Size change, mean (cm)',
+  facet_wrap(~variable,scales='free_y',labeller=labeller(variable=c(Survival.rate="A) Survival rate",
+                                                                    Mean.size.change='B) Size change, mean (cm)',
                                                                     Flowering.probability='C) Flowering probability',
-                                                                    Number.seedlings='B) Recruitment, total (#)',
+                                                                    Number.seedlings='D) Recruitment, total (#)',
                                                                     Number.total='E) Abundance, total (#)'))) +
   theme_bw() +
   #scale_y_continuous(trans='pseudo_log') +
