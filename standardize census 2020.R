@@ -13,8 +13,12 @@
 
 
 library(dplyr)
+library(tidyr)
 library(readxl)
 library(devtools)
+library(reshape2)
+library(ggplot2)
+
 
 set.seed(1)
 
@@ -541,51 +545,6 @@ for (year in 2014:current_year)
 }
 
 
-# summarize plots
-library(reshape2)
-library(ggplot2)
-
-summary_stats <- melt(do.call("rbind",by(data.census, data.census$Year, function(x) { 
-  data.frame(
-    Number.seedlings=length(which(x$Is.seedling==1)),
-    Number.mortality.events=length(which(x$Died.this.census==1)),
-    Number.fecundity.events=length(which(x$X..Capitulescences>0)),
-    Number.total=length(which(x$Length..cm.>0)),
-    Year=x$Year[1]
-  )})),id.vars="Year")
-
-# NA the mortality events in the 1st year of the study since we can't know this!
-summary_stats[summary_stats$variable=="Number.mortality.events" & summary_stats$Year==2014,"value"]<-NA
-
-g <- ggplot(summary_stats,aes(x=Year,y=value,col=variable)) + geom_line(size=2) + facet_wrap(~variable,scales='free') + theme_bw() + ylab("Count") + theme(legend.position = "none")
-ggsave(g,file='demography trends.pdf',width=7,height=5)
-
-
-species_counts <- as.data.frame(do.call("rbind",by(data.census,data.census$Year, function(data_census) {
-  do.call("rbind",by(data_census, data_census$Taxon, function(x) { Taxon=data.frame(x$Taxon[1],Count=length(which(x$Length..cm. > 0)),Year=x$Year[1]) }))
-  
-})))
-
-row.names(species_counts) <- NULL
-names(species_counts) <- c("Taxon","Count","Year")
-species_counts <- species_counts[order(species_counts$Taxon, species_counts$Year),]
-
-g_counts <- ggplot(species_counts,aes(x=Year,y=Count)) + geom_line(show.legend = FALSE) + geom_point(show.legend = FALSE) + theme_classic() + ylab('Abundance') + facet_wrap(~Taxon,scales='free')
-ggsave("abundance trends.pdf",g_counts,width=10,height=8)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -868,3 +827,193 @@ for (year in 2014:current_year)
   mtext(side=3,sprintf("%d",year),font=2,outer=TRUE)
 }
 dev.off()
+
+
+
+
+
+
+
+getcoord <- function(plot, corner=NULL, plotcoordx=NULL, plotcoordy=NULL)
+{
+  coords <- which(matrix(1:50,nrow=10,ncol=5,byrow=TRUE)==plot,arr.ind=TRUE)
+  
+  xpos <- (coords[2]-1)*400
+  ypos <- (coords[1]-1)*(-400)	
+  
+  if (!is.null(corner) & is.null(plotcoordx) & is.null(plotcoordy))
+  {
+    offset_x <- NA
+    offset_y <- NA
+    if (corner=="upper left")
+    {
+      offset_x <- 0
+      offset_y <- 0
+    }
+    else if (corner=="upper right")
+    {
+      offset_x <- 200
+      offset_y <- 0
+    }
+    else if (corner=="lower left")
+    {
+      offset_x <- 0
+      offset_y <- -200
+    }
+    else if (corner=="lower right")
+    {
+      offset_x <- 200
+      offset_y <- -200
+    }
+    
+    xpos <- xpos + offset_x
+    ypos <- ypos + offset_y
+  }
+  else if (!is.null(plotcoordx) & !is.null(plotcoordy) & is.null(corner))
+  {
+    xpos <- xpos + plotcoordx
+    ypos <- ypos - (200 - plotcoordy)
+  }
+  else
+  {
+    stop("incorrect input")
+  }
+  
+  return(c(x=xpos, y=ypos))
+}
+
+data.census$x <- NA
+data.census$y <- NA
+for (i in 1:nrow(data.census))
+{
+  coord <- NULL
+  try(coord <- getcoord(plot=as.numeric(data.census$Plot[i]), plotcoordx=data.census$X..cm.[i],plotcoordy=data.census$Y..cm.[i]))
+  if (!is.null(coord))
+  {
+    data.census$x[i] <- coord["x"]
+    data.census$y[i] <- coord["y"]
+  }
+}
+
+
+plotdata = data.census %>% 
+  filter(Year==2019)
+
+
+pdf(file='~/Downloads/2019.pdf',width=18/2,height=38/2);
+par(mar=c(1,1,1,1))
+plot(0,0,xlim=c(0,1800),ylim=c(-3800,0),type='n',axes=F,xlab="",ylab="")
+for (i in 1:nrow(plotdata))
+{
+  whichcolor <- rainbow(length(levels(data.census$Taxon)),alpha=0.75)[as.numeric(plotdata$Taxon[i])]
+  whichcolor_light <- rainbow(length(levels(data.census$Taxon)),alpha=0.25)[as.numeric(plotdata$Taxon[i])]
+  whichcolor_text <- gray(0,0.75)
+  
+  if (plotdata$Died.this.census.final[i]==1)
+  {
+    whichcolor <- "#000000"
+  }
+  
+  drawcircle(plotdata$x[i],plotdata$y[i],plotdata$Length..cm.[i]/2,bcol=whichcolor,col= whichcolor_light)
+  
+  
+  if(plotdata$Died.this.census.final[i]==1)
+  {
+    points(plotdata$x[i],plotdata$y[i],col= whichcolor_text,pch=4,cex=0.5)
+  }
+  if(plotdata$Length..cm.[i]==0)
+  {
+    points(plotdata$x[i],plotdata$y[i],col= 'lightgray',pch=0,cex=0.5,lwd=0.5)
+  }
+  if(plotdata$Is.seedling[i]==1)
+  {
+    points(plotdata$x[i],plotdata$y[i],col= whichcolor_text,pch=3,cex=0.5)
+  }
+  if(plotdata$X..Capitulescences[i]>0)
+  {
+    points(plotdata$x[i],plotdata$y[i],col= whichcolor_text,pch=6,cex=0.5)
+  }
+  
+  # show zero-size (dead) individuals in different colors
+  if (plotdata$Length..cm.[i]==0)
+  {
+    whichcolor_text = 'lightgray'
+  }
+  
+}
+
+# draw boxes
+for (i in 1:50)
+{
+  box_coords=as.data.frame(t(sapply(c("upper left","upper right","lower right","lower left"),getcoord,plot=i)))
+  polygon(box_coords$x,box_coords$y)
+}
+
+# draw ghost plants
+data_dead = data.census %>% filter(Died.this.census.final==1 & Year != 2019)
+
+points(data_dead$x, data_dead$y,col=gray(1 - (data_dead$Year - 2012)/(2021 - 2012),alpha=0.5),pch=4,cex=0.5)
+
+dev.off()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# do demography plots
+summary_stats = df_individual_demo %>% 
+  group_by(Year, Taxon) %>%
+  summarize(
+    Number.mortality.events=length(which(Died.this.census.final==1)),
+    Mean.size.change = mean(Length..cm. - Length..cm..prev,na.rm=T),
+    Number.fecundity.events=length(which(X..Capitulescences>0)),
+    Number.seedlings=length(which(Is.seedling==1)),
+    Number.total=(length(which(Length..cm.>0)) + Number.mortality.events)) # also include the dead ones from this year in the total abundance, so mortality rates are between 0 and 1
+
+# NA the mortality events in the 1st year of the study since we can't know this!
+summary_stats[summary_stats$Year==2014,c("Number.mortality.events","Number.total")]<-NA
+summary_stats[summary_stats$Year==2014,"Mean.size.change"]<-NA
+
+# remove the NA
+summary_stats = summary_stats %>% 
+  filter(!Taxon %in% c("Indet indet","NA NA")) %>% ungroup
+
+summary_stats = summary_stats %>% 
+  mutate(Survival.rate = Number.mortality.events / Number.total) %>%
+  mutate(Flowering.probability = Number.fecundity.events / Number.total) %>%
+  select(-Number.mortality.events,-Number.fecundity.events)
+
+# change format
+summary_stats_short = gather(summary_stats, key='variable',value='value',Mean.size.change:Flowering.probability) %>%
+  mutate(Taxon=as.character(Taxon)) %>%
+  mutate(variable=factor(variable,levels=c("Survival.rate","Mean.size.change","Flowering.probability","Number.seedlings","Number.total"),ordered=TRUE))
+
+g_demo = ggplot(summary_stats_short, aes(x=Year,y=value,col=Taxon)) + 
+  geom_line() + 
+  geom_point() +
+  geom_abline(slope=0,intercept=0) +
+  facet_wrap(~variable,scales='free_y',labeller=labeller(variable=c(Survival.rate="D) Survival rate",
+                                                                    Mean.size.change='A) Size change, mean (cm)',
+                                                                    Flowering.probability='C) Flowering probability',
+                                                                    Number.seedlings='B) Recruitment, total (#)',
+                                                                    Number.total='E) Abundance, total (#)'))) +
+  theme_bw() +
+  #scale_y_continuous(trans='pseudo_log') +
+  #theme(legend.position='bottom') +
+  ylab("Value") +
+  theme(legend.text = element_text(face = 'italic'))
+
+ggsave(g_demo, file='g_demo.pdf',width=10,height=5)
+
