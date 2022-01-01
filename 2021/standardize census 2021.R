@@ -1,9 +1,9 @@
 #To do
 #Script needs to rename tag assignments for clustering data (eg if a host is retagged, make sure the inside/outside data follow)
-## punting on this until later
+## punting on this until later - CR agrees
 
 #Check aspect ratios in qc script
-## BB now doing this - 5 plants are flagged. CR to manually confirm they are OK - they look OK to me. cntrl-F for 'aspect' and you will find the code
+## BB now doing this - 5 plants are flagged. CR to manually confirm they are OK - they look OK to me. cntrl-F for 'aspect' and you will find the code #*CR confirmed that these are not errors on 12/13/21. There are now 9 individuals with large aspect ratios
 
 #Need to standardize whether replaced rows get a tag should not exist and if an additional row should be added. 
 # ** BB needs an example of this - believes the data are being handled OK. CR to help
@@ -14,11 +14,11 @@
 #identify zombies that are dead two years and then are back. 
 # ** BB decided these should require manual correction, not a script fix. the script now flags these in the zombie section
 
-# figure out why 2918 has incorrect starrting year of 2014 not 2021
+# figure out why 2918 has incorrect starting year of 2014 not 2021
 # ** BB this was a big bug in how the 'should be in starting year' code was handled - indexed by 1, not by i so not looping correctly. this is now fixed throughout the script and will affect many plants.
 
 # figure out why 1507 does not appear in 2021 census data (1505 was merged into 1507, so 1505 should have disappeared, not 1507)
-# ** BB cannot duplicate this issue after fixing some other issuess - seems to be OK Now. CR to manually confirm.
+# ** BB cannot duplicate this issue after fixing some other issues - seems to be OK Now. CR to manually confirm.
 
 #Make sure script is filtering out plants that have been dead for >2 years. In the raw file there are many entries of dead plants in 2018 that died in 2016
 # ** BB believes this should be dealt with by the script, CR to manually confirm
@@ -29,7 +29,18 @@
 library(dplyr)
 library(readxl)
 library(devtools)
+library(ggplot2)
+library(reshape2)
+# devtools::install_github("will-r-chase/poissondisc")
+require(poissondisc)
 
+# create output directory
+if (!file.exists('outputs'))
+{
+  dir.create('outputs')
+}
+
+# set seed
 set.seed(1)
 
 # set year
@@ -103,7 +114,7 @@ for (i in 1:length(merge_id))
   	data.census$Height..cm.[right_id] = max(c(data.census$Height..cm.[right_id], data.census$Height..cm.[merge_id[i]]),na.rm=T)
   	data.census$X..Capitulescences[right_id] = max(c(data.census$X..Capitulescences[right_id], data.census$X..Capitulescences[merge_id[i]]),na.rm=T)
   	# throw an error if we are trying to merge a seedling patch - has not happened
-  	stopifnot(data.census$Number.of.individuals.represented.by.tag[merge_id[i]]<=1 | is.na(data.census$Number.of.individuals.represented.by.tag[merge_id[i]]))
+  	if(!(data.census$Number.of.individuals.represented.by.tag[merge_id[i]]<=1 | is.na(data.census$Number.of.individuals.represented.by.tag[merge_id[i]]))) { warning('tried to merge seedling patch') }
   	
   	### NEW 7/29/2021
   	# clear out some info for the old plant
@@ -159,7 +170,7 @@ problem_tagremovals <- data.census %>%
   filter(n.remove.requests > 1)
 
 print(problem_tagremovals)
-stopifnot(nrow(problem_tagremovals)==0)
+if(!nrow(problem_tagremovals)==0) { warning('problem tag removals nonzero') }
 # action required at this stage
 
 
@@ -174,7 +185,7 @@ for (i in 1:length(removed_tags))
 
 # check to see if there are any morphonames that should not exist
 namematches <- data.census$Morphoname[! data.census$Morphoname %in% c(data.species$Code)]
-stopifnot(all(is.na(namematches)))
+if(!all(is.na(namematches))) { warning('name matching issue')}
 print(namematches)
 
 # assign real taxon names
@@ -183,7 +194,7 @@ data.census <- cbind(data.census, data.species[speciesindices,1:3])
 data.census$Taxon <- paste(data.census$Genus, data.census$Species)
 data.census$Taxon <- factor(data.census$Taxon, levels=sample(names(sort(table(data.census$Taxon)))))
 
-# add default offset
+# add default offset to cells that are blank
 data.census$Tag.offset.x..cm.[is.na(data.census$Tag.offset.x..cm.)] <- -10
 data.census$Tag.offset.y..cm.[is.na(data.census$Tag.offset.y..cm.)] <- -10
 
@@ -205,13 +216,10 @@ checkduplicates <- function(d)
 }
 
 duplicates <- checkduplicates(data.census)
-stopifnot(nrow(duplicates)==0)
+if(!nrow(duplicates)==0) { warning('duplicates issue')}
 duplicates
 #
-#All duplicates are in the prelim seedling census from 2020 and one from the 2015 where there is a merged tag from the prelim. Census. 
-#data.census<-data.census%>% distinct(Tag, Year, Preliminary.seedling.census, .keep_all = TRUE) # Looks good. Re-running the duplicate code above
-
-#!!!!!! The below overwrites on dead plants would be better to do later in the code after determining died this census final
+#All duplicates are in the prelim seedling census from 2020-CR confirmed 12/10/21
 
 # fill in NA values for empty cells with appropriate values
 data.census$Died.this.census[is.na(data.census$Died.this.census)] <- 0
@@ -266,21 +274,76 @@ dc_noprelim <- dc_noprelim[-which(dc_noprelim $Died.this.census ==1),]
 
 multiseed <- tapply(dc_noprelim $Is.seedling, dc_noprelim $Tag, sum)
 multiseed <- multiseed[multiseed > 1]
-stopifnot(length(multiseed) == 0)
+if(!length(multiseed) == 0) { warning('multiyear seedling issue') }
 multiseed
 
-#!!!! Need to use Died.this.census.final for sorting
 # check for sizes that are out of realistic range
 subset(data.census,(data.census $Length..cm. <0 | data.census $Length..cm. > 150) & Died.this.census!=1)
 subset(data.census,(data.census $Height..cm. <0 | data.census $Height..cm. > 35) & Died.this.census!=1)
+
+
+subset(data.census,(data.census $Length..cm. <0 | data.census $Length..cm. > 150) & Died.this.census!=0)
+subset(data.census,(data.census $Height..cm. <0 | data.census $Height..cm. > 35) & Died.this.census!=0)
+
 # check unrealistic offsets
 subset(data.census,abs(data.census $Tag.offset.x..cm.) > 50)
 subset(data.census,abs(data.census $Tag.offset.y..cm.) > 50)
+
 # check heightless or lengthless plants that are otherwise alive
 subset(data.census,data.census $Height..cm. ==0 & data.census $Length..cm. > 0)
 subset(data.census,data.census $Height..cm. >0 & data.census $Length..cm. == 0)
+
 # check aspect ratio
 subset(data.census,(data.census $Height..cm. / data.census $Length..cm.) > 10)
+
+#Plot length by height for each taxa and check for outliers
+twenty14<-filter(data.census, Year==2014)
+ggplot(twenty14, aes(x=Length..cm., y=Height..cm.))+
+  geom_point() +
+  theme_classic() + 
+  facet_wrap(~Taxon)
+
+twenty15<-filter(data.census, Year==2015)
+ggplot(twenty14, aes(x=Length..cm., y=Height..cm.))+
+  geom_point() +
+  theme_classic() + 
+  facet_wrap(~Taxon)
+
+twenty16<-filter(data.census, Year==2016)
+ggplot(twenty16, aes(x=Length..cm., y=Height..cm.))+
+  geom_point() +
+  theme_classic() + 
+  facet_wrap(~Taxon)
+
+twenty17<-filter(data.census, Year==2017)
+ggplot(twenty17, aes(x=Length..cm., y=Height..cm.))+
+  geom_point() +
+  theme_classic() + 
+  facet_wrap(~Taxon)
+
+twenty18<-filter(data.census, Year==2018)
+ggplot(twenty18, aes(x=Length..cm., y=Height..cm.))+
+  geom_point() +
+  theme_classic() + 
+  facet_wrap(~Taxon)
+
+twenty19<-filter(data.census, Year==2019)
+ggplot(twenty19, aes(x=Length..cm., y=Height..cm.))+
+  geom_point() +
+  theme_classic() + 
+  facet_wrap(~Taxon)
+
+twenty20<-filter(data.census, Year==2020)
+ggplot(twenty20, aes(x=Length..cm., y=Height..cm.))+
+  geom_point() +
+  theme_classic() + 
+  facet_wrap(~Taxon)
+
+twenty21<-filter(data.census, Year==2021)
+ggplot(twenty21, aes(x=Length..cm., y=Height..cm.))+
+  geom_point() +
+  theme_classic() + 
+  facet_wrap(~Taxon)
 
 # look for missing data
 subset(data.census,is.na(X..Capitulescences))
@@ -301,7 +364,7 @@ for (tag in unique(data.census$Tag))
 	dcss_thisyear_ids <- which(data.census$Tag==tag & data.census$Year==currentyear & data.census$Preliminary.seedling.census!=1)
 
 	# make sure we only have one entry for the most current version of the tag
-	stopifnot(length(dcss_thisyear_ids)<=1)
+	if(!length(dcss_thisyear_ids)<=1) { warning('multiple entry issue') }
 
 	if (length(dcss_thisyear_ids)==1)
 	{	
@@ -326,24 +389,29 @@ for (tag in unique(data.census$Tag))
 }
 
 # look for NAs in various columns that should not have them
-dev.new()
+pdf(file='outputs/g_missing_data.pdf')
 par(mar=c(1,10,1,1))
 image(is.na(data.census),xaxt='n',yaxt='n');
 axis(side=2,at=seq(0,1,length.out=length(names(data.census))),labels=names(data.census),las=2)
+dev.off()
 
 # make sure final format is OK
 print(str(data.census))
 
-#There are many size 0 seedlings
-nrow(data.census %>% filter(Preliminary.seedling.census==0 & Is.seedling==1 & Year==current_year & Length..cm.==0)) #163
+#There are many size 0 seedlings. All these plants were tagged in either the 2015 or 2020 preliminary seedling census and then were found to be dead in the main census
+nrow(data.census %>% filter(Preliminary.seedling.census==0 & Is.seedling==1 & Length..cm.==0)) #191 rows
+size0seedling <-data.census %>% filter(Preliminary.seedling.census==0 & Is.seedling==1 & Length..cm.==0)
 
 #Died this census appears to be appropriately entered for size 0 seedlings
-nrow(data.census %>% filter(Length..cm.==0 & Is.seedling==1 & Year==current_year & Died.this.census==1)) #163
-nrow(data.census %>% filter(Length..cm.==0 & Is.seedling==1 & Year==current_year & Died.this.census==0)) #0
+nrow(data.census %>% filter(Length..cm.==0 & Is.seedling==1 & Died.this.census==1)) #191 rows
+nrow(data.census %>% filter(Length..cm.==0 & Is.seedling==1 & Died.this.census==0)) #0 rows
 
-#Some seedlings that have a size >0 are listed as dying this census, these are all from the preliminary census where dead seedlings were counted
-nrow(data.census %>% filter(Length..cm.>0 & Is.seedling==1 & Year==current_year & Died.this.census==1)) #13
-nrow(data.census %>% filter(Length..cm.>0 & Is.seedling==1 & Year==current_year & Died.this.census==0)) #425
+#Some seedlings that have a size >0 are listed as dying this census, these nearly all from the 2020 preliminary census where dead seedlings were counted. The one exception is a 2016 seedling that is listed as died this census with a non-zero size
+nrow(data.census %>% filter(Length..cm.>0 & Is.seedling==1 & Died.this.census==1)) #37 rows
+dead.seedlings<-
+  filter(data.census, Length..cm.>0 & Is.seedling==1 & Died.this.census==1)
+dead.seedlings
+
 
 # propagate mortality and sizes from prelim to later census
 data.census= data.census %>% group_by(Tag,Year) %>% mutate(Died.this.census = max(Died.this.census),
@@ -351,8 +419,8 @@ data.census= data.census %>% group_by(Tag,Year) %>% mutate(Died.this.census = ma
                                                   #Height..cm.=max(Height..cm.), # don't overwrite sizes
                                                   X..Capitulescences=max(X..Capitulescences))
 
-#Here is where we lose size 0 seedlings
-nrow(data.census %>% filter(Preliminary.seedling.census==0 & Is.seedling==1 & Year==current_year & Length..cm.==0)) # 163
+#There are no longer any size 0 seedlings
+nrow(data.census %>% filter(Preliminary.seedling.census==0 & Is.seedling==1 & Year==current_year & Length..cm.==0)) # 0
 
 
 get_dead_years <- function(Year, Length, Preliminary.seedling.census)
@@ -425,14 +493,27 @@ if(length(zombie_tags$Tag) > 0)
 
 ### NEW 7/29/2021
 # find tags that ghosted--i.e. disappeared from the dataset without having been dead for 2 years
-tag_sequences = data.census %>% 
-  group_by(Tag) %>% 
-  arrange(Tag, Year) %>% 
-  select(Year, Tag, Died.this.census.final, Merge.tag.with) %>% 
-  summarize(has.died=sum(Died.this.census.final), last.year=max(Year), Merge.tag.with=paste(Merge.tag.with,collapse=" - "))
-ghost_tag_sequences = tag_sequences %>% filter(has.died==0 & last.year!=current_year)
-warning('These tags stopped appearing in a certain year')
+find_ghosts <- function(data.census)
+{
+  tag_sequences = data.census %>% 
+      group_by(Tag) %>% 
+      arrange(Tag, Year) %>% 
+      select(Year, Tag, Length..cm., Died.this.census.final, Merge.tag.with) %>% 
+      summarize(has.died=sum(Died.this.census.final), last.year=max(Year), size=paste(Length..cm., collapse = " _ "), final.size=last(Length..cm.), Merge.tag.with=paste(Merge.tag.with,collapse=" - "))
+  ghost_tag_sequences = tag_sequences %>% filter(has.died==0 & last.year!=current_year)
+  return(ghost_tag_sequences)
+}
+ghost_tag_sequences = find_ghosts(data.census)
 print(ghost_tag_sequences,n=Inf)
+write.csv(ghost_tag_sequences, file='outputs/ghost_tag_sequences.csv',row.names=F)
+
+# kill all the ghosts the last year they appeared
+data.census$Died.this.census.final[paste(data.census$Tag, data.census$Year) %in% paste(ghost_tag_sequences$Tag,ghost_tag_sequences$last.year)] = 1
+
+warning('These tags stopped appearing in a certain year')
+ghost_tag_sequences_final = find_ghosts(data.census)
+print(ghost_tag_sequences_final,n=Inf)
+
 ### END
 
 # arrange by quadrant
@@ -466,9 +547,9 @@ tags_to_remove_this_year = data.census %>%
   select(Plot, Tag, X..cm., Y..cm., Tag.offset.x..cm., Tag.offset.y..cm., Year.absent.twice, Year.seedling.dead,Is.seedling, Notes) %>% 
   unique %>% 
   arrange(Plot, Tag)
+# write the removal list
+write.csv(tags_to_remove_this_year, file=sprintf('outputs/tags_to_remove_thisyear_%d.csv',current_year),row.names=F)
 
-
-write.csv(tags_to_remove_this_year, file=sprintf('tags_to_remove_thisyear_%d.csv',current_year),row.names=F)
 # assume all tags removed when they satisfy the criterion
 data.census$Tag.removed.in.year = apply(cbind(data.census$Year.absent.twice,data.census$Year.seedling.dead,Inf),1,min,na.rm=T)
 
@@ -479,28 +560,27 @@ tags_dead_seedlings_2020 = unique(data.census$Tag[ids_dead_seedlings_2020])
 data.census$Tag.removed.in.year[data.census$Tag %in% tags_dead_seedlings_2020] <- 2020
 ### END
 
-
 ### NEW 7/29/2021
 # deal with the large #s of seedlings that should be 2020 patches
 
 # find the problem patches
 ids_seedling_patches_2020 = which(data.census$Is.seedling==1 & data.census$Year==2020)
-# get summary data gropued by tag and prelim census
+# get summary data grouped by tag and prelim census
 data_2020_patches_replacement = data.census[ids_seedling_patches_2020,] %>% 
   group_by(Tag, Preliminary.seedling.census) %>% 
-  summarize(X..cm.=mean(X..cm.), # pick mean location
-            Y..cm.=mean(Y..cm.), # pick mean location
-            Height..cm.=max(Height..cm.), # pick tallest height
-            X..Capitulescences=max(X..Capitulescences),  # pick most flowers
-            Number.of.individuals.represented.by.tag=sum(Number.of.individuals.represented.by.tag), # count rows
-            Length.per.individual..cm.=mean(Length..cm.), # average size 
-            Height.per.individual..cm.=mean(Height..cm.),
+  summarize(X..cm.=mean(X..cm., na.rm=T), # pick mean location
+            Y..cm.=mean(Y..cm., na.rm=T), # pick mean location
+            Height..cm.=max(Height..cm., na.rm=T), # pick tallest height
+            X..Capitulescences=max(X..Capitulescences, na.rm=T),  # pick most flowers
+            Number.of.individuals.represented.by.tag=sum(Number.of.individuals.represented.by.tag, na.rm=T), # count rows
+            Length.per.individual..cm.=mean(Length.per.individual..cm., na.rm=T), # average size of indivs
+            Height.per.individual..cm.=mean(Height.per.individual..cm., na.rm=T), # average height of indivs
             Notes = paste(Notes,collapse=" - ")# average height 
             ) %>%
   ungroup
 
 ##
-## Write rational for why we are doing this
+## During the 2020 preliminary seedling census. Data for multiple individuals was collected under the same tag number with sub tag letters. As an example tag 1A could be a multi-individual patch and tag 1B could be a single individual. 
 ##
 
 # get all other metadata as first row for each group
@@ -517,11 +597,30 @@ data.census = data.census[-ids_seedling_patches_2020,]
 # add in the revised data subset
 data.census = rbind(data.census, data_2020_patches_first)
 
+## new checks 12/23/2021
+# check for big seedlings
+rows_big_seedlings = which(data.census$Is.seedling==1 & data.census$Length..cm. >= 5 & data.census$Number.of.individuals.represented.by.tag==1)
+big_seedlings = data.census[rows_big_seedlings,] %>% 
+  arrange(Year, Tag)
+print(big_seedlings)
+# remove seedling designation for these by force
+data.census$Is.seedling[rows_big_seedlings] = 0
+
+# check for date issues
+
+
+unique_dates = data.census$Date %>% unique
+problem_dates = unique_dates[which(as.numeric(unique_dates) > 40000)]
+rows_with_date_problems = which(data.census$Date %in% problem_dates)
+print(rows_with_date_problems)
+
+### END 12/23/2021
+
 
 ### END
 
 # generate clean data
-makecleandf <- function(year,prelimseedlingsforyear, includepreviousyearnotes, includedeadseedlings)
+make_clean_df <- function(year,prelimseedlingsforyear, includepreviousyearnotes, includedeadseedlings)
 {
 	datass_seed_no <- subset(data.census, Year %in% year & Preliminary.seedling.census==0)
 	datass_seed_yes <- subset(data.census, Year %in% prelimseedlingsforyear & Preliminary.seedling.census==1)
@@ -593,13 +692,13 @@ makecleandf <- function(year,prelimseedlingsforyear, includepreviousyearnotes, i
 for (year in 2014:current_year)
 {
   # write census
-  dfcurrent_fieldtags <- makecleandf(year=year, prelimseedlingsforyear=NULL, includepreviousyearnotes=FALSE, includedeadseedlings=FALSE)
+  dfcurrent_fieldtags <- make_clean_df(year=year, prelimseedlingsforyear=NULL, includepreviousyearnotes=FALSE, includedeadseedlings=FALSE)
   # export file
-  write.csv(dfcurrent_fieldtags, file=sprintf('census %d clean only field tags.csv',year),row.names=F,na="")  
+  write.csv(dfcurrent_fieldtags, file=sprintf('outputs/census %d clean only field tags.csv',year),row.names=F,na="")  
   
-  dfcurrent_deadseedlings <- makecleandf(year=year, prelimseedlingsforyear=NULL, includepreviousyearnotes=FALSE, includedeadseedlings=TRUE)
+  dfcurrent_deadseedlings <- make_clean_df(year=year, prelimseedlingsforyear=NULL, includepreviousyearnotes=FALSE, includedeadseedlings=TRUE)
   # export file
-  write.csv(dfcurrent_deadseedlings, file=sprintf('census %d clean with dead seedlings.csv',year),row.names=F,na="")  
+  write.csv(dfcurrent_deadseedlings, file=sprintf('outputs/census %d clean with dead seedlings.csv',year),row.names=F,na="")  
   
   
   # write abundances
@@ -607,13 +706,11 @@ for (year in 2014:current_year)
   abundancescurrent <- do.call("rbind",by(dfcurrent_alive$Taxon, dfcurrent_alive$Plot, table))
   row.names(abundancescurrent) <- paste("Plot",row.names(abundancescurrent))
   
-  write.csv(abundancescurrent,sprintf('abundances %d clean only field tags.csv',year))
+  write.csv(abundancescurrent,sprintf('outputs/abundances %d clean only field tags.csv',year))
 }
 
 
 # summarize plots
-library(reshape2)
-library(ggplot2)
 
 summary_stats <- melt(do.call("rbind",by(data.census, data.census$Year, function(x) { 
   data.frame(
@@ -627,8 +724,10 @@ summary_stats <- melt(do.call("rbind",by(data.census, data.census$Year, function
 # NA the mortality events in the 1st year of the study since we can't know this!
 summary_stats[summary_stats$variable=="Number.mortality.events" & summary_stats$Year==2014,"value"]<-NA
 
-g <- ggplot(summary_stats,aes(x=Year,y=value,col=variable)) + geom_line(size=2) + facet_wrap(~variable,scales='free') + theme_bw() + ylab("Count") + theme(legend.position = "none")
-ggsave(g,file='demography trends.pdf',width=7,height=5)
+g_demography_trends <- ggplot(summary_stats,aes(x=Year,y=value,col=variable)) + geom_line(size=2) + facet_wrap(~variable,scales='free') + theme_bw() + ylab("Count") + theme(legend.position = "none")
+#missing value is the 2014 Number.mortality.events, which is 'NA'
+
+ggsave(g_demography_trends,file='outputs/g_demography_trends.pdf',width=7,height=5)
 
 
 species_counts <- as.data.frame(do.call("rbind",by(data.census,data.census$Year, function(data_census) {
@@ -640,12 +739,8 @@ row.names(species_counts) <- NULL
 names(species_counts) <- c("Taxon","Count","Year")
 species_counts <- species_counts[order(species_counts$Taxon, species_counts$Year),]
 
-g_counts <- ggplot(species_counts,aes(x=Year,y=Count)) + geom_line(show.legend = FALSE) + geom_point(show.legend = FALSE) + theme_classic() + ylab('Abundance') + facet_wrap(~Taxon,scales='free')
-ggsave("abundance trends.pdf",g_counts,width=10,height=8)
-
-
-
-
+g_abundance_counts = ggplot(species_counts,aes(x=Year,y=Count)) + geom_line(show.legend = FALSE) + geom_point(show.legend = FALSE) + theme_classic() + ylab('Abundance') + facet_wrap(~Taxon,scales='free')
+ggsave(g_abundance_counts, file="outputs/g_abundance_counts.pdf",width=10,height=8)
 
 
 
@@ -662,7 +757,7 @@ ggsave("abundance trends.pdf",g_counts,width=10,height=8)
 
 # write out transformed dataset for demography
 # in this case do include dead seedlings to note they existed
-df_clean_all = do.call("rbind",lapply(2014:current_year, makecleandf, prelimseedlingsforyear=NULL, includepreviousyearnotes=FALSE, includedeadseedlings=TRUE))
+df_clean_all = do.call("rbind",lapply(2014:current_year, make_clean_df, prelimseedlingsforyear=NULL, includepreviousyearnotes=FALSE, includedeadseedlings=TRUE))
 df_clean_all %>% arrange(Year, Plot) %>% select(Year, 
                                                Plot, 
                                                Tag, 
@@ -685,15 +780,17 @@ df_clean_all %>% arrange(Year, Plot) %>% select(Year,
 
 allocate_integer <- function(total, num_bins)
 {
-  #print(c(total, num_bins))
-  
-  vals = rep(0, num_bins)
-  for (i in 1:total)
+  # evenly divide items into bins as possible
+  result = rep(floor(total/num_bins), num_bins)
+  # figure out if there is a remainder
+  residual = total %% num_bins
+  # if there is
+  if (residual > 0)
   {
-    index = (i) %% (num_bins+1)
-    vals[index] = vals[index] + 1
+    # add one to any bin that needs one
+    result[1:residual] = result[1:residual] + 1
   }
-  return(vals)
+  return(result)
 }
 
 letters_all = c(LETTERS,
@@ -704,8 +801,6 @@ letters_all = c(LETTERS,
 
 
 # make pseudorandom points on a disc
-# devtools::install_github("will-r-chase/poissondisc")
-require(poissondisc)
 set.seed(1)
 offsets = poisson_disc(2, 2, 0.05)
 offsets$x = offsets$x - 1
@@ -777,25 +872,58 @@ df_individual_demo = df_individual_panel %>%
   # calculate survival as whether did not die
   mutate(Survival = as.numeric(!Died.this.census.final)) %>%
   # calculate recruits as plants that are new non-seedlings after the first study year
-  mutate(Is.recruit = is.na(Length..cm..prev) & Year>2014 & Is.seedling==0)
+  mutate(Is.recruit = (is.na(Length..cm..prev) & Is.seedling==0) | Is.seedling==1) # fixed this line to include the OR statement 12/23/2021
+
+# NEW 12/28/2021
+# set all 2014 recruit status to NA, since we don't really know if they are new plants unless clearly seedlings
+df_individual_demo$Is.recruit[df_individual_demo$Year==2014] = NA
+df_individual_demo$Is.recruit[df_individual_demo$Year==2014 & df_individual_demo$Is.seedling==TRUE] = 1
+# END
+
+## NEW DEC 23 2021
+# for B-onward tags, 
+# find non-A tags
+tags_non_A = unique(df_individual_demo$Tag[!grepl("\\*A$", df_individual_demo$Tag)])
+last_year_non_A = df_individual_demo %>% 
+                    filter(Tag %in% tags_non_A) %>% 
+                    group_by(Tag) %>% 
+                    summarize(year_last_appeared = max(Year))
+
+# iterate through all the non-A tags in their last year
+for (i in 1:nrow(last_year_non_A))
+{
+  # find dataset rows corresponding to this last year
+  rows_this_last = which((df_individual_demo$Year == last_year_non_A$year_last_appeared[i]) & (df_individual_demo$Tag == last_year_non_A$Tag[i]))
+  # if the last year of appearance is not this year... (I.e. is previous)
+  if (last_year_non_A$year_last_appeared[i] < current_year)
+  {
+    # assume the tag died
+    df_individual_demo$Died.this.census.final[rows_this_last] = 1
+    df_individual_demo$Survival[rows_this_last] = 0 ## added 12/28/2021
+  } else
+  {
+    # otherwise no action
+  }
   
+  
+  print(df_individual_demo[rows_this_last,] %>% select(Tag, Year))
+}
 
-#myplant = df_individual_demo %>% filter(Tag=="1061") %>% View
+# check for multi-tag deaths having being applied correctly
+df_individual_demo %>% filter(Tag %in% tags_non_A) %>% 
+  arrange(Tag, Year) %>% 
+  select(Tag,Year, Died.this.census.final)
+### END DEC 23 2021 edit
 
-write.csv(df_individual_demo, file=sprintf('data_demography_%d.csv', current_year), row.names=F)
-
-
-
-
-
-
-
-
-
+write.csv(df_individual_demo, file=sprintf('outputs/demography_2014-%d.csv', current_year), row.names=F)
 
 
 
 
+
+#
+#
+#Plot plants
 
 getcode <- function(string)
 {
@@ -873,8 +1001,8 @@ drawplot <- function(data.census, plotid, dataforyear, xlim=c(-10,210),ylim=c(-1
       if (names==TRUE)
       {
         segments(plotdata$X..cm.[i]+0,plotdata$Y..cm.[i]+0,plotdata$X..cm.[i]+plotdata$Tag.offset.x[i],plotdata$Y..cm.[i]+plotdata$Tag.offset.y[i],col= whichcolor_text,lwd=0.5)
-        text(plotdata$X..cm.[i]+plotdata$Tag.offset.x[i],plotdata$Y..cm.[i]+plotdata$Tag.offset.y[i],plotdata$Tag[i],col= whichcolor_text,cex=0.4,font=2)
-        text(plotdata$X..cm.[i],plotdata$Y..cm.[i],getcode(plotdata$Taxon[i]),col= whichcolor_text,cex=0.4,font=2)
+        text(plotdata$X..cm.[i]+plotdata$Tag.offset.x[i],plotdata$Y..cm.[i]+plotdata$Tag.offset.y[i],plotdata$Tag[i],col= whichcolor_text,cex=0.2,font=2)
+        text(plotdata$X..cm.[i],plotdata$Y..cm.[i],getcode(plotdata$Taxon[i]),col= whichcolor_text,cex=0.2,font=2)
       }
       
     }
@@ -889,7 +1017,7 @@ drawplot <- function(data.census, plotid, dataforyear, xlim=c(-10,210),ylim=c(-1
 # make plots over space
 for (year in 2014:current_year)
 {
-  pdf(width=5,height=5,file=sprintf('census map %d.pdf',year))
+  pdf(width=5,height=5,file=sprintf('outputs/g_census_map_%d.pdf',year))
   par(mar=c(3,3,1,1))
   par(cex.axis=0.5)
   for (i in 1:50)
@@ -898,23 +1026,23 @@ for (year in 2014:current_year)
   }
   dev.off()  
   
-  pdf(width=5,height=5,file=sprintf('census map zoomed %d.pdf',year))
-  par(mar=c(3,3,1,1))
-  par(cex.axis=0.5)
-  for (i in 1:50)
-  {
-    drawplot(df_individual_panel, i, year,xlim=c(-10,110),ylim=c(-10,110),title="Lower left")
-    drawplot(df_individual_panel, i, year,xlim=c(90,210),ylim=c(-10,110),title="Lower right")
-    drawplot(df_individual_panel, i, year,xlim=c(-10,110),ylim=c(90,210),title="Upper left")
-    drawplot(df_individual_panel, i, year,xlim=c(90,210),ylim=c(90,210),title="Upper right")
-  }
-  dev.off()  
+  # pdf(width=5,height=5,file=sprintf('g_census_map_%d_zoomed.pdf',year))
+  # par(mar=c(3,3,1,1))
+  # par(cex.axis=0.5)
+  # for (i in 1:50)
+  # {
+  #   drawplot(df_individual_panel, i, year,xlim=c(-10,110),ylim=c(-10,110),title="Lower left")
+  #   drawplot(df_individual_panel, i, year,xlim=c(90,210),ylim=c(-10,110),title="Lower right")
+  #   drawplot(df_individual_panel, i, year,xlim=c(-10,110),ylim=c(90,210),title="Upper left")
+  #   drawplot(df_individual_panel, i, year,xlim=c(90,210),ylim=c(90,210),title="Upper right")
+  # }
+  # dev.off()  
 }
 
 # make plots over time
 for (plot in 1:50)
 {
-  pdf(width=5,height=5,file=sprintf('census time series plot %d.pdf',plot))
+  pdf(width=5,height=5,file=sprintf('outputs/g_census_time_series_plot_%d.pdf',plot))
   par(mar=c(3,3,1,1))
   par(oma=c(0,0,3,3))
   par(cex.axis=0.5)
@@ -927,7 +1055,7 @@ for (plot in 1:50)
 }
 
 
-pdf(width=5*2,height=10*2,file='census site time series.pdf')
+pdf(width=5*2,height=10*2,file='outputs/g_census_time_series_site.pdf')
 par(mfrow=c(10,5))
 par(mar=c(1,1,1,1))
 par(oma=c(0,0,4,4))
