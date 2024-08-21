@@ -1,0 +1,807 @@
+"Year","Plot","Tag","Morphoname","Taxon","Identification.uncertain","X..cm.","Y..cm.","Tag.offset.x..cm.","Tag.offset.y..cm.","Died.this.census","Died.this.census.final","Length..cm.","Height..cm.","X..Capitulescences","Is.seedling","Number.of.individuals.represented.by.tag","Length.per.individual..cm.","Height.per.individual..cm.","Notes"
+2021,1,"1060","Ivesia gordonii","Ivesia gordonii",0,172,61,-5,-5,0,0,13.5,3.5,2,0,1,,,
+2021,1,"1061","Ivesia gordonii","Ivesia gordonii",0,171,65,-5,-5,0,0,15,4.5,3,0,1,,,
+2021,1,"1069","Ivesia gordonii","Ivesia gordonii",0,196,146,10,0,0,0,8.5,3,0,0,1,,,
+2021,1,"1071","Senecio crassulus","Senecio crassulus",0,197,187,-5,0,1,0,0,0,0,0,1,,,
+2021,1,"1742","Ivesia gordonii","Ivesia gordonii",0,3,171,-10,-10,0,0,12,3,0,0,1,,,
+2021,1,"1744","Ivesia gordonii","Ivesia gordonii",0,194,32,5,0,0,0,15,4,3,0,1,,,
+2021,1,"2523","Lupinus argenteus","Lupinus argenteus",0,64.5,160,-5,-5,0,0,18,7.5,7,0,1,,,"New y position"
+2021,2,"17","Ivesia gordonii","Ivesia gordonii",0,101,171,-5,-5,0,0,13,5,7,0,1,,,
+2021,3,"19","Ivesia gordonii","Ivesia gordonii",0,66,104,-10,-10,0,0,8.5,2.5,2,0,1,,,
+2021,3,"2365","Eriogonum umbellatum","Eriogonum umbellatum",0,104,125,-10,-10,0,0,40,4.5,93,0,1,,,
+2021,3,"2526","Eriogonum umbellatum","Eriogonum umbellatum",0,92,109,-10,0,1,0,0,0,0,0,1,,,
+2021,3,"2527","Eriogonum umbellatum","Eriogonum umbellatum",0,102.5,109,0,-5,1,0,0,0,0,0,1,,,
+2021,3,"2757","Ivesia gordonii","Ivesia gordonii",0,97,129,0,10,1,0,0,0,0,0,1,,,
+2021,5,"1751","Agoseris glauca","Agoseris glauca",0,115,39,10,-10,1,0,0,0,0,0,1,,,
+2021,5,"2186","Elymus lanceolatus","Elymus lanceolatus",0,174,108,-10,-10,0,0,12.5,16,2,0,1,,,
+2021,5,"2187","Elymus lanceolatus","Elymus lanceolatus",0,183,107,-10,-10,0,0,8.5,14,0,0,1,,,
+2021,5,"2367","Eriogonum umbellatum","Eriogonum umbellatum",0,169,112,-10,-10,0,0,52,3,122,0,1,,,"Has ant nest"
+2021,5,"2531","Eriogonum umbellatum","Eriogonum umbellatum",0,116,50,10,0,1,0,0,0,0,0,1,,,
+2021,5,"2532","Eriogonum umbellatum","Eriogonum umbellatum",0,177,80,0,-5,1,0,0,0,0,0,1,,,
+2021,5,"26","Eriogonum umbellatum","Eriogonum umbellatum",0,113,48,-10,-10,0,0,34,3,36,0,1,,,"has ant nest"
+2021,5,"2758","Eriogonum umbellatum","Eriogonum umbellatum",0,15,3,-5,-5,0,0,1.4,1,0,0,1,,,
+2021,5,"2861","Elymus lanceolatus","Elymus lanceolatus",0,165,110,-10,-10,0,0,1,2.5,0,1,1,,,
+2021,5,"41","Elymus lanceolatus","Elymus lanceolatus",0,184,115,5,5,0,0,8.5,18,2,0,1,,,
+2021,6,"1089","Ivesia gordonii","Ivesia gordonii",0,112,40,-10,-10,0,0,11.5,3.5,11,0,1,,,
+2021,6,"1558","Elymus lanceolatus","Elymus lanceolatus",0,121,63,-10,-10,0,0,21,20,4,0,1,,,
+2021,6,"1754","Ivesia gordonii","Ivesia gordonii",0,170,2,-10,-10,0,0,10,4.5,1,0,1,,,
+2021,6,"1755","Ivesia gordonii","Ivesia gordonii",0,71,50.5,-10,-10,0,0,15,5,4,0,1,,,
+2021,6,"1756","Ivesia gordonii","Ivesia gordonii",0,14,165,-10,-10,0,0,20,6,2,0,1,,,
+2021,6,"1757","Senecio crassulus","Senecio crassulus",0,17,134,-10,-10,1,0,0,0,0,0,1,,,
+2021,6,"2204","Ivesia gordonii","Ivesia gordonii",0,164,98,-10,-10,0,0,10.5,3.5,2,0,1,,,"very prostrate form"
+2021,6,"2434","Ivesia gordonii","Ivesia gordonii",0,110,37,-10,-10,1,0,0,0,0,0,1,,,
+2021,6,"2541","Senecio crassulus","Senecio crassulus",1,147,162,-10,-10,1,0,0,0,0,0,1,,,
+2021,6,"2542","Ivesia gordonii","Ivesia gordonii",0,50,145,-5,-5,1,0,0,0,0,0,1,,,
+2021,6,"2862","Ivesia gordonii","Ivesia gordonii",0,34,112,-10,-10,0,0,2,1.2,0,1,1,,,
+2021,6,"44","Eriogonum umbellatum","Eriogonum umbellatum",0,124,53,-10,-10,0,0,32,2.5,4,0,1,,,
+2021,6,"45","Elymus lanceolatus","Elymus lanceolatus",0,116,55,-10,0,0,0,15.5,18,1,0,1,,,"2 CLUMPS"
+2021,6,"46","Elymus lanceolatus","Elymus lanceolatus",0,124,50,10,0,0,0,18,22,5,0,1,,,
+2021,6,"49","Ivesia gordonii","Ivesia gordonii",0,149,166,-10,-10,0,0,18,5,7,0,1,,,
+2021,8,"2203","Senecio crassulus","Senecio crassulus",0,187,69,-10,-10,0,0,11.5,10,0,0,1,,,
+2021,8,"2520","Eriogonum umbellatum","Eriogonum umbellatum",0,112,162,-5,-5,0,0,22.5,1.5,34,0,1,,,
+2021,8,"2863","Phacelia hastata","Phacelia hastata",0,160,169,-10,-10,0,0,3,0.5,0,1,1,,,
+2021,8,"2864","Phacelia hastata","Phacelia hastata",0,166,186,-10,-10,0,0,2,0.5,0,1,1,,,
+2021,8,"55","Ivesia gordonii","Ivesia gordonii",0,32,135,-10,-10,0,0,10,4.5,0,0,1,,,"Ant nest"
+2021,8,"78","Eriogonum umbellatum","Eriogonum umbellatum",0,185,65,-10,-10,0,0,41,3,39,0,1,,,
+2021,8,"79","Ivesia gordonii","Ivesia gordonii",0,190,80,10,0,0,0,26.5,5.5,15,0,1,,,"Ant nest"
+2021,8,"81","Ivesia gordonii","Ivesia gordonii",0,96,83,-10,-10,0,0,17.5,8.5,2,0,1,,,"ant nest"
+2021,9,"1093","Ivesia gordonii","Ivesia gordonii",0,40,12,-10,-10,0,0,12,4,0,0,1,,,
+2021,9,"1094","Lupinus argenteus","Lupinus argenteus",0,192,68,-10,-10,0,0,30,10.5,10,0,1,,,
+2021,9,"1766","Chaenactis douglasii","Chaenactis douglasii",0,193,76,-10,-10,1,0,0,0,0,0,1,,,"Prob buried. Did not find tag."
+2021,9,"1767","Ivesia gordonii","Ivesia gordonii",0,200,65,-10,-10,0,0,7.5,3.5,1,0,1,,,
+2021,9,"2536","Ivesia gordonii","Ivesia gordonii",0,190,67,0,-5,1,0,0,0,0,0,1,,,
+2021,9,"86","Elymus lanceolatus","Elymus lanceolatus",0,186,140,-10,-10,0,0,11.5,20,5,0,1,,,
+2021,9,"87","Ivesia gordonii","Ivesia gordonii",0,189,76,-10,-10,0,0,14.5,7.5,6,0,1,,,"Ant nest"
+2021,9,"88","Heterotheca villosa","Heterotheca villosa",0,184,17,-10,-10,0,0,9,3,5,0,1,,,
+2021,10,"108","Elymus lanceolatus","Elymus lanceolatus",0,101,52,-10,-10,0,0,22,22,2,0,1,,,
+2021,10,"112","Ivesia gordonii","Ivesia gordonii",0,119,89,-10,-10,0,0,16,5.5,0,0,1,,,
+2021,10,"114","Eriogonum umbellatum","Eriogonum umbellatum",0,101,103,-10,-10,0,0,14,2.5,4,0,1,,,"ant nest"
+2021,10,"115","Ivesia gordonii","Ivesia gordonii",0,97,110,-10,-10,0,0,20,6.5,5,0,1,,,"ant nest"
+2021,10,"1782","Elymus lanceolatus","Elymus lanceolatus",0,76,33,-10,-10,0,0,28,31.5,13,0,1,,,
+2021,10,"1783","Lupinus argenteus","Lupinus argenteus",0,92,20,-10,-10,1,0,0,0,0,0,1,,,
+2021,10,"2197","Lupinus argenteus","Lupinus argenteus",0,115,59,-5,0,0,0,8,5.5,0,0,1,,,"1 clump"
+2021,10,"2865","Lupinus argenteus","Lupinus argenteus",0,125,124,-10,-10,0,0,2.5,2.5,0,1,1,,,
+2021,10,"91","Lupinus argenteus","Lupinus argenteus",0,48,37,-10,0,0,0,10,5,0,0,1,,,
+2021,10,"96","Lupinus argenteus","Lupinus argenteus",0,71,111,-10,-10,0,0,5.5,3.5,0,0,1,,,
+2021,11,"116","Ivesia gordonii","Ivesia gordonii",0,74,148,-10,-10,0,0,12,6,2,0,1,,,
+2021,11,"121","Eriogonum umbellatum","Eriogonum umbellatum",0,90,36,0,10,0,0,23.5,3,30,0,1,,,
+2021,11,"1788","Ivesia gordonii","Ivesia gordonii",0,60,63,-10,-10,0,0,12.5,5,4,0,1,,,
+2021,11,"1790","Ivesia gordonii","Ivesia gordonii",0,122,148,-10,-10,0,0,10,5,5,0,1,,,
+2021,11,"1791","Ivesia gordonii","Ivesia gordonii",0,112,176,-10,-10,0,0,5,4,1,0,1,,,
+2021,11,"2206","Lupinus argenteus","Lupinus argenteus",0,64,51,-10,-10,0,0,13.5,7,0,0,1,,,
+2021,11,"2207","Lupinus argenteus","Lupinus argenteus",0,68,60,-10,-10,0,0,11.5,6,0,0,1,,,
+2021,11,"2208","Ivesia gordonii","Ivesia gordonii",0,38,179,-10,-10,0,0,10,4.5,1,0,1,,,
+2021,12,"1119","Eriogonum umbellatum","Eriogonum umbellatum",0,141,89,-10,-10,0,0,5,2,0,0,1,,,"ED=Edge dead host"
+2021,12,"122","Ivesia gordonii","Ivesia gordonii",0,142,169,10,10,0,0,15,6,0,0,1,,,
+2021,12,"123","Ivesia gordonii","Ivesia gordonii",0,135,172,-10,-10,0,0,14.5,6,12,0,1,,,
+2021,12,"124","Elymus lanceolatus","Elymus lanceolatus",0,141,93,-10,-10,0,0,3.5,5.5,0,0,1,,,"1 clump, sparse; HD=Host dead"
+2021,12,"1792","Ivesia gordonii","Ivesia gordonii",0,10,101,-10,-10,0,0,8.5,2.5,0,0,1,,,
+2021,12,"1793","Ivesia gordonii","Ivesia gordonii",0,35,137,-10,-10,0,0,10,3.5,0,0,1,,,
+2021,12,"2546","Eriogonum umbellatum","Eriogonum umbellatum",0,195,196.5,-5,-5,1,0,0,0,0,0,1,,,
+2021,13,"1120","Eriogonum umbellatum","Eriogonum umbellatum",0,10,28,-10,-10,0,0,7.5,2,0,0,1,,,"1 clump"
+2021,13,"1122","Eriogonum umbellatum","Eriogonum umbellatum",0,36,14,-10,-10,0,0,22,2.5,11,0,1,,,
+2021,13,"127","Heterotheca villosa","Heterotheca villosa",0,12,22,-10,-10,0,0,19,5,12,0,1,,,"2 clumps"
+2021,13,"128","Elymus lanceolatus","Elymus lanceolatus",0,7,36,-10,-10,0,0,16,27.5,4,0,1,,,"growing into 130"
+2021,13,"129","Eriogonum umbellatum","Eriogonum umbellatum",0,17,14,-10,-10,0,0,12.5,2.5,1,0,1,,,
+2021,13,"130","Elymus lanceolatus","Elymus lanceolatus",0,15,43,0,10,0,0,22,23,11,0,1,,,"seems to be growing into 128"
+2021,13,"131","Eriogonum umbellatum","Eriogonum umbellatum",0,30,50,-4,-3,0,0,12.5,2,8,0,1,,,
+2021,13,"132","Heterotheca villosa","Heterotheca villosa",0,88,114,-10,-10,0,0,29,8.5,83,0,1,,,
+2021,13,"133","Elymus lanceolatus","Elymus lanceolatus",0,105,117,-10,-10,0,0,16.5,18,7,0,1,,,
+2021,13,"135","Elymus lanceolatus","Elymus lanceolatus",0,107,123,10,10,0,0,6,10.5,0,0,1,,,"1 clump"
+2021,13,"139","Eriogonum umbellatum","Eriogonum umbellatum",0,144,49,-10,-10,0,0,51,3,126,0,1,,,"heart shaped; has ant nest"
+2021,13,"142","Elymus lanceolatus","Elymus lanceolatus",0,146,52,0,-10,0,0,8.5,14,0,0,1,,,"3 small clumps. Parallel to horizontal"
+2021,13,"143","Elymus lanceolatus","Elymus lanceolatus",0,148,56,0,10,0,0,36,22,9,0,1,,,"Extends into the v of heart of 139"
+2021,13,"145","Heterotheca villosa","Heterotheca villosa",0,101,21,-5,-5,0,0,4.5,4,0,0,1,,,"extensive die back"
+2021,13,"1566","Eriogonum umbellatum","Eriogonum umbellatum",0,15,51,-5,5,0,0,6,3,0,0,1,,,"Note: new offset"
+2021,13,"2551","Chaenactis douglasii","Chaenactis douglasii",0,17,12,-5,-5,0,0,1.5,1,0,0,1,,,"New taxon ID"
+2021,13,"2595","Eriogonum umbellatum","Eriogonum umbellatum",0,154.5,33,-5,-5,1,0,0,0,0,0,1,,,
+2021,13,"2598","Eriogonum umbellatum","Eriogonum umbellatum",0,159,37,-5,-5,1,0,0,0,0,0,1,,,
+2021,14,"1124","Eriogonum umbellatum","Eriogonum umbellatum",0,64,16,-10,-10,0,0,11,2,0,0,1,,,
+2021,14,"1125","Ivesia gordonii","Ivesia gordonii",0,60,82,-10,-10,0,0,6,3,2,0,1,,,
+2021,14,"1126","Heterotheca villosa","Heterotheca villosa",0,187,48,-10,-10,0,0,26,8.5,41,0,1,,,
+2021,14,"149","Eriogonum umbellatum","Eriogonum umbellatum",0,82,55,-10,-10,0,0,29.5,3.5,10,0,1,,,"ant nest"
+2021,14,"150","Elymus lanceolatus","Elymus lanceolatus",0,70,50,-10,-10,0,0,14,19,2,0,1,,,
+2021,14,"152","Elymus lanceolatus","Elymus lanceolatus",0,78,68,-10,-10,1,0,0,0,0,0,1,,,
+2021,14,"153","Elymus lanceolatus","Elymus lanceolatus",0,85,87,0,-2,0,0,30,21,10,0,1,,,"3 big clumps"
+2021,14,"156","Eriogonum umbellatum","Eriogonum umbellatum",0,148,102,-10,-10,0,0,79,2,93,0,1,,,"ant nest"
+2021,14,"157","Elymus lanceolatus","Elymus lanceolatus",0,135,105,-10,-10,0,0,9.5,11.5,0,0,1,,,"2 clumps vertical cluster"
+2021,14,"158","Elymus lanceolatus","Elymus lanceolatus",0,137,111,0,0,0,0,18,18,2,0,1,,,"4 clumps"
+2021,14,"160","Elymus lanceolatus","Elymus lanceolatus",0,156,103,0,-1,0,0,7,10,0,0,1,,,"1 clump"
+2021,14,"161","Elymus lanceolatus","Elymus lanceolatus",0,145,112,1,-3,0,0,6,10.5,0,0,1,,,"1 clump"
+2021,14,"162","Elymus lanceolatus","Elymus lanceolatus",0,153,112,5,-5,0,0,5,21,1,0,1,,,
+2021,14,"163","Elymus lanceolatus","Elymus lanceolatus",0,159,123,5,5,0,0,7.5,11,0,0,1,,,"note new offset"
+2021,14,"164","Elymus lanceolatus","Elymus lanceolatus",0,166,120,-10,-10,0,0,18,18,2,0,1,,,"3 clumps"
+2021,14,"2218","Elymus lanceolatus","Elymus lanceolatus",0,144,116,-4,-3,1,0,0,0,0,0,1,,,
+2021,14,"2444","Elymus lanceolatus","Elymus lanceolatus",0,154,96,0,-10,0,0,6.5,17.5,1,0,1,,,"2 clumps"
+2021,14,"2760","Elymus lanceolatus","Elymus lanceolatus",0,64,51,-5,-5,1,0,0,0,0,0,1,,,
+2021,14,"2761","Elymus lanceolatus","Elymus lanceolatus",0,157,101,1,-1,0,0,4,21,1,0,1,,,
+2021,14,"2762","Elymus lanceolatus","Elymus lanceolatus",0,153,105,-1,0,0,0,7.5,18,1,0,1,,,
+2021,14,"2763","Elymus lanceolatus","Elymus lanceolatus",0,145,103,-1,1,0,0,2,6,0,0,1,,,"1 clump"
+2021,15,"1140","Eriogonum umbellatum","Eriogonum umbellatum",0,152,30,-5,-5,0,0,19,2.5,5,0,1,,,
+2021,15,"1568","Eriogonum umbellatum","Eriogonum umbellatum",0,165,14,-10,-10,0,0,2.6,2,0,0,1,,,
+2021,15,"1571","Eriogonum umbellatum","Eriogonum umbellatum",0,71,164,-10,-10,0,0,23.5,3,7,0,1,,,
+2021,15,"167","Eriogonum umbellatum","Eriogonum umbellatum",0,54,83,-10,-10,0,0,19.5,2.5,17,0,1,,,
+2021,15,"173","Ivesia gordonii","Ivesia gordonii",0,39,188,-10,-10,0,0,19,7,1,0,1,,,"ant nest"
+2021,15,"175","Ivesia gordonii","Ivesia gordonii",0,60,181,-10,-10,0,0,17,4,0,0,1,,,
+2021,15,"176","Ivesia gordonii","Ivesia gordonii",0,67,173,-10,-10,0,0,14,5,0,0,1,,,
+2021,15,"1795","Eriogonum umbellatum","Eriogonum umbellatum",0,165,165,-10,-10,0,0,19.5,1.5,9,0,1,,,"ant nest"
+2021,15,"1797","Ivesia gordonii","Ivesia gordonii",0,172,96,-10,-10,0,0,14.5,5,0,0,1,,,
+2021,15,"190","Ivesia gordonii","Ivesia gordonii",0,177,177,0,10,0,0,14,6.5,0,0,1,,,
+2021,15,"198","Arenaria congesta","Arenaria congesta",0,107,80,-10,-10,0,0,17,7,191,0,1,,,
+2021,15,"2220","Heterotheca villosa","Heterotheca villosa",0,101,165,-10,-10,0,0,16,5.5,5,0,1,,,
+2021,15,"2866","Ivesia gordonii","Ivesia gordonii",0,53,82,-10,-10,0,0,2,2.5,0,1,1,,,
+2021,16,"1149","Ivesia gordonii","Ivesia gordonii",0,38,33,-5,-5,0,0,10.5,4.5,5,0,1,,,
+2021,16,"1161","Eriogonum umbellatum","Eriogonum umbellatum",0,121,45,-10,-10,0,0,25,2,16,0,1,,,
+2021,16,"1162","Ivesia gordonii","Ivesia gordonii",0,110,52,-10,-10,0,0,18.5,7.5,2,0,1,,,"ant nest"
+2021,16,"1579","Arnica latifolia","Arnica latifolia",0,43,30.5,-10,-10,0,0,16,6,1,0,1,,,"prostrate"
+2021,16,"1582","Eriogonum umbellatum","Eriogonum umbellatum",0,52,45,-5,-5,0,0,14.5,3,9,0,1,,,
+2021,16,"2371","Elymus lanceolatus","Elymus lanceolatus",0,66,63,-10,-10,0,0,28,29,9,0,1,,,"ant nest"
+2021,16,"2604","Ivesia gordonii","Ivesia gordonii",0,115,33,-5,-5,1,0,0,0,0,0,1,,,
+2021,16,"275","Ivesia gordonii","Ivesia gordonii",0,158,171,-10,-10,0,0,14,7.5,0,0,1,,,
+2021,16,"279","Elymus lanceolatus","Elymus lanceolatus",0,31,94,10,0,0,0,43,42,16,0,1,,,
+2021,17,"1825","Agoseris glauca","Agoseris glauca",0,104,76,-10,-10,0,0,10,8,4,0,1,,,"ant nest"
+2021,17,"1828","Lupinus argenteus","Lupinus argenteus",0,171,181,-10,-10,0,0,12.5,6,2,0,1,,,
+2021,17,"2687","Eriogonum umbellatum","Eriogonum umbellatum",0,8,51,-5,-5,1,0,0,0,0,0,1,,,
+2021,17,"2691","Eriogonum umbellatum","Eriogonum umbellatum",0,19,77,3,1,1,0,0,0,0,0,1,,,
+2021,17,"2692","Eriogonum umbellatum","Eriogonum umbellatum",0,25,82.5,0,13,1,0,0,0,0,0,1,,,
+2021,17,"2764","Lupinus argenteus","Lupinus argenteus",0,164,200,-5,-5,1,0,0,0,0,0,1,,,
+2021,17,"2811","Agoseris glauca","Agoseris glauca",0,20,76,-5,-5,0,0,1.3,2.5,0,0,1,,,
+2021,17,"285","Eriogonum umbellatum","Eriogonum umbellatum",0,16,76,-10,-10,0,0,64,3,44,0,1,,,"ant nest"
+2021,17,"2859","Eriogonum umbellatum","Eriogonum umbellatum",0,37.5,97,5,0,1,0,0,0,0,0,1,,,"tag added 8/5/21, new offset"
+2021,17,"2867","Elymus lanceolatus","Elymus lanceolatus",0,24,50,0,-10,0,0,1.6,4.5,0,1,1,,,
+2021,17,"287","Elymus lanceolatus","Elymus lanceolatus",0,20,76,-10,-10,0,0,15,22.5,1,0,1,,,"2 clumps"
+2021,17,"288","Elymus lanceolatus","Elymus lanceolatus",0,18,82,-10,0,0,0,10.5,14,0,0,1,,,"4 clumps"
+2021,17,"289","Elymus lanceolatus","Elymus lanceolatus",0,28,81,10,0,0,0,10,10.5,0,0,1,,,"1 clump"
+2021,17,"290","Elymus lanceolatus","Elymus lanceolatus",0,24,89,-10,0,1,0,0,0,0,0,1,,,"1 clump"
+2021,17,"291","Elymus lanceolatus","Elymus lanceolatus",0,23,99,-10,0,0,0,19,23,4,0,1,,,"2 clumps"
+2021,17,"292","Elymus lanceolatus","Elymus lanceolatus",0,28,91,5,-5,0,0,9,9,0,0,1,,,"1clump"
+2021,18,"2372","Heterotheca villosa","Heterotheca villosa",0,58,72,-10,-10,0,0,23,10,20,0,1,,,
+2021,18,"2684","Ivesia gordonii","Ivesia gordonii",0,167,86,-5,-5,1,0,0,0,0,0,1,,,
+2021,18,"2765","Ivesia gordonii","Ivesia gordonii",0,161,169,-10,-10,0,0,14.5,5,4,0,1,,,
+2021,18,"330","Eriogonum umbellatum","Eriogonum umbellatum",0,54,78,-10,-10,0,0,40,2,77,0,1,,,
+2021,18,"334","Elymus lanceolatus","Elymus lanceolatus",0,56,83,-10,10,0,0,22.5,30,18,0,1,,,
+2021,18,"335","Ivesia gordonii","Ivesia gordonii",0,80,81,-5,0,0,0,12.5,5,5,0,1,,,"new offset"
+2021,18,"336","Elymus lanceolatus","Elymus lanceolatus",0,94,115,-10,-10,0,0,28,24.5,7,0,1,,,
+2021,18,"337","Ivesia gordonii","Ivesia gordonii",0,176,166,-10,-10,0,0,12,5,0,0,1,,,
+2021,18,"338","Ivesia gordonii","Ivesia gordonii",0,108,60,-10,-10,0,0,26,9,27,0,1,,,
+2021,19,"1171","Ivesia gordonii","Ivesia gordonii",0,190,10,-10,-10,0,0,6,3.5,0,0,1,,,
+2021,19,"1172","Ivesia gordonii","Ivesia gordonii",0,156,109,-10,-10,0,0,1.5,2,0,0,1,,,
+2021,19,"1173","Lupinus argenteus","Lupinus argenteus",0,21,17,-10,-10,0,0,5,4,0,0,1,,,
+2021,19,"1602","Ivesia gordonii","Ivesia gordonii",0,139,110,-10,0,0,0,5,2.5,0,0,1,,,
+2021,19,"1603","Ivesia gordonii","Ivesia gordonii",0,95,112,-10,-10,0,0,8,4.5,1,0,1,,,
+2021,19,"1604","Ivesia gordonii","Ivesia gordonii",0,91,101,-10,-10,0,0,7.5,3,1,0,1,,,
+2021,19,"1605","Ivesia gordonii","Ivesia gordonii",0,92,76,-10,-10,0,0,7,3.5,1,0,1,,,
+2021,19,"1606","Ivesia gordonii","Ivesia gordonii",0,103,89,-10,-10,0,0,6.5,3.5,0,0,1,,,
+2021,19,"1830","Lupinus argenteus","Lupinus argenteus",0,69,28,-10,-10,0,0,22.5,11.5,1,0,1,,,
+2021,19,"1831","Ivesia gordonii","Ivesia gordonii",0,102,88,-10,-10,0,0,2,1.5,0,0,1,,,
+2021,19,"1836","Ivesia gordonii","Ivesia gordonii",0,174,39,-10,-10,0,0,9,2,0,0,1,,,
+2021,19,"1837","Eriogonum umbellatum","Eriogonum umbellatum",0,174,40,-10,-10,0,0,2.1,2.2,0,0,1,,,
+2021,19,"1839","Ivesia gordonii","Ivesia gordonii",0,130,64,-10,-10,0,0,6,1.5,0,0,1,,,
+2021,19,"2235","Elymus lanceolatus","Elymus lanceolatus",0,130,58,-10,-10,0,0,6,8,0,0,1,,,
+2021,19,"2373","Heterotheca villosa","Heterotheca villosa",0,84,140,-10,-10,0,0,4.5,3,0,0,1,,,
+2021,19,"2374","Lupinus argenteus","Lupinus argenteus",0,65,34,-10,-10,0,0,12,7.5,0,0,1,,,
+2021,19,"2376","Lupinus argenteus","Lupinus argenteus",0,92,42,-10,-10,1,0,0,0,0,0,1,,,
+2021,19,"2378","Ivesia gordonii","Ivesia gordonii",0,74,48,-10,-10,0,0,5.5,2.5,0,0,1,,,
+2021,19,"2379","Eriogonum umbellatum","Eriogonum umbellatum",0,170,120,5,0,0,0,4,1,0,0,1,,,
+2021,19,"2380","Eriogonum umbellatum","Eriogonum umbellatum",0,178,35,-10,-10,0,0,3,1,0,0,1,,,
+2021,19,"2445","Ivesia gordonii","Ivesia gordonii",0,105,81,0,-5,1,0,0,0,0,0,1,,,
+2021,19,"2658","Eriogonum umbellatum","Eriogonum umbellatum",0,66,25,-5,10,1,0,0,0,0,0,1,,,
+2021,19,"2660","Eriogonum umbellatum","Eriogonum umbellatum",0,70,28,0,5,1,0,0,0,0,0,1,,,
+2021,19,"2667","Eriogonum umbellatum","Eriogonum umbellatum",0,43,128,-5,-5,1,0,0,0,0,0,1,,,
+2021,19,"2670","Ivesia gordonii","Ivesia gordonii",0,121,82,-5,-5,1,0,0,0,0,0,1,,,
+2021,19,"2812","Ivesia gordonii","Ivesia gordonii",0,114,91,-5,-5,1,0,0,0,0,0,1,,,
+2021,19,"2860","Eriogonum umbellatum","Eriogonum umbellatum",0,55,11,-5,-5,1,0,0,0,0,0,1,,,"tag added new offset; CR 8/3/21 added tag 2860 to represent data for the B tag of 2660; CR 11/7/21 changed ID uncertain from 1 to 0 as the plant was confidently ID'd during the prelim census in 2020"
+2021,19,"2868","Elymus lanceolatus","Elymus lanceolatus",0,163,69,-5,-5,0,0,3.5,5,0,1,1,,,
+2021,19,"2869","Ivesia gordonii","Ivesia gordonii",0,129,80,-5,-5,0,0,1,1,0,1,1,,,
+2021,19,"2870","Ivesia gordonii","Ivesia gordonii",0,124,82.5,-5,-5,0,0,0.5,0.5,0,1,1,,,
+2021,19,"2871","Elymus lanceolatus","Elymus lanceolatus",0,120,183,-10,-10,0,0,2,2.5,0,1,1,,,
+2021,19,"340","Ivesia gordonii","Ivesia gordonii",0,53,17,-10,-10,0,0,13,5,2,0,1,,,"ant nest"
+2021,19,"342","Eriogonum umbellatum","Eriogonum umbellatum",0,110,26,-40,-12,0,0,110,2.5,27,0,1,,,"fairy ring plant"
+2021,19,"344","Heterotheca villosa","Heterotheca villosa",0,105,30,0,5,0,0,55,5.5,13,0,1,,,"3 clumps, 1 clump at y=8"
+2021,19,"345","Lupinus argenteus","Lupinus argenteus",0,91,32,0,0,0,0,18,12,0,0,1,,,
+2021,19,"346","Elymus lanceolatus","Elymus lanceolatus",0,109,23,-10,-10,0,0,6.5,8,0,0,1,,,
+2021,19,"347","Elymus lanceolatus","Elymus lanceolatus",0,142,14,10,0,0,0,24,12,0,0,1,,,"2 clumps"
+2021,19,"348","Ivesia gordonii","Ivesia gordonii",0,125,62,-10,-10,0,0,7.5,4.5,2,0,1,,,
+2021,19,"350","Eriogonum umbellatum","Eriogonum umbellatum",0,182,47,-5,0,0,0,5.5,2.5,0,0,1,,,
+2021,19,"351","Ivesia gordonii","Ivesia gordonii",0,161,66,-10,-10,0,0,14,5.5,1,0,1,,,
+2021,19,"352","Ivesia gordonii","Ivesia gordonii",0,179,66,-10,-10,0,0,9,5.5,0,0,1,,,
+2021,19,"353","Eriogonum umbellatum","Eriogonum umbellatum",0,108,90,-10,-10,0,0,16,1.5,7,0,1,,,
+2021,19,"357","Ivesia gordonii","Ivesia gordonii",0,105,105,-7,-1,0,0,6,3,0,0,1,,,"offset transposed/fixed"
+2021,19,"358","Ivesia gordonii","Ivesia gordonii",0,169,100,-10,-10,0,0,8.5,3,3,0,1,,,
+2021,19,"359","Eriogonum umbellatum","Eriogonum umbellatum",0,150,110,-1,0,0,0,8.5,2,0,0,1,,,
+2021,19,"360","Ivesia gordonii","Ivesia gordonii",0,136,113,-5,0,0,0,5,2.1,0,0,1,,,
+2021,19,"363","Heterotheca villosa","Heterotheca villosa",0,169,116,-10,0,0,0,19,7.5,15,0,1,,,
+2021,19,"364","Eriogonum umbellatum","Eriogonum umbellatum",0,161,128,-5,0,0,0,13.5,1,1,0,1,,,"fairyring"
+2021,19,"365","Ivesia gordonii","Ivesia gordonii",0,155,130,-5,0,0,0,9,7,1,0,1,,,
+2021,19,"366","Elymus lanceolatus","Elymus lanceolatus",0,165,130,10,0,0,0,7,10,0,0,1,,,"3 clumps"
+2021,19,"367","Eriogonum umbellatum","Eriogonum umbellatum",0,180,156,-10,-10,0,0,3,1.7,0,0,1,,,
+2021,19,"368","Eriogonum umbellatum","Eriogonum umbellatum",0,113,177,-10,-10,0,0,47,4,59,0,1,,,
+2021,19,"369","Heterotheca villosa","Heterotheca villosa",0,103,145,-10,-10,0,0,18.5,6,12,0,1,,,
+2021,19,"370","Eriogonum umbellatum","Eriogonum umbellatum",0,86,145,-10,-10,0,0,14,2,2,0,1,,,
+2021,19,"371","Ivesia gordonii","Ivesia gordonii",0,79,150,-10,-10,0,0,12.5,5,2,0,1,,,
+2021,20,"1179","Arenaria congesta","Arenaria congesta",0,18,23,-10,-10,0,0,26,6,58,0,4,7,5,"tag within patch/ patch is diffuse"
+2021,20,"1181","Arenaria congesta","Arenaria congesta",0,4,28,-5,-5,0,0,5.5,3.5,3,0,1,,,
+2021,20,"1183","Arenaria congesta","Arenaria congesta",0,48,35,-10,-10,0,0,17.5,4.5,15,0,6,5,4.5,
+2021,20,"1610","Senecio crassulus","Senecio crassulus",0,0,73,0,-33,1,0,0,0,0,0,1,,,
+2021,20,"1842","Heterotheca villosa","Heterotheca villosa",0,143,147,-10,-10,0,0,25,12.5,66,0,1,,,
+2021,20,"1855","Lupinus argenteus","Lupinus argenteus",0,125,66,-10,-10,0,0,16,10,0,0,1,,,
+2021,20,"1865","Arenaria congesta","Arenaria congesta",0,64,43,-10,-10,0,0,2.5,3.5,0,0,1,,,
+2021,20,"1866","Arenaria congesta","Arenaria congesta",0,49,29,-11,-6,0,0,16,9,18,0,3,10,5,"2 clumps; new offset"
+2021,20,"1879","Penstemon whippleanus","Penstemon whippleanus",0,5.5,11,-10,-10,0,0,15.5,9,0,0,1,,,"flower herbivory (florivory!)"
+2021,20,"2222","Elymus lanceolatus","Elymus lanceolatus",0,4,4,-10,-10,0,0,15,21,4,0,1,,,
+2021,20,"2227","Ivesia gordonii","Ivesia gordonii",0,33,44,-10,-10,0,0,8.5,4,0,0,1,,,
+2021,20,"2381","Elymus lanceolatus","Elymus lanceolatus",0,4,76,0,-5,0,0,26,29,14,0,1,,,"only in plot part"
+2021,20,"2448","Ivesia gordonii","Ivesia gordonii",0,19,25,-10,-10,0,0,13.5,9,0,0,1,,,
+2021,20,"2449","Arenaria congesta","Arenaria congesta",0,48,44,-5,0,0,0,6.5,5,0,0,1,,,"new offset"
+2021,20,"2573","Eriogonum umbellatum","Eriogonum umbellatum",0,42,1,-14.5,-1,1,0,0,0,0,0,1,,,
+2021,20,"2575","Eriogonum umbellatum","Eriogonum umbellatum",0,2.5,4.5,-5,0,1,0,0,0,0,0,1,,,
+2021,20,"2576","Ivesia gordonii","Ivesia gordonii",0,3.5,14,-5,-5,1,0,0,0,0,0,1,,,
+2021,20,"2577","Eriogonum umbellatum","Eriogonum umbellatum",0,19,34,-5,5,1,0,0,0,0,0,1,,,
+2021,20,"2578","Eriogonum umbellatum","Eriogonum umbellatum",0,25,24,-5,-5,1,0,0,0,0,0,1,,,
+2021,20,"2615","Eriogonum umbellatum","Eriogonum umbellatum",0,176.5,187,-5,5,0,0,0.3,0.2,0,0,1,,,"shaded"
+2021,20,"2617","Eriogonum umbellatum","Eriogonum umbellatum",0,149,158,-5,0,0,0,0.6,0.2,0,0,1,,,"delete 2872. Plant was mistagged as 2872 and then 2872 was pulled. Use 2872's data, including new location data"
+2021,20,"2619","Heterotheca villosa","Heterotheca villosa",0,13,162.5,-5,-5,1,0,0,0,0,0,1,,,
+2021,20,"2620","Ivesia gordonii","Ivesia gordonii",0,57.5,139,-5,-5,0,0,1.5,1,0,0,1,,,
+2021,20,"2622","Eriogonum umbellatum","Eriogonum umbellatum",0,37,67,-5,-5,1,0,0,0,0,0,1,,,
+2021,20,"2623","Senecio crassulus","Senecio crassulus",1,46.5,72,5,-5,0,0,1.5,3,0,0,1,,,
+2021,20,"2624","Eriogonum umbellatum","Eriogonum umbellatum",0,4,95.5,0,5,1,0,0,0,0,0,1,,,
+2021,20,"2625","Senecio crassulus","Senecio crassulus",1,6,82,5,1,1,0,0,0,0,0,1,,,
+2021,20,"2626","Eriogonum umbellatum","Eriogonum umbellatum",0,13.5,55,5,-5,1,0,0,0,0,0,1,,,
+2021,20,"2627","Eriogonum umbellatum","Eriogonum umbellatum",0,17,64,5,-5,1,0,0,0,0,0,1,,,
+2021,20,"2766","Arenaria congesta","Arenaria congesta",0,30,25,-4,-2,0,0,10,7.5,24,0,1,,,"1 clump"
+2021,20,"2767","Elymus lanceolatus","Elymus lanceolatus",0,176,169,-5,-5,0,0,41,31.5,20,0,1,,,
+2021,20,"2768","Lupinus argenteus","Lupinus argenteus",0,145,53,-5,-5,0,0,17,14,0,0,1,,,
+2021,20,"2769","Elymus lanceolatus","Elymus lanceolatus",0,40,69,-5,-5,0,0,22,16.5,0,0,1,,,
+2021,20,"2813","Chaenactis douglasii","Chaenactis douglasii",0,29,36,-5,-5,1,0,0,0,0,0,1,,,
+2021,20,"2814","Chaenactis douglasii","Chaenactis douglasii",0,35,70,-5,-5,1,0,0,0,0,0,1,,,
+2021,20,"2873","Eriogonum umbellatum","Eriogonum umbellatum",0,35,44,0,5,0,0,1,0.5,0,1,1,,,
+2021,20,"2874","Ivesia gordonii","Ivesia gordonii",0,37,47,0,5,0,0,0.6,0.5,0,1,1,,,
+2021,20,"2875","Arenaria congesta","Arenaria congesta",0,19,29,-5,-5,0,0,8.5,6,15,0,1,,,"tag not found; new tag 2875"
+2021,20,"2876","Arenaria congesta","Arenaria congesta",0,6,2,-5,-5,0,0,6,2.5,0,0,1,,,"may have encroached into plot"
+2021,20,"2877","Phacelia hastata","Phacelia hastata",0,1,52,0,-5,0,0,1.1,0.5,0,1,1,,,
+2021,20,"374","Ivesia gordonii","Ivesia gordonii",0,6,8,0,-10,1,0,0,0,0,0,1,,,"2 clumps"
+2021,20,"386","Arenaria congesta","Arenaria congesta",0,30.5,34,5,-5,0,0,26.5,6.5,81,0,1,,,
+2021,20,"392","Ivesia gordonii","Ivesia gordonii",0,43,70,-10,-10,0,0,24,11,1,0,1,,,
+2021,20,"400","Eriogonum umbellatum","Eriogonum umbellatum",0,43,4,-10,5,0,0,28,3,48,0,1,,,
+2021,20,"402","Arenaria congesta","Arenaria congesta",0,76,26,-10,-10,0,0,10,6,30,0,1,,,"below ELYLAN mound"
+2021,20,"403","Elymus lanceolatus","Elymus lanceolatus",0,72,30,-10,-10,0,0,23,22.5,5,0,1,,,"1 clump"
+2021,20,"404","Arenaria congesta","Arenaria congesta",0,74,32,-10,-10,0,0,13,3.5,20,0,1,,,
+2021,20,"408","Elymus lanceolatus","Elymus lanceolatus",0,97,20,-10,-10,0,0,23,26,12,0,1,,,
+2021,20,"412","Eriogonum umbellatum","Eriogonum umbellatum",0,130,102,0,1,0,0,41,3,12,0,1,,,"fairy ring"
+2021,20,"413","Elymus lanceolatus","Elymus lanceolatus",0,118,79,-10,-10,0,0,42,33.5,12,0,1,,,"1 big clump"
+2021,20,"423","Ivesia gordonii","Ivesia gordonii",0,179,178,-10,-10,0,0,8,6,0,0,1,,,"shaded"
+2021,20,"432","Ivesia gordonii","Ivesia gordonii",0,40,181,-10,-10,0,0,15,3.5,2,0,1,,,
+2021,20,"433","Ivesia gordonii","Ivesia gordonii",0,7,167,-10,-10,0,0,18.5,6.5,1,0,1,,,"flowers herbivorized; ant nest"
+2021,20,"434","Ivesia gordonii","Ivesia gordonii",0,0,151,5,-5,0,0,10,4,0,0,1,,,"note new offset"
+2021,20,"435","Ivesia gordonii","Ivesia gordonii",0,10,147,-10,-10,0,0,22,5,3,0,1,,,"flowers herbivorized"
+2021,20,"436","Eriogonum umbellatum","Eriogonum umbellatum",0,0,73,0,-10,0,0,73,3,130,0,1,,,"dried-out flowers"
+2021,20,"442","Achnatherum lettermanii","Achnatherum lettermanii",0,0,73,0,-10,1,0,0,0,0,0,1,,,
+2021,21,"1622","Poa stenantha","Poa stenantha",0,149,188,-10,-10,0,0,7,7,0,0,1,,,
+2021,21,"2244","Ivesia gordonii","Ivesia gordonii",0,25,114,-10,-10,0,0,9,5.5,0,0,1,,,
+2021,21,"2383","Eriogonum umbellatum","Eriogonum umbellatum",0,31,136,-10,-10,0,0,51,3.5,5,0,1,,,
+2021,21,"444","Eriogonum umbellatum","Eriogonum umbellatum",0,73,94,0,-10,0,0,25.5,4,1,0,1,,,"big leaves"
+2021,21,"446","Eriogonum umbellatum","Eriogonum umbellatum",0,131,35,-10,-10,0,0,15,1.5,0,0,1,,,"fairy ring"
+2021,21,"458","Eriogonum umbellatum","Eriogonum umbellatum",0,141,197,-10,-10,0,0,22,4,1,0,1,,,"mostly dead. Center of mass now out of plot"
+2021,22,"1897","Penstemon whippleanus","Penstemon whippleanus",0,3,37,-10,-10,0,0,18.5,14,1,0,1,,,
+2021,22,"1898","Arenaria congesta","Arenaria congesta",0,144,22,-10,-10,0,0,8.5,5,2,0,1,,,
+2021,22,"2245","Phacelia hastata","Phacelia hastata",0,10,50,-5,-5,0,0,13.5,7,0,0,1,,,"ant nest"
+2021,22,"2248","Elymus lanceolatus","Elymus lanceolatus",0,150,54,0,10,0,0,21,23.5,7,0,1,,,
+2021,22,"2483","Elymus lanceolatus","Elymus lanceolatus",0,149,41,-5,6,0,0,7.5,10.5,0,0,1,,,"2 culms"
+2021,22,"2716","Eriogonum umbellatum","Eriogonum umbellatum",0,164,5,-5,-5,1,0,0,0,0,0,1,,,"split base"
+2021,22,"2717","Eriogonum umbellatum","Eriogonum umbellatum",0,155,27,-5,-5,0,0,1.5,1,0,0,1,,,
+2021,22,"2718","Eriogonum umbellatum","Eriogonum umbellatum",0,152,22,-5,-5,0,0,6,1,0,0,3,0.7,0.5,
+2021,22,"2720","Eriogonum umbellatum","Eriogonum umbellatum",0,120,35,-5,-5,1,0,0,0,0,0,1,,,
+2021,22,"2721","Eriogonum umbellatum","Eriogonum umbellatum",0,142,33,-5,-5,1,0,0,0,0,0,1,,,
+2021,22,"2723","Chaenactis douglasii","Chaenactis douglasii",0,114,25,-5,-5,1,0,0,0,0,0,1,,,
+2021,22,"2725","Eriogonum umbellatum","Eriogonum umbellatum",0,118,34,6,0,1,0,0,0,0,0,1,,,"tag not found"
+2021,22,"2815","Chaenactis douglasii","Chaenactis douglasii",0,159,39,-5,-5,1,0,0,0,0,0,1,,,
+2021,22,"2878","Elymus lanceolatus","Elymus lanceolatus",0,121,49,-1,24,0,0,20,20,8,0,1,,,"new tag=2878; tag not found"
+2021,22,"466","Eriogonum umbellatum","Eriogonum umbellatum",0,63,0,0,0,0,0,52,3,30,0,1,,,"some small clumping, n=4"
+2021,22,"467","Eriogonum umbellatum","Eriogonum umbellatum",0,49,36,-10,-10,0,0,16.5,1.5,1,0,1,,,"small leaves"
+2021,22,"468","Eriogonum umbellatum","Eriogonum umbellatum",0,127,46,-10,-10,0,0,96,4,140,0,1,,,"ant nest"
+2021,22,"472","Eriogonum umbellatum","Eriogonum umbellatum",0,8,53,-10,0,0,0,45,3.5,17,0,1,,,
+2021,22,"473","Elymus lanceolatus","Elymus lanceolatus",0,9,63,-5,-5,0,0,7,11,1,0,1,,,"5 culms"
+2021,22,"474","Elymus lanceolatus","Elymus lanceolatus",0,7,66,-5,-5,0,0,9,21,2,0,1,,,"1 big, 1 small culm"
+2021,23,"1903","Lupinus argenteus","Lupinus argenteus",0,185,97,-10,-10,1,0,0,0,0,0,1,,,
+2021,23,"2385","Heterotheca villosa","Heterotheca villosa",0,94,0,-5,0,1,0,0,0,0,0,1,,,
+2021,23,"2703","Ivesia gordonii","Ivesia gordonii",0,90.5,3,-5,-5,1,0,0,0,0,0,1,,,
+2021,23,"2708","Eriogonum umbellatum","Eriogonum umbellatum",0,189,53,-5,-5,1,0,0,0,0,0,1,,,
+2021,23,"2711","Eriogonum umbellatum","Eriogonum umbellatum",0,193,61,0,6,1,0,0,0,0,0,1,,,
+2021,23,"475","Eriogonum umbellatum","Eriogonum umbellatum",0,12,31,0,-5,0,0,15.5,1.5,8,0,1,,,
+2021,23,"477","Ivesia gordonii","Ivesia gordonii",0,96,3,-10,-10,0,0,10.5,3,6,0,1,,,"2 clumps; touching off plot HETVIL"
+2021,23,"478","Eriogonum umbellatum","Eriogonum umbellatum",0,75,72,-10,-10,0,0,19,3,19,0,1,,,
+2021,23,"479","Ivesia gordonii","Ivesia gordonii",0,113,33,-10,-10,0,0,16.5,5.5,7,0,1,,,
+2021,23,"481","Eriogonum umbellatum","Eriogonum umbellatum",0,192,53,-10,-10,0,0,44,4.5,23,0,1,,,
+2021,23,"482","Elymus lanceolatus","Elymus lanceolatus",0,181,53,-5,0,0,0,21,21.5,3,0,1,,,"two clumps"
+2021,23,"484","Elymus lanceolatus","Elymus lanceolatus",0,194,60,0,-10,0,0,21.5,21.5,4,0,1,,,
+2021,23,"489","Ivesia gordonii","Ivesia gordonii",0,111,157,-10,-10,0,0,12,3.5,9,0,1,,,
+2021,23,"490","Elymus lanceolatus","Elymus lanceolatus",0,183,60,5,5,0,0,5,7.5,0,0,1,,,"1 clump"
+2021,24,"1904","Elymus lanceolatus","Elymus lanceolatus",0,72,177,-10,-10,1,0,0,0,0,0,1,,,
+2021,24,"2386","Elymus lanceolatus","Elymus lanceolatus",0,179,91,-10,-10,0,0,14,14.5,0,0,1,,,
+2021,24,"2387","Elymus lanceolatus","Elymus lanceolatus",0,101,9.5,-10,0,1,0,0,0,0,0,1,,,
+2021,24,"2388","Elymus lanceolatus","Elymus lanceolatus",0,100,5,-10,0,0,0,1.5,8,0,0,1,,,
+2021,24,"2732","Eriogonum umbellatum","Eriogonum umbellatum",0,67,187,-5,-5,0,0,1,0.5,0,0,1,,,
+2021,24,"2734","Chaenactis douglasii","Chaenactis douglasii",0,69.5,192.5,-6.5,-1,1,0,0,0,0,0,1,,,
+2021,24,"2735","Eriogonum umbellatum","Eriogonum umbellatum",0,62,166,-5,5,1,0,0,0,0,0,1,,,
+2021,24,"2770","Ivesia gordonii","Ivesia gordonii",0,85,197,5,5,0,0,5.5,2.5,0,0,1,,,
+2021,24,"2816","Eriogonum umbellatum","Eriogonum umbellatum",0,2,105,-5,-5,1,0,0,0,0,0,1,,,
+2021,24,"492","Eriogonum umbellatum","Eriogonum umbellatum",0,119,2,-10,0,0,0,48,4,27,0,1,,,
+2021,24,"493","Elymus lanceolatus","Elymus lanceolatus",0,117,0,-5,0,0,0,41,23.5,4,0,1,,,"extends out of plot"
+2021,24,"499","Elymus lanceolatus","Elymus lanceolatus",0,153,44,-10,-10,0,0,13.5,8,0,0,1,,,"2 culms"
+2021,24,"500","Elymus lanceolatus","Elymus lanceolatus",0,154,56,10,0,0,0,15.5,16.5,9,0,1,,,
+2021,24,"503","Elymus lanceolatus","Elymus lanceolatus",0,180,83,-10,-10,0,0,21,11,0,0,1,,,
+2021,24,"504","Eriogonum umbellatum","Eriogonum umbellatum",0,195,96,-10,0,0,0,25,2.5,7,0,1,,,"ant nest"
+2021,24,"506","Elymus lanceolatus","Elymus lanceolatus",0,195,175,-10,-10,0,0,16,19,4,0,1,,,
+2021,24,"507","Eriogonum umbellatum","Eriogonum umbellatum",0,66,182,-10,-10,0,0,60,3,142,0,1,,,
+2021,24,"508","Senecio crassulus","Senecio crassulus",0,68,176,-10,-10,0,0,9.5,7,0,0,1,,,
+2021,24,"510","Elymus lanceolatus","Elymus lanceolatus",0,62,189,-10,-10,0,0,10,13.5,0,0,1,,,
+2021,24,"511","Elymus lanceolatus","Elymus lanceolatus",0,64,189,-10,-10,0,0,7.5,13,0,0,1,,,"2 culms"
+2021,24,"512","Elymus lanceolatus","Elymus lanceolatus",0,69,197,-10,-10,0,0,19.5,14,2,0,1,,,"extends out of plot"
+2021,24,"514","Eriogonum umbellatum","Eriogonum umbellatum",0,10,110,0,-10,0,0,41,3.5,42,0,1,,,
+2021,24,"516","Elymus lanceolatus","Elymus lanceolatus",0,8,109,-10,-10,0,0,32,19,0,0,1,,,
+2021,27,"1226","Ivesia gordonii","Ivesia gordonii",0,0,146,-10,-10,0,0,6.5,3.5,0,0,1,,,
+2021,27,"1229","Arenaria congesta","Arenaria congesta",0,100,64,-10,-10,0,0,11,7,24,0,1,,,
+2021,27,"2257","Agoseris glauca","Agoseris glauca",0,54,100,-10,-10,0,0,7.5,6.5,0,0,1,,,
+2021,27,"2265","Ivesia gordonii","Ivesia gordonii",0,9,152,-15,0,0,0,8.5,4,2,0,1,,,
+2021,27,"2389","Ivesia gordonii","Ivesia gordonii",0,15,121,-10,-10,0,0,4,3,0,0,1,,,
+2021,27,"2771","Elymus lanceolatus","Elymus lanceolatus",0,62,116,-5,-5,0,0,10,11,0,0,1,,,
+2021,27,"2817","Eriogonum umbellatum","Eriogonum umbellatum",0,186,80,0,5,1,0,0,0,0,0,1,,,
+2021,27,"2819","Eriogonum umbellatum","Eriogonum umbellatum",0,102,19,-5,-5,1,0,0,0,0,0,1,,,
+2021,27,"2821","Senecio crassulus","Senecio crassulus",0,16,111,-5,-5,0,0,1.2,2.5,0,0,1,,,
+2021,27,"2822","Eriogonum umbellatum","Eriogonum umbellatum",0,36,109,-3,10,0,0,4.1,0.6,0,0,3,0.9,0.5,
+2021,27,"2823","Eriogonum umbellatum","Eriogonum umbellatum",0,70,106,-5,-5,1,0,0,0,0,0,1,,,
+2021,27,"2825","Eriogonum umbellatum","Eriogonum umbellatum",0,7,166,-5,-5,1,0,0,0,0,0,1,,,
+2021,27,"2826","Agoseris glauca","Agoseris glauca",0,5,170,-5,-5,1,0,0,0,0,0,1,,,
+2021,27,"2879","Elymus lanceolatus","Elymus lanceolatus",0,192,80,9,0,0,0,2,4.5,0,1,1,,,
+2021,27,"531","Eriogonum umbellatum","Eriogonum umbellatum",0,86,0,-30,0,0,0,88,4.5,39,0,1,,,"fairyring"
+2021,27,"533","Eriogonum umbellatum","Eriogonum umbellatum",0,118,55,-10,-10,0,0,25,2.5,9,0,1,,,
+2021,27,"535","Eriogonum umbellatum","Eriogonum umbellatum",0,191,65,-10,-10,0,0,52,3,51,0,1,,,
+2021,27,"536","Eriogonum umbellatum","Eriogonum umbellatum",0,106,97,-10,-10,0,0,18,2.5,4,0,1,,,
+2021,27,"544","Ivesia gordonii","Ivesia gordonii",0,3,171,0,10,0,0,12,4,1,0,1,,,"ant nest"
+2021,27,"545","Eriogonum umbellatum","Eriogonum umbellatum",0,8,163,10,-10,0,0,21.5,2,6,0,1,,,
+2021,27,"548","Eriogonum umbellatum","Eriogonum umbellatum",0,44,110,-10,-10,0,0,73.5,3.5,41,0,1,,,
+2021,27,"550","Elymus lanceolatus","Elymus lanceolatus",0,15,121,-10,-10,0,0,20,15.5,0,0,1,,,"2 clumps"
+2021,27,"552","Elymus lanceolatus","Elymus lanceolatus",0,59,92,-10,0,0,0,7.5,11,0,0,1,,,"4 clumps"
+2021,27,"554","Elymus lanceolatus","Elymus lanceolatus",0,47,114,-5,-5,1,0,0,0,0,0,1,,,
+2021,27,"555","Elymus lanceolatus","Elymus lanceolatus",0,53,129,-10,-10,0,0,2.5,6.5,0,0,1,,,
+2021,27,"557","Elymus lanceolatus","Elymus lanceolatus",0,54,116,-10,-10,0,0,10,6,0,0,1,,,
+2021,28,"2253","Elymus lanceolatus","Elymus lanceolatus",0,48,46,0,10,0,0,29,23.5,8,0,1,,,
+2021,28,"2254","Phacelia hastata","Phacelia hastata",0,71,130,-10,-10,0,0,18,8,7,0,1,,,"aphids, ant nest"
+2021,28,"2391","Elymus lanceolatus","Elymus lanceolatus",0,175,134,-10,-10,0,0,3,7.5,0,0,1,,,
+2021,28,"2433","Ivesia gordonii","Ivesia gordonii",0,178,168,-10,-10,0,0,4.3,2.5,0,0,1,,,
+2021,28,"2491","Elymus lanceolatus","Elymus lanceolatus",0,38,31.5,-5,0,0,0,10,13,0,0,1,,,
+2021,28,"2492","Elymus lanceolatus","Elymus lanceolatus",0,45,27,0,5,0,0,12,13,0,0,1,,,
+2021,28,"2827","Eriogonum umbellatum","Eriogonum umbellatum",0,20,4,-6,-3,1,0,0,0,0,0,1,,,
+2021,28,"2828","Eriogonum umbellatum","Eriogonum umbellatum",0,18,13,-1,-5,1,0,0,0,0,0,1,,,
+2021,28,"2829","Eriogonum umbellatum","Eriogonum umbellatum",0,21,16,5,0,1,0,0,0,0,0,1,,,
+2021,28,"2830","Eriogonum umbellatum","Eriogonum umbellatum",0,21,16,5,0,1,0,0,0,0,0,1,,,
+2021,28,"2831","Senecio crassulus","Senecio crassulus",0,44,18,-5,-5,1,0,0,0,0,0,1,,,
+2021,28,"2832","Eriogonum umbellatum","Eriogonum umbellatum",0,17,40,10,0,1,0,0,0,0,0,1,,,
+2021,28,"2833","Ivesia gordonii","Ivesia gordonii",1,45,50,-5,-5,1,0,0,0,0,0,1,,,"Was maybe CHADOU"
+2021,28,"2834","Eriogonum umbellatum","Eriogonum umbellatum",0,156,130,-10,0,0,0,0.3,0.5,0,0,1,,,
+2021,28,"2835","Arenaria congesta","Arenaria congesta",0,147,127,0,5,0,0,1,0.5,0,0,1,,,
+2021,28,"2836","Eriogonum umbellatum","Eriogonum umbellatum",0,182,135,-10,0,1,0,0,0,0,0,1,,,
+2021,28,"2837","Ivesia gordonii","Ivesia gordonii",1,173,143,-5,-5,1,0,0,0,0,0,1,,,
+2021,28,"2838","Eriogonum umbellatum","Eriogonum umbellatum",0,78,130,-5,-5,1,0,0,0,0,0,1,,,
+2021,28,"2839","Chaenactis douglasii","Chaenactis douglasii",0,76,127,-5,-5,0,0,2.5,3.5,0,0,1,,,"CR 9/22/21 note: ID uncertain assumed to be 0 based on size of plant and scratched out note from 2020"
+2021,28,"2840","Eriogonum umbellatum","Eriogonum umbellatum",0,128,150,-12,-1,0,0,0.6,0.5,0,0,1,,,"in Eriumb; New location and offset"
+2021,28,"2880","Elymus lanceolatus","Elymus lanceolatus",0,140,150,-5,-5,0,0,6,4,0,0,1,,,
+2021,28,"2881","Eriogonum umbellatum","Eriogonum umbellatum",0,196.5,5,-5,0,0,0,2.3,1.7,0,0,1,,,"migrated into plot"
+2021,28,"2882","Eriogonum umbellatum","Eriogonum umbellatum",0,62.5,13,5,0,0,0,0.7,0.5,0,1,1,,,
+2021,28,"2883","Heterotheca villosa","Heterotheca villosa",1,4,33,0,-5,0,0,1.2,0.6,0,1,1,,,
+2021,28,"2884","Agoseris glauca","Agoseris glauca",0,3,33.5,0,-5,0,0,1.5,4,0,1,1,,,
+2021,28,"563","Eriogonum umbellatum","Eriogonum umbellatum",0,27,32,-20,-30,0,0,92,3.5,61,0,1,,,"2 main clumps"
+2021,28,"570","Elymus lanceolatus","Elymus lanceolatus",0,40,23,-10,-10,0,0,22.5,22,3,0,1,,,"3 clumps"
+2021,28,"576","Elymus lanceolatus","Elymus lanceolatus",0,11,41,-10,-10,0,0,35,28,12,0,1,,,
+2021,28,"587","Eriogonum umbellatum","Eriogonum umbellatum",0,162,107,-10,-10,0,0,4.5,1,0,0,1,,,
+2021,28,"589","Eriogonum umbellatum","Eriogonum umbellatum",0,180,140,-10,-10,0,0,43,3,36,0,1,,,"ant nest"
+2021,28,"592","Eriogonum umbellatum","Eriogonum umbellatum",0,149,124,-10,-10,0,0,29.5,4,21,0,1,,,
+2021,28,"596","Elymus lanceolatus","Elymus lanceolatus",0,150,123,10,10,0,0,22,25,4,0,1,,,
+2021,28,"597","Elymus lanceolatus","Elymus lanceolatus",0,146,134,-5,5,0,0,13,12.5,0,0,1,,,
+2021,28,"602","Ivesia gordonii","Ivesia gordonii",0,141,112,-10,10,0,0,9,4.5,6,0,1,,,
+2021,28,"603","Eriogonum umbellatum","Eriogonum umbellatum",0,138,107,-5,-5,1,0,0,0,0,0,1,,,
+2021,28,"605","Eriogonum umbellatum","Eriogonum umbellatum",0,126,149,-10,-10,0,0,41,2.2,80,0,1,,,"ant nest"
+2021,29,"1952","Lupinus argenteus","Lupinus argenteus",0,6,175,-10,-10,1,0,0,0,0,0,1,,,
+2021,29,"2572","Eriogonum umbellatum","Eriogonum umbellatum",0,35,162,-5,-5,0,0,0.8,0.5,0,0,1,,,"New location; CR 9/22/21 note: no offset was recorded, but former offset was scratched out. (-5, -5) assumed."
+2021,29,"2772","Elymus lanceolatus","Elymus lanceolatus",0,17,151,-5,-5,0,0,5,21.5,0,0,1,,,
+2021,29,"2885","Heterotheca villosa","Heterotheca villosa",0,34,159,0,10,0,0,30,12.5,144,0,1,,,"new tag = 2885"
+2021,29,"2886","Agoseris glauca","Agoseris glauca",0,32,165,0,10,0,0,2,6,0,0,1,,,"should be in last year"
+2021,29,"631","Elymus lanceolatus","Elymus lanceolatus",0,138,74,-10,-10,0,0,24.5,23,9,0,1,,,"white spotting on stems"
+2021,29,"655","Eriogonum umbellatum","Eriogonum umbellatum",0,21,145,-10,-10,0,0,53,3,56,0,1,,,"ant nest"
+2021,29,"656","Elymus lanceolatus","Elymus lanceolatus",0,15,159,-10,-10,0,0,15.5,23,4,0,1,,,"2 clumps"
+2021,29,"657","Elymus lanceolatus","Elymus lanceolatus",0,19,167,-10,-10,0,0,9,7,0,0,1,,,"3 clumps"
+2021,29,"659","Elymus lanceolatus","Elymus lanceolatus",0,25,155,-1,5,0,0,13,19.5,2,0,1,,,"2 clumps; new offset"
+2021,29,"660","Elymus lanceolatus","Elymus lanceolatus",0,30,165,-10,-10,0,0,19,23,6,0,1,,,"1 clump; tag not found, not replaced"
+2021,30,"661","Elymus lanceolatus","Elymus lanceolatus",0,39,99,-10,-10,0,0,26,15,3,0,1,,,
+2021,31,"1964","Achnatherum lettermanii","Achnatherum lettermanii",0,118,23,-10,-10,1,0,0,0,0,0,1,,,
+2021,31,"2508","Elymus lanceolatus","Elymus lanceolatus",0,137,26,5,-5,0,0,0.3,3,0,0,1,,,"1 clump"
+2021,31,"2707","Eriogonum umbellatum","Eriogonum umbellatum",0,118,33,-5,-5,0,0,0.5,0.5,0,0,1,,,"Inside Elylan"
+2021,31,"663","Eriogonum umbellatum","Eriogonum umbellatum",0,115,25,-47,-10,0,0,90.5,3,20,0,1,,,"ant nest"
+2021,31,"664","Achnatherum lettermanii","Achnatherum lettermanii",0,102,24,-10,-10,0,0,22,21,47,0,1,,,
+2021,31,"667","Elymus lanceolatus","Elymus lanceolatus",0,115,33,0,-5,0,0,15.5,11.5,0,0,1,,,"horizontal clump"
+2021,31,"668","Elymus lanceolatus","Elymus lanceolatus",0,115,39,3,10,0,0,5.5,12,0,0,1,,,"single clump; new offset"
+2021,31,"670","Elymus lanceolatus","Elymus lanceolatus",0,119,35,0,10,0,0,10.5,24.5,1,0,1,,,"horizontal clump"
+2021,31,"672","Elymus lanceolatus","Elymus lanceolatus",0,133,16,-10,-10,0,0,19,19,2,0,1,,,"2 clumps"
+2021,31,"677","Eriogonum umbellatum","Eriogonum umbellatum",0,50,195,-10,-10,0,0,0.6,0.5,0,0,1,,,"very small"
+2021,32,"1243","Lupinus argenteus","Lupinus argenteus",0,132,94,-10,-10,0,0,6,4.5,0,0,1,,,
+2021,32,"1967","Ivesia gordonii","Ivesia gordonii",0,182,59,-10,-10,0,0,3.2,1.5,0,0,1,,,
+2021,32,"2507","Lupinus argenteus","Lupinus argenteus",0,134,109,-5,-5,0,0,4.5,4,0,0,1,,,"1 clump"
+2021,32,"2773","Ivesia gordonii","Ivesia gordonii",0,123,140,-5,-5,1,0,0,0,0,0,1,,,"killed by cow"
+2021,32,"2774","Ivesia gordonii","Ivesia gordonii",0,122,151,-5,-5,1,0,0,0,0,0,1,,,"killed by cow"
+2021,32,"2887","Ivesia gordonii","Ivesia gordonii",0,184,76,-5,-5,0,0,0.9,1,0,1,1,,,
+2021,32,"2888","Ivesia gordonii","Ivesia gordonii",0,143,151,-5,-5,0,0,0.4,0.5,0,1,1,,,
+2021,32,"2889","Ivesia gordonii","Ivesia gordonii",0,140,141,-5,-5,0,0,1.6,2,0,1,1,,,
+2021,32,"2890","Lupinus argenteus","Lupinus argenteus",0,149,87,5,0,0,0,7.5,4.5,0,0,1,,,
+2021,32,"2891","Heterotheca villosa","Heterotheca villosa",1,141,82,5,0,0,0,0.6,0.2,0,1,1,,,
+2021,32,"683","Eriogonum umbellatum","Eriogonum umbellatum",0,101,0,-5,-5,0,0,7.5,3.5,0,0,1,,,"lots of die back"
+2021,32,"684","Ivesia gordonii","Ivesia gordonii",0,87,19,-10,-10,0,0,11,2,0,0,1,,,
+2021,32,"685","Ivesia gordonii","Ivesia gordonii",0,137,0,-10,0,1,0,0,0,0,0,1,,,
+2021,32,"686","Eriogonum umbellatum","Eriogonum umbellatum",0,121,71,-10,-10,0,0,40,2.5,54,0,1,,,
+2021,32,"688","Ivesia gordonii","Ivesia gordonii",0,125,146,-10,-10,1,0,0,0,0,0,1,,,"killed by cow"
+2021,32,"689","Ivesia gordonii","Ivesia gordonii",0,120,160,-10,-10,1,0,0,0,0,0,1,,,"killed by cow"
+2021,33,"1248","Lupinus argenteus","Lupinus argenteus",0,9,20,-10,-10,1,0,0,0,0,0,1,,,
+2021,33,"1250","Ivesia gordonii","Ivesia gordonii",0,148,54,-5,0,0,0,11,4,2,0,1,,,"ant nest"
+2021,33,"1262","Elymus lanceolatus","Elymus lanceolatus",0,61,196,-10,-10,0,0,19,15,0,0,1,,,"1 clump"
+2021,33,"1641","Ivesia gordonii","Ivesia gordonii",0,132,27,-10,-10,0,0,17,5,1,0,1,,,"ant nest"
+2021,33,"1645","Phacelia hastata","Phacelia hastata",0,20,200,-10,-10,0,0,10.5,5,0,0,1,,,"migrated out of plot"
+2021,33,"1648","Heterotheca villosa","Heterotheca villosa",0,170,101,-10,-10,0,0,13.5,5,3,0,1,,,
+2021,33,"1970","Elymus lanceolatus","Elymus lanceolatus",0,73,180,-10,-10,0,0,17.5,12,0,0,1,,,
+2021,33,"1976","Heterotheca villosa","Heterotheca villosa",0,180,93,-10,-10,0,0,23.5,8,23,0,1,,,
+2021,33,"1989","Elymus lanceolatus","Elymus lanceolatus",0,145,39,-10,-10,0,0,20,22,2,0,1,,,
+2021,33,"2495","Elymus lanceolatus","Elymus lanceolatus",0,145,46,5,-5,0,0,6.5,10,0,0,1,,,
+2021,33,"2496","Ivesia gordonii","Ivesia gordonii",0,50,13,-5,-5,0,0,2.7,2,0,0,1,,,
+2021,33,"2499","Ivesia gordonii","Ivesia gordonii",0,133,194,2,0,1,0,0,0,0,0,1,,,
+2021,33,"2501","Ivesia gordonii","Ivesia gordonii",1,134,183,-5,-5,1,0,0,0,0,0,1,,,
+2021,33,"2502","Ivesia gordonii","Ivesia gordonii",1,127,190,-1,-1,0,0,1.3,1.4,0,0,1,,,
+2021,33,"2503","Ivesia gordonii","Ivesia gordonii",0,129,192,-5,-5,0,0,3,2,0,0,1,,,
+2021,33,"2504","Eriogonum umbellatum","Eriogonum umbellatum",0,170,84,-5,5,1,0,0,0,0,0,1,,,
+2021,33,"2775","Ivesia gordonii","Ivesia gordonii",0,82,195,-5,-5,0,0,3.2,2,0,0,1,,,
+2021,33,"2776","Ivesia gordonii","Ivesia gordonii",0,106,190,0,5,1,0,0,0,0,0,1,,,
+2021,33,"2777","Lupinus argenteus","Lupinus argenteus",0,172,199,-5,-5,0,0,7.5,4.5,0,0,1,,,
+2021,33,"2778","Eriogonum umbellatum","Eriogonum umbellatum",0,101,199,-5,-5,1,0,0,0,0,0,1,,,
+2021,33,"2779","Eriogonum umbellatum","Eriogonum umbellatum",0,108,189,-5,-5,0,0,1.8,0.8,0,0,1,,,
+2021,33,"2780","Eriogonum umbellatum","Eriogonum umbellatum",0,73,193,-5,-5,0,0,0.4,0.5,0,0,1,,,
+2021,33,"2843","Senecio crassulus","Senecio crassulus",1,7,36,-5,-5,1,0,0,0,0,0,1,,,"2020 note: Pale green, maybe AGOGLA"
+2021,33,"2844","Eriogonum umbellatum","Eriogonum umbellatum",0,15,54,18,0,1,0,0,0,0,0,1,,,"All in Eriumb"
+2021,33,"2845","Senecio crassulus","Senecio crassulus",0,25,42,-5,-5,1,0,0,0,0,0,1,,,
+2021,33,"2846","Senecio crassulus","Senecio crassulus",0,139,47,-5,-5,1,0,0,0,0,0,1,,,
+2021,33,"2847","Eriogonum umbellatum","Eriogonum umbellatum",0,186,81,-5,-5,1,0,0,0,0,0,1,,,
+2021,33,"2848","Eriogonum umbellatum","Eriogonum umbellatum",0,64,158,-5,-5,1,0,0,0,0,0,1,,,
+2021,33,"2849","Eriogonum umbellatum","Eriogonum umbellatum",0,2,100,-5,-5,1,0,0,0,0,0,1,,,
+2021,33,"2850","Eriogonum umbellatum","Eriogonum umbellatum",0,9,131,-10,-5,0,0,1.2,1,0,0,1,,,
+2021,33,"2851","Eriogonum umbellatum","Eriogonum umbellatum",0,40,172,-10,-10,0,0,23,1,0,0,6,0.6,0.5,
+2021,33,"2852","Senecio crassulus","Senecio crassulus",0,43,185,5,0,1,0,0,0,0,0,1,,,
+2021,33,"2853","Eriogonum umbellatum","Eriogonum umbellatum",0,121,150,-10,0,0,0,28,1.5,0,0,4,1,1,"in lower eriumb patch"
+2021,33,"2855","Senecio crassulus","Senecio crassulus",0,103,142,-5,-5,1,0,0,0,0,0,1,,,
+2021,33,"2856","Eriogonum umbellatum","Eriogonum umbellatum",0,95,179,-10,0,0,0,13,1.5,0,0,4,1.2,0.5,"In upper ERIUMB patch"
+2021,33,"2857","Senecio crassulus","Senecio crassulus",1,127,194,0,5,1,0,0,0,0,0,1,,,
+2021,33,"2892","Ivesia gordonii","Ivesia gordonii",0,144,63,0,5,0,0,1,1,0,1,1,,,
+2021,33,"2893","Heterotheca villosa","Heterotheca villosa",1,4,34.5,0,-5,0,0,0.5,0.7,0,1,1,,,
+2021,33,"2894","Poa stenantha","Poa stenantha",1,22,54,-5,5,0,0,1,6,0,1,1,,,
+2021,33,"2895","Poa stenantha","Poa stenantha",1,24,55,-5,5,0,0,1,4.5,0,1,1,,,
+2021,33,"2896","Poa stenantha","Poa stenantha",1,33,60,0,5,0,0,0.5,2.5,0,1,1,,,
+2021,33,"2897","Heterotheca villosa","Heterotheca villosa",0,56,153,-5,-5,0,0,0.9,0.5,0,1,1,,,
+2021,33,"2898","Heterotheca villosa","Heterotheca villosa",0,82,198,-5,-5,0,0,0.6,0.3,0,1,1,,,
+2021,33,"2899","Heterotheca villosa","Heterotheca villosa",1,122,167,5,5,0,0,0.8,0.3,0,1,1,,,
+2021,33,"2900","Elymus lanceolatus","Elymus lanceolatus",0,121,167,-2,-5,0,0,1,3,0,1,1,,,
+2021,33,"692","Eriogonum umbellatum","Eriogonum umbellatum",0,21,47,-16,-25,0,0,70.5,4.5,112,0,1,,,
+2021,33,"695","Achnatherum lettermanii","Achnatherum lettermanii",0,25,46,-10,-10,0,0,10.5,9,0,0,1,,,
+2021,33,"705","Ivesia gordonii","Ivesia gordonii",0,142,47,-5,-5,0,0,12,4,3,0,1,,,"ant nest"
+2021,33,"715","Eriogonum umbellatum","Eriogonum umbellatum",0,175,84,-10,-10,0,0,17.5,2.5,3,0,1,,,
+2021,33,"716","Eriogonum umbellatum","Eriogonum umbellatum",0,194,81,-5,-15,0,0,49,4,40,0,1,,,
+2021,33,"717","Ivesia gordonii","Ivesia gordonii",0,196,76,-10,-10,0,0,20.5,7.5,7,0,1,,,
+2021,33,"724","Ivesia gordonii","Ivesia gordonii",0,127,197,-10,-10,1,0,0,0,0,0,1,,,
+2021,33,"725","Ivesia gordonii","Ivesia gordonii",0,117,187,-10,-10,1,0,0,0,0,0,1,,,
+2021,33,"731","Heterotheca villosa","Heterotheca villosa",0,114,144,-10,-10,0,0,19,8,7,0,1,,,
+2021,33,"732","Eriogonum umbellatum","Eriogonum umbellatum",0,105,166,-30,-15,0,0,89,4.5,66,0,1,,,"probably 2 indivs w/diff phenology"
+2021,33,"736","Elymus lanceolatus","Elymus lanceolatus",0,92,186,-2,-5,0,0,3.5,8,0,0,1,,,
+2021,33,"737","Elymus lanceolatus","Elymus lanceolatus",0,91,190,-10,-10,0,0,2.5,7,0,0,1,,,
+2021,33,"746","Eriogonum umbellatum","Eriogonum umbellatum",0,32,178,-10,-10,0,0,45,3.5,51,0,1,,,
+2021,33,"747","Eriogonum umbellatum","Eriogonum umbellatum",0,20,124,-25,-20,0,0,54,3.5,11,0,1,,,"Fairy ring plant. Die back. Has ant nest; 2 clumps"
+2021,33,"748","Poa stenantha","Poa stenantha",1,17,129,-10,-10,0,0,12,14.5,5,0,1,,,
+2021,33,"749","Elymus lanceolatus","Elymus lanceolatus",0,18,137,-10,-10,0,0,17,20,13,0,1,,,
+2021,33,"750","Elymus lanceolatus","Elymus lanceolatus",0,14,105,-2,-10,0,0,1.5,17,1,0,1,,,"CR 9/17/21 confirmed that 17 cm is the recorded height"
+2021,34,"1992","Elymus lanceolatus","Elymus lanceolatus",0,118,54,-10,-10,0,0,32,30,5,0,1,,,
+2021,34,"1993","Phacelia hastata","Phacelia hastata",0,119,56,-10,-10,0,0,35,8.5,27,0,1,,,
+2021,34,"2394","Chaenactis douglasii","Chaenactis douglasii",0,108,51,-10,-10,0,0,13,10,11,0,1,,,
+2021,34,"2564","Eriogonum umbellatum","Eriogonum umbellatum",0,112,59,-17,0,0,0,1,0.5,0,0,1,,,
+2021,34,"2565","Senecio crassulus","Senecio crassulus",1,110,64,-10,-3,0,0,2.5,4,0,0,2,1.5,2.7,
+2021,34,"2901","Poa stenantha","Poa stenantha",0,90,176,13,1,0,0,4.5,1.5,0,1,1,,,
+2021,34,"751","Eriogonum umbellatum","Eriogonum umbellatum",0,121,46,-10,-10,0,0,51,3.5,69,0,1,,,
+2021,34,"752","Elymus lanceolatus","Elymus lanceolatus",0,117,54,-10,-10,0,0,24,24,7,0,1,,,"Separated from 1992 by PHAHAS"
+2021,34,"753","Eriogonum umbellatum","Eriogonum umbellatum",0,91,197,-10,-10,0,0,7.5,1.5,1,0,1,,,
+2021,34,"754","Eriogonum umbellatum","Eriogonum umbellatum",0,84,174,-10,-10,0,0,49.5,2.5,78,0,1,,,"ant nest"
+2021,34,"755","Elymus lanceolatus","Elymus lanceolatus",0,31,200,-5,-5,0,0,14,13,0,0,1,,,"Offplot; Remeasured Aug 16, 2021"
+2021,34,"756","Elymus lanceolatus","Elymus lanceolatus",0,28,200,-10,-10,0,0,28,26.5,9,0,1,,,"Measured Aug 16, 2021"
+2021,34,"757","Elymus lanceolatus","Elymus lanceolatus",0,33,197,-5,-5,0,0,10.5,11,0,0,1,,,"Tag found and moved to standard offset; 2 clumps; Remeasured Aug 16, 2021"
+2021,34,"759","Eriogonum umbellatum","Eriogonum umbellatum",0,0,178,0,-10,0,0,40,4.5,26,0,1,,,
+2021,36,"2003","Eriogonum umbellatum","Eriogonum umbellatum",0,97,157,-10,-10,0,0,63.5,2.5,65,0,1,,,"ant nest"
+2021,36,"2291","Arnica latifolia","Arnica latifolia",0,106,145,-7,-5,0,0,5.5,6,0,0,1,,,
+2021,36,"2293","Arnica latifolia","Arnica latifolia",0,98,166,-10,-10,0,0,4.6,5,0,0,1,,,
+2021,36,"2294","Arnica latifolia","Arnica latifolia",0,102,158,-10,-10,0,0,10,5.5,0,0,1,,,
+2021,36,"2295","Ivesia gordonii","Ivesia gordonii",0,106,155,0,5,0,0,6,5,0,0,1,,,
+2021,36,"2396","Poa stenantha","Poa stenantha",0,106,152,-10,-10,0,0,24,14,7,0,1,,,
+2021,36,"2509","Arnica latifolia","Arnica latifolia",0,114,148,0,-5,0,0,4,4.5,0,0,1,,,"New offset"
+2021,36,"2640","Arnica latifolia","Arnica latifolia",1,100,155.5,4,-1,1,0,0,0,0,0,1,,,
+2021,36,"2902","Heterotheca villosa","Heterotheca villosa",1,112,159,5,5,0,0,0.9,0.4,0,1,1,,,
+2021,36,"2903","Agoseris glauca","Agoseris glauca",0,106,152,18,0,0,0,1.3,3,0,1,1,,,
+2021,36,"2904","Poa stenantha","Poa stenantha",1,93,168,-18,0,0,0,0.9,4,0,1,1,,,
+2021,36,"2905","Eriogonum umbellatum","Eriogonum umbellatum",0,95,165,5,0,0,0,0.9,0.4,0,1,1,,,
+2021,36,"763","Eriogonum umbellatum","Eriogonum umbellatum",0,74,5,-10,-10,0,0,10,1.5,1,0,1,,,
+2021,36,"769","Elymus lanceolatus","Elymus lanceolatus",0,76,26,-10,10,0,0,15,11,0,0,1,,,"2 clumps"
+2021,36,"770","Eriogonum umbellatum","Eriogonum umbellatum",0,142,0,-35,-15,0,0,80,3.5,81,0,1,,,"ant nest"
+2021,36,"771","Poa stenantha","Poa stenantha",0,153,21,-10,-10,0,0,31,20.5,10,0,1,,,
+2021,36,"774","Eriogonum umbellatum","Eriogonum umbellatum",0,190,34,-10,-10,0,0,0.2,0.3,0,0,1,,,"dying"
+2021,36,"781","Arnica latifolia","Arnica latifolia",0,99,176,0,10,0,0,14.5,7,1,0,1,,,"New offset"
+2021,36,"782","Elymus lanceolatus","Elymus lanceolatus",0,104,162,-10,-10,0,0,3,15,0,0,1,,,"1 clump"
+2021,36,"784","Agoseris glauca","Agoseris glauca",0,110,150,-10,-10,0,0,3,3.5,0,0,1,,,
+2021,36,"786","Achnatherum lettermanii","Achnatherum lettermanii",0,106,134,-10,-10,0,0,10.5,8.5,1,0,1,,,
+2021,37,"1287","Ivesia gordonii","Ivesia gordonii",0,54,36,-10,-10,1,0,0,0,0,0,1,,,"cow kill"
+2021,37,"1288","Eriogonum umbellatum","Eriogonum umbellatum",0,50,49,-10,-10,1,0,0,0,0,0,1,,,
+2021,37,"1300","Ivesia gordonii","Ivesia gordonii",0,97,110,-10,-10,0,0,4.8,2,0,0,1,,,
+2021,37,"1316","Ivesia gordonii","Ivesia gordonii",0,132,159,-10,-10,0,0,9.7,4,1,0,1,,,
+2021,37,"1659","Heterotheca villosa","Heterotheca villosa",0,78,91,-10,-10,0,0,9,3,0,0,1,,,
+2021,37,"1663","Heterotheca villosa","Heterotheca villosa",0,118,172,0,10,1,0,0,0,0,0,1,,,
+2021,37,"1664","Heterotheca villosa","Heterotheca villosa",0,116,156,-10,-10,1,0,0,0,0,0,1,,,"dead tag not found"
+2021,37,"2005","Poa stenantha","Poa stenantha",0,50,0,-10,-10,1,0,0,0,0,0,1,,,
+2021,37,"2018","Eriogonum umbellatum","Eriogonum umbellatum",0,59,60,-10,-10,0,0,1.3,1.1,0,0,1,,,
+2021,37,"2027","Senecio crassulus","Senecio crassulus",0,84,102,-10,-10,1,0,0,0,0,0,1,,,"cow kill"
+2021,37,"2028","Ivesia gordonii","Ivesia gordonii",0,76,102,-10,-10,0,0,7.7,3.5,0,0,1,,,
+2021,37,"2030","Ivesia gordonii","Ivesia gordonii",0,48,142,-10,-10,1,0,0,0,0,0,1,,,
+2021,37,"2033","Lupinus argenteus","Lupinus argenteus",0,96,147,-10,-10,0,0,5,4,0,0,1,,,
+2021,37,"2035","Ivesia gordonii","Ivesia gordonii",0,110,156,-10,-10,0,0,17,4.5,0,0,1,,,"2 clumps"
+2021,37,"2284","Eriogonum umbellatum","Eriogonum umbellatum",0,50,78,-10,-10,0,0,2.4,1,0,0,1,,,
+2021,37,"2285","Ivesia gordonii","Ivesia gordonii",0,73,61,-10,-10,1,0,0,0,0,0,1,,,"cow kill"
+2021,37,"2288","Lupinus argenteus","Lupinus argenteus",0,121,150,0,5,0,0,10,6.5,0,0,1,,,"1 stem; new offset"
+2021,37,"2290","Ivesia gordonii","Ivesia gordonii",0,141,131,-10,-10,1,0,0,0,0,0,1,,,"cow kill"
+2021,37,"2397","Lupinus argenteus","Lupinus argenteus",0,19,200,-10,-10,0,0,11.5,8.5,0,0,1,,,
+2021,37,"2510","Ivesia gordonii","Ivesia gordonii",0,7,196,-5,-5,0,0,0.8,1,0,0,1,,,
+2021,37,"2518","Ivesia gordonii","Ivesia gordonii",0,104,107,0,-5,1,0,0,0,0,0,1,,,
+2021,37,"2607","Ivesia gordonii","Ivesia gordonii",0,67,49,-5,-5,1,0,0,0,0,0,1,,,"cow kill"
+2021,37,"2608","Ivesia gordonii","Ivesia gordonii",0,89,100,-5,-5,1,0,0,0,0,0,1,,,"cow kill"
+2021,37,"2613","Lupinus argenteus","Lupinus argenteus",0,188,143,-5,-5,0,0,6,4,0,0,1,,,"best one"
+2021,37,"2614","Senecio crassulus","Senecio crassulus",1,111,167,0,10,1,0,0,0,0,0,1,,,"dead tag missing"
+2021,37,"2906","Poa stenantha","Poa stenantha",0,85,98,-5,-5,0,0,4,3.5,0,1,1,,,
+2021,37,"2907","Eriogonum umbellatum","Eriogonum umbellatum",0,138,156,-5,-5,0,0,0.7,0.2,0,1,1,,,
+2021,37,"790","Ivesia gordonii","Ivesia gordonii",0,63,13,-10,-10,1,0,0,0,0,0,1,,,
+2021,37,"793","Ivesia gordonii","Ivesia gordonii",0,75,44,-10,-10,1,0,0,0,0,0,1,,,"cow kill"
+2021,37,"798","Ivesia gordonii","Ivesia gordonii",0,52,80,-10,-10,0,0,14,4,6,0,1,,,
+2021,37,"808","Ivesia gordonii","Ivesia gordonii",0,146,163,-10,-10,1,0,0,0,0,0,1,,,"cow kill"
+2021,37,"809","Ivesia gordonii","Ivesia gordonii",0,117,163,0,10,1,0,0,0,0,0,1,,,"New offset"
+2021,37,"810","Ivesia gordonii","Ivesia gordonii",0,105,169,-10,-10,1,0,0,0,0,0,1,,,
+2021,37,"814","Ivesia gordonii","Ivesia gordonii",0,62,116,-10,-10,1,0,0,0,0,0,1,,,
+2021,37,"815","Ivesia gordonii","Ivesia gordonii",0,83,121,-10,-10,1,0,0,0,0,0,1,,,
+2021,37,"816","Eriogonum umbellatum","Eriogonum umbellatum",0,103,128,-10,-10,0,0,16.5,1.5,0,0,1,,,
+2021,37,"818","Heterotheca villosa","Heterotheca villosa",0,103,115,-10,-10,1,0,0,0,0,0,1,,,
+2021,37,"820","Ivesia gordonii","Ivesia gordonii",0,89,105,-10,-10,1,0,0,0,0,0,1,,,"cow kill"
+2021,37,"822","Ivesia gordonii","Ivesia gordonii",0,83,83,-10,-10,1,0,0,0,0,0,1,,,"cow kill"
+2021,37,"823","Ivesia gordonii","Ivesia gordonii",0,103,108,-10,-10,1,0,0,0,0,0,1,,,"cow kill"
+2021,37,"824","Ivesia gordonii","Ivesia gordonii",0,104,99,-10,-10,1,0,0,0,0,0,1,,,"cow kill"
+2021,39,"827","Eriogonum umbellatum","Eriogonum umbellatum",0,51,70,-10,-10,0,0,14.5,1,5,0,1,,,
+2021,40,"1321","Eriogonum umbellatum","Eriogonum umbellatum",0,0,11,-10,-10,0,0,5,1.7,0,0,1,,,
+2021,40,"2047","Elymus lanceolatus","Elymus lanceolatus",0,48,16,-10,-10,0,0,24.5,22.5,7,0,1,,,
+2021,40,"2781","Senecio crassulus","Senecio crassulus",0,46,15,-5,-5,1,0,0,0,0,0,1,,,
+2021,40,"2908","Eriogonum umbellatum","Eriogonum umbellatum",0,103,141,-5,-5,0,0,1,0.5,0,1,1,,,
+2021,40,"2909","Ivesia gordonii","Ivesia gordonii",0,95,151,-5,-5,0,0,1,0.5,0,1,1,,,
+2021,40,"834","Elymus lanceolatus","Elymus lanceolatus",0,62,0,0,5,0,0,25,23.5,1,0,1,,,
+2021,41,"2048","Ivesia gordonii","Ivesia gordonii",0,30,12,-10,-10,1,0,0,0,0,0,1,,,
+2021,41,"2049","Arenaria congesta","Arenaria congesta",0,67,52,-10,-10,1,0,0,0,0,0,1,,,
+2021,41,"2051","Heterotheca villosa","Heterotheca villosa",0,126,128,-10,-10,0,0,19,7,5,0,1,,,"ant nest"
+2021,41,"2053","Senecio crassulus","Senecio crassulus",0,112,154,-10,-10,0,0,15.5,5,0,0,1,,,
+2021,41,"2054","Heterotheca villosa","Heterotheca villosa",0,157,162,-10,-10,0,0,18.5,8,11,0,1,,,
+2021,41,"2057","Arenaria congesta","Arenaria congesta",0,150,187,-10,-10,1,0,0,0,0,0,1,,,"dead tag missing"
+2021,41,"2292","Elymus lanceolatus","Elymus lanceolatus",0,125,133,-10,-10,0,0,4,7,0,0,1,,,
+2021,41,"2303","Arenaria congesta","Arenaria congesta",0,0,83,-10,-10,0,0,8.5,5,3,0,1,,,"off plot"
+2021,41,"2304","Arenaria congesta","Arenaria congesta",0,1,78,-10,-10,1,0,0,0,0,0,1,,,
+2021,41,"2400","Heterotheca villosa","Heterotheca villosa",0,175,176,-10,-10,0,0,13.5,8,12,0,1,,,
+2021,41,"2643","Senecio crassulus","Senecio crassulus",0,151,175,-7,-3,1,0,0,0,0,0,1,,,
+2021,41,"2644","Heterotheca villosa","Heterotheca villosa",0,165,189,-4,-1,1,0,0,0,0,0,1,,,
+2021,41,"2645","Eriogonum umbellatum","Eriogonum umbellatum",0,167,176,3,-2,0,0,1.5,1.5,0,0,1,,,
+2021,41,"2782","Senecio crassulus","Senecio crassulus",0,2,78,-5,-5,1,0,0,0,0,0,1,,,
+2021,41,"2783","Penstemon whippleanus","Penstemon whippleanus",0,174,176,5,5,1,0,0,0,0,0,1,,,"New location"
+2021,41,"2858","Heterotheca villosa","Heterotheca villosa",0,158,196,-5,-5,1,0,0,0,0,0,1,,,
+2021,41,"2910","Senecio crassulus","Senecio crassulus",0,6,112,5,0,0,0,1.3,1,0,1,1,,,
+2021,41,"2911","Phacelia hastata","Phacelia hastata",0,157,177,-5,-5,0,0,2,1.4,0,1,1,,,
+2021,41,"2912","Phacelia hastata","Phacelia hastata",0,170,178,0,-5,0,0,4.7,2.5,0,1,1,,,
+2021,41,"848","Eriogonum umbellatum","Eriogonum umbellatum",0,169,187,-10,-10,0,0,87.5,3,30,0,1,,,"Fairy ring clump above included in flower count"
+2021,41,"859","Arenaria congesta","Arenaria congesta",0,25,148,-10,-10,0,0,10.5,5,14,0,1,,,
+2021,41,"860","Elymus lanceolatus","Elymus lanceolatus",0,0,112,-5,-5,0,0,29.5,24.5,11,0,1,,,
+2021,41,"862","Eriogonum umbellatum","Eriogonum umbellatum",0,3,85,-10,-10,0,0,9.7,2,1,0,1,,,
+2021,42,"2516","Phacelia hastata","Phacelia hastata",0,7,180,-5,-5,0,0,10,4.5,1,0,1,,,
+2021,42,"2629","Senecio crassulus","Senecio crassulus",1,0,71,5,-5,1,0,0,0,0,0,1,,,
+2021,42,"865","Eriogonum umbellatum","Eriogonum umbellatum",0,0,64,0,-10,0,0,43.5,4,35,0,1,,,"Fairy ring, 4 clumps"
+2021,45,"2913","Heterotheca villosa","Heterotheca villosa",0,0,22,-5,-5,0,0,25.5,8.5,54,0,1,,,"Now in plot was off before; CR 10/6/21 measured plant location using imagej and the orthophoto. Confirm location in 2022."
+2021,45,"874","Eriogonum umbellatum","Eriogonum umbellatum",0,71,53,-10,-10,0,0,20,2,2,0,1,,,
+2021,45,"876","Ivesia gordonii","Ivesia gordonii",0,33,118,-10,-10,0,0,18,5.5,0,0,1,,,"flowers eaten"
+2021,46,"1002","Elymus lanceolatus","Elymus lanceolatus",0,160,149,0,-1,0,0,8,11,0,0,1,,,"1 clump, new offset"
+2021,46,"1007","Elymus lanceolatus","Elymus lanceolatus",0,170,168,-10,-10,0,0,29,27,17,0,1,,,
+2021,46,"1009","Carex siccata","Carex siccata",0,180,178,-5,-5,1,0,0,0,0,0,1,,,"2 clumps in 2020"
+2021,46,"1014","Eriogonum umbellatum","Eriogonum umbellatum",0,100,175,-10,-10,0,0,8.5,1.5,0,0,1,,,"ant nest"
+2021,46,"1019","Eriogonum umbellatum","Eriogonum umbellatum",0,133,143,-10,-10,0,0,1.8,0.5,0,0,1,,,
+2021,46,"1020","Carex siccata","Carex siccata",0,27,127,-10,-10,0,0,11.5,11.5,0,0,1,,,
+2021,46,"1022","Carex siccata","Carex siccata",0,34,113,-3,-2,1,0,0,0,0,0,1,,,"1 clump in 2020"
+2021,46,"1446","Agoseris glauca","Agoseris glauca",0,51,8,-10,-10,0,0,8.8,4.5,1,0,1,,,
+2021,46,"1452","Arenaria congesta","Arenaria congesta",0,73,7,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"1453","Senecio crassulus","Senecio crassulus",0,79,16,-10,-10,0,0,0.7,1.3,0,0,1,,,
+2021,46,"1454","Senecio crassulus","Senecio crassulus",0,85,15.5,-10,-10,1,0,0,0,0,0,1,,,"Was 3 stems in 2020"
+2021,46,"1462","Senecio crassulus","Senecio crassulus",0,76,50,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"1473","Arenaria congesta","Arenaria congesta",0,88,32,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"1477","Phacelia hastata","Phacelia hastata",0,125,46,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"1478","Ivesia gordonii","Ivesia gordonii",0,125,32,-2,-5,1,0,0,0,0,0,1,,,
+2021,46,"1481","Senecio crassulus","Senecio crassulus",0,129,19,-10,-10,0,0,19,11,0,0,1,,,"happy"
+2021,46,"1483","Agoseris glauca","Agoseris glauca",0,145,11,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"1507","Arenaria congesta","Arenaria congesta",0,183,92,-5,0,0,0,14.5,6.5,5,0,1,,,"Tag was not found on the re-census datasheet…possible script error"
+2021,46,"1513","Eriogonum umbellatum","Eriogonum umbellatum",0,126,98,-10,-10,0,0,4.6,0.7,0,0,1,,,
+2021,46,"1529","Agoseris glauca","Agoseris glauca",0,195,155,-10,-2,0,0,2.5,2,0,0,1,,,
+2021,46,"1533","Heterotheca villosa","Heterotheca villosa",0,178,118,2,-1,0,0,10.5,6,1,0,1,,,
+2021,46,"1684","Ivesia gordonii","Ivesia gordonii",0,52,28,-10,-10,0,0,16,4.5,1,0,1,,,
+2021,46,"1685","Senecio crassulus","Senecio crassulus",0,50,19,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"1686","Senecio crassulus","Senecio crassulus",0,31,68,-10,-10,0,0,21,16,9,0,1,,,
+2021,46,"1689","Carex siccata","Carex siccata",0,34,132,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"1714","Arnica latifolia","Arnica latifolia",0,107,128,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"1717","Senecio crassulus","Senecio crassulus",0,184,129,-10,-10,0,0,4.5,7.5,0,0,1,,,
+2021,46,"1719","Viola praemorsa","Viola praemorsa",0,177,141,-5,-5,0,0,4,4.5,0,0,1,,,"tag not found. No new tag put in."
+2021,46,"1726","Senecio crassulus","Senecio crassulus",0,158,132,-10,-10,0,0,3.7,6,0,0,1,,,
+2021,46,"1733","Carex siccata","Carex siccata",0,184,151,-10,-10,0,0,19,21,0,0,1,,,"3 clumps"
+2021,46,"2091","Arenaria congesta","Arenaria congesta",0,66,75,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"2109","Arenaria congesta","Arenaria congesta",0,58,3,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"2111","Arenaria congesta","Arenaria congesta",0,50,18,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"2113","Agoseris glauca","Agoseris glauca",0,60,24,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2115","Phacelia hastata","Phacelia hastata",0,70,10,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"2117","Ivesia gordonii","Ivesia gordonii",0,84,38,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"2121","Ivesia gordonii","Ivesia gordonii",0,122,4,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"2133","Carex siccata","Carex siccata",0,194,45,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"2160","Eriogonum umbellatum","Eriogonum umbellatum",0,118,124,-10,-10,0,0,4.8,1.8,0,0,1,,,
+2021,46,"2164","Arenaria congesta","Arenaria congesta",0,143,92,-10,-10,0,0,0.5,1,0,0,1,,,
+2021,46,"2165","Arenaria congesta","Arenaria congesta",0,147,124,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"2169","Carex siccata","Carex siccata",0,183,163,-5,-5,0,0,13.5,16,0,0,1,,,"3 clumps"
+2021,46,"2170","Arenaria congesta","Arenaria congesta",0,167,132,-10,-10,0,0,11,5.5,0,0,1,,,
+2021,46,"2171","Carex siccata","Carex siccata",0,193,109,-10,-10,1,0,0,0,0,0,1,,,"herbivory, 2 clumps"
+2021,46,"2172","Eriogonum umbellatum","Eriogonum umbellatum",0,158,121,-10,-10,0,0,6,2,0,0,1,,,"below 990"
+2021,46,"2173","Eriogonum umbellatum","Eriogonum umbellatum",0,164,124,0,-5,0,0,1.8,1.1,0,0,1,,,
+2021,46,"2311","Viola praemorsa","Viola praemorsa",0,79,62,-10,-10,0,0,6,5.5,2,0,1,,,
+2021,46,"2315","Carex siccata","Carex siccata",0,87,54,-10,-10,0,0,35,22,0,0,1,,,"2 clumps, lower clump 18 cm down"
+2021,46,"2316","Eriogonum umbellatum","Eriogonum umbellatum",0,114,50,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"2319","Arenaria congesta","Arenaria congesta",0,150,11,0,-5,0,0,10.5,4,0,0,1,,,
+2021,46,"2326","Senecio crassulus","Senecio crassulus",0,194,34,0,5,0,0,13.5,10,0,0,1,,,
+2021,46,"2337","Senecio crassulus","Senecio crassulus",0,134,81,-10,-10,0,0,21,18.5,11,0,1,,,"healthy"
+2021,46,"2341","Agoseris glauca","Agoseris glauca",0,151,116,-5,-5,0,0,6.5,6.5,0,0,1,,,
+2021,46,"2345","Lupinus argenteus","Lupinus argenteus",0,196,157,-10,-10,0,0,1.5,2,0,0,1,,,
+2021,46,"2350","Ivesia gordonii","Ivesia gordonii",0,116,152,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"2401","Carex siccata","Carex siccata",0,28,103,-2,-2,1,0,0,0,0,0,1,,,
+2021,46,"2404","Carex siccata","Carex siccata",0,191,18,10,0,1,0,0,0,0,0,1,,,"runs along right side of plot"
+2021,46,"2405","Heterotheca villosa","Heterotheca villosa",0,100,168,-10,-10,0,0,23.5,7.5,37,0,1,,,
+2021,46,"2408","Carex siccata","Carex siccata",0,164,156,-5,-5,0,0,8.5,7.5,0,0,1,,,"1 clump"
+2021,46,"2410","Eriogonum umbellatum","Eriogonum umbellatum",0,117,147,-5,-5,0,0,17.5,2,0,0,1,,,"fairyring"
+2021,46,"2412","Arenaria congesta","Arenaria congesta",0,31,15,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"2413","Arenaria congesta","Arenaria congesta",0,37,20,-10,-10,0,0,14,8.5,16,0,1,,,
+2021,46,"2414","Agoseris glauca","Agoseris glauca",0,20,31,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2415","Carex siccata","Carex siccata",0,166,5,0,5,0,0,10.5,12,0,0,1,,,"2 clumps"
+2021,46,"2416","Carex siccata","Carex siccata",0,176,31,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2417","Elymus lanceolatus","Elymus lanceolatus",0,103,26,-5,-5,0,0,10,8.5,0,0,1,,,"1 clump; new species ID=Elylan"
+2021,46,"2420","Phacelia hastata","Phacelia hastata",0,83,105,0,10,1,0,0,0,0,0,1,,,
+2021,46,"2423","Senecio crassulus","Senecio crassulus",0,163,129,5,0,0,0,9,10,0,0,1,,,
+2021,46,"2426","Arenaria congesta","Arenaria congesta",0,178,81,-10,-10,0,0,6,2.5,0,0,1,,,
+2021,46,"2428","Carex siccata","Carex siccata",0,181,85,-10,-10,0,0,18.5,15,0,0,1,,,"4 clumps"
+2021,46,"2429","Carex siccata","Carex siccata",0,185,70,-10,-10,1,0,0,0,0,0,1,,,"1 clump in 2020"
+2021,46,"2430","Elymus lanceolatus","Elymus lanceolatus",0,134,29,-10,-10,1,0,0,0,0,0,1,,,"1 clump in 2020"
+2021,46,"2431","Ivesia gordonii","Ivesia gordonii",0,130,33,0,-5,1,0,0,0,0,0,1,,,
+2021,46,"2432","Agoseris glauca","Agoseris glauca",0,130,38,-10,0,1,0,0,0,0,0,1,,,
+2021,46,"2455","Carex siccata","Carex siccata",0,3,4,6,0,1,0,0,0,0,0,1,,,
+2021,46,"2457","Ivesia gordonii","Ivesia gordonii",0,89,28,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2459","Senecio crassulus","Senecio crassulus",0,122,28,-5,-5,0,0,2,4,0,0,1,,,
+2021,46,"2463","Carex siccata","Carex siccata",0,187,100,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2464","Eriogonum umbellatum","Eriogonum umbellatum",0,178,115,0,-5,0,0,1.3,0.6,0,0,1,,,
+2021,46,"2465","Eriogonum umbellatum","Eriogonum umbellatum",0,176,125,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2466","Eriogonum umbellatum","Eriogonum umbellatum",0,183,121,0,-5,0,0,1.5,1.5,0,0,1,,,
+2021,46,"2467","Agoseris glauca","Agoseris glauca",0,186,133,0,-5,0,0,3.1,3.5,0,0,1,,,
+2021,46,"2469","Senecio crassulus","Senecio crassulus",0,167,111,-5,-5,0,0,7.1,3,0,0,1,,,"Wilted"
+2021,46,"2471","Elymus lanceolatus","Elymus lanceolatus",0,73,96,-5,-5,0,0,14,12.5,0,0,1,,,
+2021,46,"2474","Carex siccata","Carex siccata",0,97,95,0,-5,0,0,24,20,0,0,1,,,"New ID=CARSIC"
+2021,46,"2476","Carex siccata","Carex siccata",0,82,68,-5,-5,0,0,15.5,18,0,0,1,,,
+2021,46,"2478","Viola praemorsa","Viola praemorsa",0,99,21.5,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2481","Agoseris glauca","Agoseris glauca",0,120,80,-5,-5,0,0,8.5,7.5,1,0,1,,,
+2021,46,"2521","Eriogonum umbellatum","Eriogonum umbellatum",0,157,105,-5,-5,0,0,1.2,1,0,0,1,,,
+2021,46,"2583","Eriogonum umbellatum","Eriogonum umbellatum",0,114,146,-5,-5,0,0,1.3,0.8,0,0,1,,,
+2021,46,"2737","Senecio crassulus","Senecio crassulus",0,56,3,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2740","Agoseris glauca","Agoseris glauca",1,198,17,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2741","Eriogonum umbellatum","Eriogonum umbellatum",1,200,34,-5,5,1,0,0,0,0,0,1,,,
+2021,46,"2742","Agoseris glauca","Agoseris glauca",1,199,39,-5,-5,1,0,0,0,0,0,1,,,"Offset may be (-5,0), unclear from 2021 datasheet"
+2021,46,"2744","Senecio crassulus","Senecio crassulus",0,126,42,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2745","Senecio crassulus","Senecio crassulus",0,135,42,5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2746","Eriogonum umbellatum","Eriogonum umbellatum",0,127,41,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2747","Agoseris glauca","Agoseris glauca",0,120,44,-5,-5,1,0,0,0,0,0,1,,,"Offset unclear on the 2021 datasheet, but is likely (-5,-5), two stems in 2020"
+2021,46,"2749","Agoseris glauca","Agoseris glauca",0,112.5,76,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2750","Arenaria congesta","Arenaria congesta",0,186,108,-5,-5,0,0,13,0.5,0,0,11,0.7,0.5,"None grows w/in a plant"
+2021,46,"2751","Arenaria congesta","Arenaria congesta",0,187,83,5,-5,0,0,14.5,1.1,0,0,7,0.7,0.7,"None grows w/in a plant"
+2021,46,"2784","Carex siccata","Carex siccata",0,22,30,-5,-5,0,0,19.5,11.5,0,0,1,,,
+2021,46,"2785","Senecio crassulus","Senecio crassulus",0,36,20,-5,5,1,0,0,0,0,0,1,,,
+2021,46,"2786","Eriogonum umbellatum","Eriogonum umbellatum",0,55,16,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2787","Arenaria congesta","Arenaria congesta",0,65,12,-5,-5,0,0,1.5,2,0,0,1,,,
+2021,46,"2788","Senecio crassulus","Senecio crassulus",0,51,20,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2789","Senecio crassulus","Senecio crassulus",0,118,32,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2790","Carex siccata","Carex siccata",0,99,11,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2791","Eriogonum umbellatum","Eriogonum umbellatum",0,80,19.5,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2792","Senecio crassulus","Senecio crassulus",0,131,24,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2793","Senecio crassulus","Senecio crassulus",0,188,93,-5,-5,1,0,0,0,0,0,1,,,"Inside Arecon in 2020"
+2021,46,"2794","Eriogonum umbellatum","Eriogonum umbellatum",0,187,92,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2795","Eriogonum umbellatum","Eriogonum umbellatum",0,150,33,-5,-5,0,0,2,1,0,0,1,,,
+2021,46,"2796","Carex siccata","Carex siccata",0,168,24,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2798","Agoseris glauca","Agoseris glauca",0,121,88,-5,-5,0,0,1,3,0,0,1,,,
+2021,46,"2799","Agoseris glauca","Agoseris glauca",0,154,54,-5,-5,0,0,3,5,0,0,1,,,"doing well"
+2021,46,"2801","Elymus lanceolatus","Elymus lanceolatus",0,149,155,-5,-5,0,0,13,13.5,0,0,1,,,
+2021,46,"2802","Arenaria congesta","Arenaria congesta",0,163,130,-5,-5,0,0,2.5,2.5,0,0,1,,,
+2021,46,"2803","Agoseris glauca","Agoseris glauca",0,161,125,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2804","Agoseris glauca","Agoseris glauca",0,160,123,-5,-5,0,0,3.5,7,0,0,1,,,
+2021,46,"2805","Elymus lanceolatus","Elymus lanceolatus",0,140,140,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2806","Eriogonum umbellatum","Eriogonum umbellatum",0,137,109,-5,-5,1,0,0,0,0,0,1,,,
+2021,46,"2807","Carex siccata","Carex siccata",0,152,102,-5,-5,0,0,14,17.5,0,0,1,,,"4 clumps"
+2021,46,"2808","Carex siccata","Carex siccata",0,123,117,-5,-5,0,0,9.5,10.5,0,0,1,,,"1 clump"
+2021,46,"2914","Arenaria congesta","Arenaria congesta",0,3,4,-5,-5,0,0,3,3,0,0,1,,,
+2021,46,"2915","Arenaria congesta","Arenaria congesta",0,55,13.5,-5,-5,0,0,0.3,0.5,0,1,1,,,
+2021,46,"2916","Ivesia gordonii","Ivesia gordonii",0,51,10,-5,-5,0,0,1.5,1.5,0,1,1,,,"below eriumb"
+2021,46,"2917","Carex siccata","Carex siccata",0,95,20,-5,-5,0,0,8,11,0,0,2,4.5,8.5,
+2021,46,"2918","Elymus lanceolatus","Elymus lanceolatus",0,131,28,-5,-5,0,0,12.5,10.5,0,0,1,,,"big, did not have tag, maybe last year; CR 8/15/21 changed the starting year to 2020 based on the 2020 field photo."
+2021,46,"2919","Phacelia hastata","Phacelia hastata",0,141,29,-5,-5,0,0,2.7,0.8,0,0,1,,,
+2021,46,"2920","Arenaria congesta","Arenaria congesta",0,137,21,5,0,0,0,0.4,0.6,0,1,1,,,
+2021,46,"2921","Arenaria congesta","Arenaria congesta",0,156,30.5,0,-5,0,0,4.5,1,0,1,2,0.3,0.7,
+2021,46,"2922","Carex siccata","Carex siccata",1,167,12,-5,0,0,0,12,14.5,0,0,1,,,"2 culms"
+2021,46,"2923","Eriogonum umbellatum","Eriogonum umbellatum",0,167,19,-5,-5,0,0,1,1,0,1,1,,,
+2021,46,"2924","Carex siccata","Carex siccata",0,184,7,-5,-5,0,0,16,17,0,0,1,,,"2 clumps"
+2021,46,"2925","Agoseris glauca","Agoseris glauca",0,196,23,14,0,0,0,1.5,3,0,1,1,,,
+2021,46,"2926","Elymus lanceolatus","Elymus lanceolatus",0,199,28,9,0,0,0,28,21,3,0,1,,,"encroached in"
+2021,46,"2927","Carex siccata","Carex siccata",0,192,95,0,-5,0,0,24,23,2,0,1,,,"4 clumps, tag lost and replaced with 2927"
+2021,46,"2928","Agoseris glauca","Agoseris glauca",0,158,112,-5,-5,0,0,0.5,2,0,1,1,,,
+2021,46,"2929","Eriogonum umbellatum","Eriogonum umbellatum",0,163,135,0,-5,0,0,0.7,0.7,0,0,1,,,
+2021,46,"2930","Ivesia gordonii","Ivesia gordonii",0,154,116,-5,-5,0,0,0.8,1,0,1,1,,,
+2021,46,"2931","Eriogonum umbellatum","Eriogonum umbellatum",0,156,134,-5,-5,0,0,1,0.9,0,0,1,,,"Should be in last year"
+2021,46,"2932","Arenaria congesta","Arenaria congesta",0,158,93,0,0,0,0,17,1.4,0,1,10,0.5,0.5,
+2021,46,"2933","Arenaria congesta","Arenaria congesta",0,151,112,0,0,0,0,16,0.6,0,1,5,0.5,0.6,
+2021,46,"2934","Agoseris glauca","Agoseris glauca",1,135,124,-5,-5,0,0,0.7,0.4,0,1,1,,,"IMG 4898 on BB's phone; pale green; 4 lanceolate leaves"
+2021,46,"2935","Elymus lanceolatus","Elymus lanceolatus",0,85,81,0,-10,0,0,4.5,3.5,0,1,1,,,
+2021,46,"2936","Agoseris glauca","Agoseris glauca",0,193,53,-5,-5,0,0,2,3.8,0,1,1,,,
+2021,46,"2937","Agoseris glauca","Agoseris glauca",0,192,65,-5,-5,0,0,1.9,2.5,0,1,1,,,
+2021,46,"2938","Agoseris glauca","Agoseris glauca",0,200,50,-5,0,0,0,1.1,2,0,1,1,,,
+2021,46,"2939","Arenaria congesta","Arenaria congesta",0,177,130,-5,0,0,0,12.5,0.8,0,1,2,0.8,0.7,
+2021,46,"2940","Eriogonum umbellatum","Eriogonum umbellatum",0,165,164,0,5,0,0,0.8,0.7,0,1,1,,,
+2021,46,"877","Eriogonum umbellatum","Eriogonum umbellatum",0,5,0,0,-10,0,0,72,2.5,25,0,1,,,"2 big clumps + some smaller, mostly off plot"
+2021,46,"898","Eriogonum umbellatum","Eriogonum umbellatum",0,51,24,-10,-10,0,0,21,2.5,2,0,1,,,
+2021,46,"906","Heterotheca villosa","Heterotheca villosa",0,73,36,-10,-10,0,0,7,4,1,0,1,,,
+2021,46,"913","Viola praemorsa","Viola praemorsa",0,95,20,-10,-10,0,0,9,3.5,1,0,1,,,
+2021,46,"914","Eriogonum umbellatum","Eriogonum umbellatum",0,104,75,-13,-25,0,0,73.5,3,45,0,1,,,"main left clump, plus middle clump, plus smallest clump"
+2021,46,"925","Agoseris glauca","Agoseris glauca",0,112,70,0,-5,0,0,1.1,4,0,0,1,,,
+2021,46,"926","Carex siccata","Carex siccata",0,136,63,-5,-5,0,0,34,19.5,0,0,1,,,"Tag in plant, long diagonal"
+2021,46,"936","Eriogonum umbellatum","Eriogonum umbellatum",0,130,42,-20,-10,0,0,18,3,1,0,1,,,"only main patch"
+2021,46,"937","Heterotheca villosa","Heterotheca villosa",0,128,37,10,0,0,0,16.3,8.5,15,0,1,,,
+2021,46,"948","Carex siccata","Carex siccata",0,167,54,-10,-10,1,0,0,0,0,0,1,,,"vertical line"
+2021,46,"951","Carex siccata","Carex siccata",0,178,39,-13,-14,0,0,31.5,21.5,0,0,1,,,"2 clumps 1 big 1 small"
+2021,46,"953","Carex siccata","Carex siccata",0,183,5,-10,-10,0,0,15,16.5,0,0,1,,,
+2021,46,"955","Carex siccata","Carex siccata",0,191,3,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"956","Carex siccata","Carex siccata",0,183,18,-10,-10,0,0,20,22,0,0,1,,,"2 clumps"
+2021,46,"960","Carex siccata","Carex siccata",0,200,5,-5,0,0,0,37,27,0,0,1,,,"3 clumps horizontal Mostly off plot, but in 46.5"
+2021,46,"962","Eriogonum umbellatum","Eriogonum umbellatum",0,200,48,-15,-20,0,0,88,4,33,0,1,,,"mostly off plot, fairy ring"
+2021,46,"963","Phacelia hastata","Phacelia hastata",0,187,31,-10,-10,1,0,0,0,0,0,1,,,"cow kill"
+2021,46,"974","Heterotheca villosa","Heterotheca villosa",0,176,116,-10,-10,0,0,16.5,6.5,0,0,1,,,
+2021,46,"979","Heterotheca villosa","Heterotheca villosa",0,184,123,-10,-10,0,0,5.9,3,0,0,1,,,
+2021,46,"981","Arenaria congesta","Arenaria congesta",0,191,121,-10,-10,0,0,20,12,0,0,1,,,"Mostly offplot"
+2021,46,"982","Ivesia gordonii","Ivesia gordonii",0,194,125,-10,-10,1,0,0,0,0,0,1,,,
+2021,46,"990","Achnatherum lettermanii","Achnatherum lettermanii",0,160,124,-10,-10,0,0,19,13.5,1,0,1,,,
+2021,46,"991","Eriogonum umbellatum","Eriogonum umbellatum",0,147,128,-10,-10,0,0,21.5,2.8,11,0,1,,,
+2021,46,"992","Eriogonum umbellatum","Eriogonum umbellatum",0,178,151,-10,-10,0,0,90,3,9,0,1,,,"includes center and off plot; extends about 36 cm offplot"
+2021,46,"999","Elymus lanceolatus","Elymus lanceolatus",0,155,141,-10,-10,0,0,28,18,1,0,1,,,
+2021,47,"1425","Lupinus argenteus","Lupinus argenteus",0,151,155,-5,-5,0,0,31.5,15,7,0,1,,,"looks happy"
+2021,47,"2355","Carex siccata","Carex siccata",0,1,23,-10,-10,0,0,29.5,20,1,0,1,,,"1 clump"
+2021,47,"2511","Carex siccata","Carex siccata",0,5,2,-5,-5,0,0,20,22,1,0,1,,,"4 clumps, left clump @ -1+1, all other clumps in plot"
+2021,47,"2512","Carex siccata","Carex siccata",0,3,10,-5,-5,0,0,18,22,0,0,1,,,"1 clump"
+2021,47,"2513","Carex siccata","Carex siccata",0,12,13,-5,-5,1,0,0,0,0,0,1,,,"two clumps in 2020"
+2021,47,"2514","Carex siccata","Carex siccata",0,17,10.5,-5,-5,1,0,0,0,0,0,1,,,"one clump in 2020"
+2021,47,"2515","Carex siccata","Carex siccata",0,18,1,-5,-5,0,0,25,19,0,0,1,,,"3 clumps"
+2021,47,"2556","Senecio crassulus","Senecio crassulus",1,8,0.5,-5,-5,1,0,0,0,0,0,1,,,
+2021,47,"2809","Carex siccata","Carex siccata",0,7,19,-8,-2,0,0,20,20.5,0,0,1,,,"1 Clump"
+2021,47,"2810","Carex siccata","Carex siccata",0,11,2,-5,-5,1,0,0,0,0,0,1,,,
+2021,49,"1031","Eriogonum umbellatum","Eriogonum umbellatum",0,76,151,-10,-10,0,0,23.5,2,20,0,1,,,"fix 2020 height! Too high (fixed CR 8/15/21)"
+2021,49,"2554","Eriogonum umbellatum","Eriogonum umbellatum",0,64,182,-5,-5,1,0,0,0,0,0,1,,,
+2021,50,"1035","Eriogonum umbellatum","Eriogonum umbellatum",0,15,3,-10,-10,0,0,9,1.5,0,0,1,,,
+2021,50,"1047","Eriogonum umbellatum","Eriogonum umbellatum",0,163,57,-5,-5,0,0,4,4,0,0,1,,,"shrinkage?"
+2021,50,"2078","Arnica latifolia","Arnica latifolia",0,177,49,-10,-10,1,0,0,0,0,0,1,,,"dead tag lost"
+2021,50,"2553","Eriogonum umbellatum","Eriogonum umbellatum",0,192.5,52,-5,-5,0,0,0.6,0.7,0,0,1,,,

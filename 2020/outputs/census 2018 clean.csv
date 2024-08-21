@@ -1,0 +1,1194 @@
+"Year","Plot","Tag","Morphoname","Taxon","Identification.uncertain","X..cm.","Y..cm.","Tag.offset.x..cm.","Tag.offset.y..cm.","Died.this.census","Died.this.census.final","Length..cm.","Height..cm.","X..Capitulescences","Is.seedling","Number.of.individuals.represented.by.tag","Length.per.individual..cm.","Height.per.individual..cm.","Notes"
+2018,1,"1050","Lupinus argenteus","Lupinus argenteus",0,53,175,-10,-10,0,FALSE,24,8,3,0,1,,,
+2018,1,"1053","Ivesia gordonii","Ivesia gordonii",0,195,25,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,1,"1056","Ivesia gordonii","Ivesia gordonii",0,195,24,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,1,"1057","Ivesia gordonii","Ivesia gordonii",0,186,21,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,1,"1060","Ivesia gordonii","Ivesia gordonii",0,172,61,-5,-5,0,FALSE,5,4,0,0,1,,,
+2018,1,"1061","Ivesia gordonii","Ivesia gordonii",0,171,65,-5,-5,0,FALSE,6,3.5,1,0,1,,,
+2018,1,"1063","Lupinus argenteus","Lupinus argenteus",0,195,100,-10,-10,0,FALSE,8,4,0,0,1,,,
+2018,1,"1069","Ivesia gordonii","Ivesia gordonii",0,196,146,10,0,0,FALSE,2,2.5,0,0,1,,,
+2018,1,"1071","Senecio crassulus","Senecio crassulus",0,197,187,-5,0,0,FALSE,2.8,2,0,0,1,,,"3 stems"
+2018,1,"1742","Ivesia gordonii","Ivesia gordonii",0,3,171,-10,-10,0,FALSE,13,4,0,0,1,,,
+2018,1,"1744","Ivesia gordonii","Ivesia gordonii",0,194,32,5,0,0,FALSE,9,4,2,0,1,,,
+2018,1,"2","Ivesia gordonii","Ivesia gordonii",0,7,169,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, tag lost"
+2018,1,"2205","Ivesia gordonii","Ivesia gordonii",0,12.5,165,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,1,"2364","Lupinus argenteus","Lupinus argenteus",0,179,50,-10,-10,0,FALSE,11,4.5,0,0,1,,,
+2018,2,"17","Ivesia gordonii","Ivesia gordonii",0,101,171,-5,-5,0,FALSE,6.5,5,2,0,1,,,"looks sick"
+2018,3,"19","Ivesia gordonii","Ivesia gordonii",0,66,104,-10,-10,0,FALSE,3.5,2.5,0,0,1,,,
+2018,5,"1072","Lupinus argenteus","Lupinus argenteus",0,25,125,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"1079","Lupinus argenteus","Lupinus argenteus",0,73,145,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"1080","Lupinus argenteus","Lupinus argenteus",0,80,193,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"1552","Lupinus argenteus","Lupinus argenteus",0,60,86,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"1557","Lupinus argenteus","Lupinus argenteus",0,77,199,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"1751","Agoseris glauca","Agoseris glauca",0,115,39,10,-10,0,FALSE,8.5,6.5,2,0,1,,,
+2018,5,"2179","Lupinus argenteus","Lupinus argenteus",0,7.5,96,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"2180","Lupinus argenteus","Lupinus argenteus",0,21,99,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"2181","Lupinus argenteus","Lupinus argenteus",0,51,123,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,5,"2182","Lupinus argenteus","Lupinus argenteus",0,52,182,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"2183","Lupinus argenteus","Lupinus argenteus",0,81,135,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"2184","Lupinus argenteus","Lupinus argenteus",0,110,179,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"2185","Phacelia hastata","Phacelia hastata",0,164,98,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"2186","Elymus lanceolatus","Elymus lanceolatus",0,174,108,-10,-10,0,FALSE,11,18,1,0,1,,,
+2018,5,"2187","Elymus lanceolatus","Elymus lanceolatus",0,183,107,-10,-10,0,FALSE,11,20,1,0,1,,,
+2018,5,"2188","Eriogonum umbellatum","Eriogonum umbellatum",0,111,29,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"2189","Heterotheca villosa","Heterotheca villosa",0,130,52,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"2366","Lupinus argenteus","Lupinus argenteus",0,72,161,-10,-10,0,FALSE,1.5,2,0,0,1,,,
+2018,5,"2367","Eriogonum umbellatum","Eriogonum umbellatum",0,169,112,-10,-10,0,FALSE,71,5,73,0,1,,,"Replacement tag for #38"
+2018,5,"2368","Lupinus argenteus","Lupinus argenteus",0,24,78,-10,-10,0,FALSE,7,4.5,0,0,1,,,"1 stem"
+2018,5,"25","Lupinus argenteus","Lupinus argenteus",0,22,70,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"26","Eriogonum umbellatum","Eriogonum umbellatum",0,113,48,-10,-10,0,FALSE,27,3,11,0,1,,,
+2018,5,"28","Ivesia gordonii","Ivesia gordonii",0,130,68,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"30","Lupinus argenteus","Lupinus argenteus",0,55,170,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"31","Lupinus argenteus","Lupinus argenteus",0,57,185,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"34","Lupinus argenteus","Lupinus argenteus",0,170,180,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"36","Heterotheca villosa","Heterotheca villosa",0,155,115,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,5,"41","Elymus lanceolatus","Elymus lanceolatus",0,184,115,5,5,0,FALSE,27,21,25,0,1,,,
+2018,6,"1086","Ivesia gordonii","Ivesia gordonii",0,182,8,-10,-10,0,FALSE,7,5,2,0,1,,,
+2018,6,"1089","Ivesia gordonii","Ivesia gordonii",0,112,40,-10,-10,0,FALSE,5,3.5,0,0,1,,,
+2018,6,"1558","Elymus lanceolatus","Elymus lanceolatus",0,121,63,-10,-10,0,FALSE,26,19.5,12,0,1,,,
+2018,6,"1754","Ivesia gordonii","Ivesia gordonii",0,170,2,-10,-10,0,FALSE,4,3,0,0,1,,,
+2018,6,"1755","Ivesia gordonii","Ivesia gordonii",0,71,50.5,-10,-10,0,FALSE,8,4.5,2,0,1,,,
+2018,6,"1756","Ivesia gordonii","Ivesia gordonii",0,14,165,-10,-10,0,FALSE,9.5,4,0,0,1,,,
+2018,6,"1757","Senecio crassulus","Senecio crassulus",0,17,134,-10,-10,0,FALSE,4.5,6.5,0,0,1,,,
+2018,6,"2204","Ivesia gordonii","Ivesia gordonii",0,164,98,-10,-10,0,FALSE,5,2.5,0,0,1,,,
+2018,6,"44","Eriogonum umbellatum","Eriogonum umbellatum",0,124,53,-10,-10,0,FALSE,26,3,3,0,1,,,
+2018,6,"45","Elymus lanceolatus","Elymus lanceolatus",0,116,55,-10,0,0,FALSE,17.5,18,8,0,1,,,
+2018,6,"46","Elymus lanceolatus","Elymus lanceolatus",0,124,50,10,0,0,FALSE,9,26,11,0,1,,,
+2018,6,"49","Ivesia gordonii","Ivesia gordonii",0,149,166,-10,-10,0,FALSE,15.5,6,11,0,1,,,
+2018,6,"50","Ivesia gordonii","Ivesia gordonii",0,154,158,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,6,"51","Ivesia gordonii","Ivesia gordonii",0,130,110,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,7,"1090","Ivesia gordonii","Ivesia gordonii",0,47,150,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,7,"52","Ivesia gordonii","Ivesia gordonii",0,135,80,-10,-10,0,FALSE,11.5,3.5,1,0,1,,,
+2018,8,"1091","Lupinus argenteus","Lupinus argenteus",0,92,195,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,8,"1760","Senecio crassulus","Senecio crassulus",0,168,168,-10,-10,0,FALSE,1.5,2.5,0,0,1,,,"back from dead"
+2018,8,"1761","Chaenactis douglasii","Chaenactis douglasii",0,166,165,0,-10,0,FALSE,11,4,4,0,1,,,
+2018,8,"1762","Chaenactis douglasii","Chaenactis douglasii",0,169,167,0,-10,0,FALSE,6,4,4,0,1,,,
+2018,8,"1764","Lupinus argenteus","Lupinus argenteus",0,174,155,-10,-10,1,TRUE,0,0,0,0,1,,,"dead. Possible data recording issue (may be 1 x 1 x 0)"
+2018,8,"1765","Lupinus argenteus","Lupinus argenteus",0,200,118,-10,-10,0,FALSE,9.5,7,0,0,1,,,
+2018,8,"2200","Lupinus argenteus","Lupinus argenteus",0,173,163,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,8,"2201","Phacelia hastata","Phacelia hastata",0,171,84,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,8,"2202","Phacelia hastata","Phacelia hastata",0,172,84,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,8,"2203","Senecio crassulus","Senecio crassulus",0,187,69,-10,-10,0,FALSE,6.5,4.5,0,0,1,,,
+2018,8,"53","Ivesia gordonii","Ivesia gordonii",0,15,80,-10,-10,0,FALSE,13,5.5,0,0,1,,,
+2018,8,"55","Ivesia gordonii","Ivesia gordonii",0,32,135,-10,-10,0,FALSE,14,6,1,0,1,,,
+2018,8,"67","Phacelia hastata","Phacelia hastata",0,170,195,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,8,"73","Lupinus argenteus","Lupinus argenteus",0,165,150,-10,-10,0,TRUE,0,0,0,0,1,,,"dead"
+2018,8,"75","Lupinus argenteus","Lupinus argenteus",0,180,125,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,8,"76","Ivesia gordonii","Ivesia gordonii",0,175,115,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,8,"77","Ivesia gordonii","Ivesia gordonii",0,145,100,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,8,"78","Eriogonum umbellatum","Eriogonum umbellatum",0,185,65,-10,-10,0,FALSE,30,3,11,0,1,,,
+2018,8,"79","Ivesia gordonii","Ivesia gordonii",0,190,80,10,0,0,FALSE,21.5,6.5,7,0,1,,,
+2018,8,"81","Ivesia gordonii","Ivesia gordonii",0,96,83,-10,-10,0,FALSE,17,7.5,0,0,1,,,
+2018,9,"1093","Ivesia gordonii","Ivesia gordonii",0,40,12,-10,-10,0,FALSE,8,4,0,0,1,,,
+2018,9,"1094","Lupinus argenteus","Lupinus argenteus",0,192,68,-10,-10,0,FALSE,7,5.5,0,0,1,,,
+2018,9,"1766","Chaenactis douglasii","Chaenactis douglasii",0,193,76,-10,-10,0,FALSE,4,3.5,0,0,1,,,
+2018,9,"1767","Ivesia gordonii","Ivesia gordonii",0,200,65,-10,-10,0,FALSE,2.3,2,0,0,1,,,
+2018,9,"83","Ivesia gordonii","Ivesia gordonii",0,60,75,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,9,"86","Elymus lanceolatus","Elymus lanceolatus",0,186,140,-10,-10,0,FALSE,18,23.5,10,0,1,,,
+2018,9,"87","Ivesia gordonii","Ivesia gordonii",0,189,76,-10,-10,0,FALSE,10.5,5,1,0,1,,,
+2018,9,"88","Heterotheca villosa","Heterotheca villosa",0,184,17,-10,-10,0,FALSE,4.5,2,0,0,1,,,
+2018,10,"106","Lupinus argenteus","Lupinus argenteus",0,85,40,10,0,0,FALSE,6,3.5,0,0,1,,,"back from dead"
+2018,10,"108","Elymus lanceolatus","Elymus lanceolatus",0,101,52,-10,-10,0,FALSE,25,23,27,0,1,,,
+2018,10,"1106","Lupinus argenteus","Lupinus argenteus",0,105,83,-10,-10,0,FALSE,6,5.5,0,0,1,,,
+2018,10,"1108","Lupinus argenteus","Lupinus argenteus",0,185,95,-10,-10,1,FALSE,0,0,0,0,1,,,"dead, tag missing"
+2018,10,"111","Ivesia gordonii","Ivesia gordonii",0,140,65,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"1115","Lupinus argenteus","Lupinus argenteus",0,143,190,-10,-10,0,FALSE,2.5,2,0,0,1,,,
+2018,10,"112","Ivesia gordonii","Ivesia gordonii",0,119,89,-10,-10,0,FALSE,9.5,3.5,2,0,1,,,
+2018,10,"113","Ivesia gordonii","Ivesia gordonii",0,115,95,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"114","Eriogonum umbellatum","Eriogonum umbellatum",0,101,103,-10,-10,0,FALSE,8,2.75,0,0,1,,,
+2018,10,"115","Ivesia gordonii","Ivesia gordonii",0,97,110,-10,-10,0,FALSE,14.5,5.5,12,0,1,,,
+2018,10,"1562","Lupinus argenteus","Lupinus argenteus",0,8,105,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"1773","Chaenactis douglasii","Chaenactis douglasii",0,29,182,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"1774","Lupinus argenteus","Lupinus argenteus",0,146,123,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"1777","Lupinus argenteus","Lupinus argenteus",0,68,87,-10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"1779","Lupinus argenteus","Lupinus argenteus",0,75,90,0,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"1782","Elymus lanceolatus","Elymus lanceolatus",0,76,33,-10,-10,0,FALSE,19,24,25,0,1,,,"back from dead"
+2018,10,"1783","Lupinus argenteus","Lupinus argenteus",0,92,20,-10,-10,0,FALSE,2,3,0,0,1,,,"bck from dead but herbivorized"
+2018,10,"2190","Phacelia hastata","Phacelia hastata",0,26,67,-10,-10,0,FALSE,16.5,7.5,0,0,1,,,
+2018,10,"2191","Lupinus argenteus","Lupinus argenteus",0,31,74,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"2192","Agoseris glauca","Agoseris glauca",0,17,103,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"2193","Lupinus argenteus","Lupinus argenteus",0,64,77,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"2194","Lupinus argenteus","Lupinus argenteus",0,81,39,-10,-10,0,FALSE,6.5,3.5,0,0,1,,,
+2018,10,"2195","Lupinus argenteus","Lupinus argenteus",0,88,28,-10,-10,0,FALSE,6.5,3,0,0,1,,,"3 stems"
+2018,10,"2196","Lupinus argenteus","Lupinus argenteus",0,87,8,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"2197","Lupinus argenteus","Lupinus argenteus",0,115,59,-5,0,0,FALSE,9.5,6,0,0,1,,,
+2018,10,"2198","Lupinus argenteus","Lupinus argenteus",0,135,115,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,10,"2199","Phacelia hastata","Phacelia hastata",0,85,153,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, tag found in plot 8 (x=85, y=159)"
+2018,10,"91","Lupinus argenteus","Lupinus argenteus",0,48,37,-10,0,0,FALSE,15,10,1,0,1,,,
+2018,10,"96","Lupinus argenteus","Lupinus argenteus",0,71,111,-10,-10,0,FALSE,7.5,5.5,0,0,1,,,
+2018,10,"97","Lupinus argenteus","Lupinus argenteus",0,55,80,-10,-10,0,FALSE,6.5,4.5,0,0,1,,,
+2018,10,"98","Lupinus argenteus","Lupinus argenteus",0,55,70,-10,-10,0,FALSE,5.5,4,0,0,1,,,
+2018,10,"99","Lupinus argenteus","Lupinus argenteus",0,55,60,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,11,"1116","Lupinus argenteus","Lupinus argenteus",0,111,51,-10,-10,0,FALSE,14.5,8.5,0,0,1,,,
+2018,11,"1117","Lupinus argenteus","Lupinus argenteus",0,101,58,-10,-10,0,FALSE,12,5.5,0,0,1,,,"1 clump"
+2018,11,"116","Ivesia gordonii","Ivesia gordonii",0,74,148,-10,-10,0,FALSE,9.5,7,1,0,1,,,
+2018,11,"117","Lupinus argenteus","Lupinus argenteus",0,80,30,-10,-10,0,TRUE,0,0,0,0,1,,,"dead"
+2018,11,"118","Ivesia gordonii","Ivesia gordonii",0,85,20,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,11,"121","Eriogonum umbellatum","Eriogonum umbellatum",0,90,36,0,10,0,FALSE,18,3,3,0,1,,,
+2018,11,"1784","Lupinus argenteus","Lupinus argenteus",0,110,66,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,11,"1785","Lupinus argenteus","Lupinus argenteus",0,100,46,10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,11,"1787","Ivesia gordonii","Ivesia gordonii",0,35,187,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,11,"1788","Ivesia gordonii","Ivesia gordonii",0,60,63,-10,-10,0,FALSE,4.5,3,1,0,1,,,
+2018,11,"1790","Ivesia gordonii","Ivesia gordonii",0,122,148,-10,-10,0,FALSE,7,5,1,0,1,,,
+2018,11,"1791","Ivesia gordonii","Ivesia gordonii",0,112,176,-10,-10,0,FALSE,1.6,1.9,0,0,1,,,
+2018,11,"2206","Lupinus argenteus","Lupinus argenteus",0,64,51,-10,-10,0,FALSE,9.5,7.5,0,0,1,,,
+2018,11,"2207","Lupinus argenteus","Lupinus argenteus",0,68,60,-10,-10,0,FALSE,8.5,6.5,0,0,1,,,
+2018,11,"2208","Ivesia gordonii","Ivesia gordonii",0,38,179,-10,-10,0,FALSE,1.7,1.5,0,0,1,,,
+2018,11,"2209","Lupinus argenteus","Lupinus argenteus",0,125,81,-10,-10,0,FALSE,12,7,0,0,1,,,
+2018,11,"2210","Lupinus argenteus","Lupinus argenteus",0,104,56,-10,-10,0,FALSE,8.5,6,0,0,1,,,"1 clump"
+2018,11,"2211","Lupinus argenteus","Lupinus argenteus",0,86,13,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,11,"2212","Lupinus argenteus","Lupinus argenteus",0,95,34,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,11,"2213","Lupinus argenteus","Lupinus argenteus",0,70,19,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,11,"2214","Lupinus argenteus","Lupinus argenteus",0,72,15,-10,-10,0,FALSE,5,5,0,0,1,,,
+2018,11,"2215","Lupinus argenteus","Lupinus argenteus",0,73,6,-10,-10,0,FALSE,7.5,5.5,0,0,1,,,
+2018,12,"1118","Agoseris glauca","Agoseris glauca",0,145,65,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,12,"1119","Eriogonum umbellatum","Eriogonum umbellatum",0,141,89,-10,-10,0,FALSE,1.7,1.9,0,0,1,,,
+2018,12,"122","Ivesia gordonii","Ivesia gordonii",0,142,169,10,10,0,FALSE,9,3,0,0,1,,,
+2018,12,"123","Ivesia gordonii","Ivesia gordonii",0,135,172,-10,-10,0,FALSE,18,3.5,0,0,1,,,
+2018,12,"124","Elymus lanceolatus","Elymus lanceolatus",0,141,93,-10,-10,0,FALSE,19.5,14,3,0,1,,,
+2018,12,"1792","Ivesia gordonii","Ivesia gordonii",0,10,101,-10,-10,0,FALSE,2.5,2.2,0,0,1,,,
+2018,12,"1793","Ivesia gordonii","Ivesia gordonii",0,35,137,-10,-10,0,FALSE,3.5,4,0,0,1,,,"should be in last years"
+2018,13,"1120","Eriogonum umbellatum","Eriogonum umbellatum",0,10,28,-10,-10,0,FALSE,5.5,2.3,0,0,1,,,
+2018,13,"1121","Eriogonum umbellatum","Eriogonum umbellatum",0,3,30,-10,-10,0,FALSE,1.6,1.2,0,0,1,,,
+2018,13,"1122","Eriogonum umbellatum","Eriogonum umbellatum",0,36,14,-10,-10,0,FALSE,13,3,3,0,1,,,
+2018,13,"127","Heterotheca villosa","Heterotheca villosa",0,12,22,-10,-10,0,FALSE,38,5.5,2,0,1,,,"sparse leaves, has dieback"
+2018,13,"128","Elymus lanceolatus","Elymus lanceolatus",0,7,36,-10,-10,0,FALSE,25,24,19,0,1,,,
+2018,13,"129","Eriogonum umbellatum","Eriogonum umbellatum",0,17,14,-10,-10,0,FALSE,6.5,2.5,0,0,1,,,
+2018,13,"130","Elymus lanceolatus","Elymus lanceolatus",0,15,43,0,10,0,FALSE,32,24.5,36,0,1,,,
+2018,13,"131","Eriogonum umbellatum","Eriogonum umbellatum",0,30,50,-4,-3,0,FALSE,10.5,2,3,0,1,,,
+2018,13,"132","Heterotheca villosa","Heterotheca villosa",0,88,114,-10,-10,0,FALSE,13,8,16,0,1,,,
+2018,13,"133","Elymus lanceolatus","Elymus lanceolatus",0,105,117,-10,-10,0,FALSE,19,14,1,0,1,,,
+2018,13,"135","Elymus lanceolatus","Elymus lanceolatus",0,107,123,10,10,0,FALSE,7.5,17,4,0,1,,,
+2018,13,"136","Elymus lanceolatus","Elymus lanceolatus",0,132,115,-10,-10,0,FALSE,12.5,12.5,2,0,1,,,
+2018,13,"137","Elymus lanceolatus","Elymus lanceolatus",0,135,111,-10,-10,0,FALSE,11.5,14.5,6,0,1,,,
+2018,13,"139","Eriogonum umbellatum","Eriogonum umbellatum",0,144,49,-10,-10,0,FALSE,48,3,59,0,1,,,
+2018,13,"142","Elymus lanceolatus","Elymus lanceolatus",0,146,52,0,-10,0,FALSE,5,11,2,0,1,,,
+2018,13,"143","Elymus lanceolatus","Elymus lanceolatus",0,148,56,0,10,0,FALSE,38,23,14,0,1,,,
+2018,13,"144","Elymus lanceolatus","Elymus lanceolatus",0,160,65,10,10,0,FALSE,10,25,6,0,1,,,
+2018,13,"145","Heterotheca villosa","Heterotheca villosa",0,101,21,-5,-5,0,FALSE,20.5,5.5,1,0,1,,,"extensive dieback"
+2018,13,"1566","Eriogonum umbellatum","Eriogonum umbellatum",0,15,51,-10,0,0,FALSE,4.5,2.5,0,0,1,,,
+2018,13,"2216","Phacelia hastata","Phacelia hastata",0,34,16,-10,-10,0,FALSE,1.4,0.3,0,0,1,,,
+2018,13,"2370","Elymus lanceolatus","Elymus lanceolatus",1,86,24,-10,-10,0,FALSE,3,9.5,0,1,1,,,
+2018,14,"1123","Lupinus argenteus","Lupinus argenteus",0,1,13,-10,-10,0,TRUE,0,0,0,0,1,,,"tag should be pulled, plant died in 2016"
+2018,14,"1124","Eriogonum umbellatum","Eriogonum umbellatum",0,64,16,-10,-10,0,FALSE,5,1.5,0,0,1,,,
+2018,14,"1125","Ivesia gordonii","Ivesia gordonii",0,60,82,-10,-10,0,FALSE,2,1.5,0,0,1,,,
+2018,14,"1126","Heterotheca villosa","Heterotheca villosa",0,187,48,-10,-10,0,FALSE,8.5,3,2,0,1,,,
+2018,14,"148","Heterotheca villosa","Heterotheca villosa",0,85,75,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,14,"149","Eriogonum umbellatum","Eriogonum umbellatum",0,82,55,-10,-10,0,FALSE,24,3.5,9,0,1,,,
+2018,14,"150","Elymus lanceolatus","Elymus lanceolatus",0,70,50,-10,-10,0,FALSE,12,15.5,3,0,1,,,"1 clump"
+2018,14,"151","Elymus lanceolatus","Elymus lanceolatus",0,80,65,-10,-10,0,FALSE,1.5,7.5,0,0,1,,,"1 clump"
+2018,14,"152","Elymus lanceolatus","Elymus lanceolatus",0,78,68,-10,-10,0,FALSE,9,12.5,1,0,1,,,"2 clumps"
+2018,14,"153","Elymus lanceolatus","Elymus lanceolatus",0,85,87,0,-2,0,FALSE,23,25,25,0,1,,,"3 clumps"
+2018,14,"156","Eriogonum umbellatum","Eriogonum umbellatum",0,148,102,-10,-10,0,FALSE,77,2,228,0,1,,,
+2018,14,"157","Elymus lanceolatus","Elymus lanceolatus",0,135,105,-10,-10,0,FALSE,12,21.5,2,0,1,,,"3 clumps"
+2018,14,"158","Elymus lanceolatus","Elymus lanceolatus",0,137,111,0,0,0,FALSE,16,17,1,0,1,,,"5 clumps"
+2018,14,"160","Elymus lanceolatus","Elymus lanceolatus",0,156,103,0,-1,0,FALSE,12,18.5,1,0,1,,,"2 clumps"
+2018,14,"161","Elymus lanceolatus","Elymus lanceolatus",0,145,112,1,-3,0,FALSE,6,17,1,0,1,,,"1 clump"
+2018,14,"162","Elymus lanceolatus","Elymus lanceolatus",0,153,112,5,-5,0,FALSE,5,18.5,1,0,1,,,"1 clump"
+2018,14,"163","Elymus lanceolatus","Elymus lanceolatus",0,159,123,0,5,0,FALSE,3.5,15,1,0,1,,,"1 clump"
+2018,14,"164","Elymus lanceolatus","Elymus lanceolatus",0,166,120,-10,-10,0,FALSE,9.5,19.5,1,0,1,,,"3 clumps"
+2018,14,"1794","Chaenactis douglasii","Chaenactis douglasii",0,64,5,-10,-10,0,TRUE,0,0,0,0,1,,,"dead"
+2018,14,"2217","Agoseris glauca","Agoseris glauca",0,66,75,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,14,"2218","Elymus lanceolatus","Elymus lanceolatus",0,144,116,-4,-3,0,FALSE,10,21.5,0,0,1,,,
+2018,14,"2444","Elymus lanceolatus","Elymus lanceolatus",0,154,96,0,-10,0,FALSE,20,16.5,1,0,1,,,"4 clumps"
+2018,15,"1129","Lupinus argenteus","Lupinus argenteus",0,135,15,-10,-10,0,FALSE,3.5,3,0,0,1,,,"mostly dead"
+2018,15,"1135","Lupinus argenteus","Lupinus argenteus",0,77,91,-10,-10,0,FALSE,5,4,0,0,1,,,
+2018,15,"1140","Eriogonum umbellatum","Eriogonum umbellatum",0,152,30,-5,-5,0,FALSE,10,2,0,0,1,,,
+2018,15,"1144","Lupinus argenteus","Lupinus argenteus",0,65,200,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"1568","Eriogonum umbellatum","Eriogonum umbellatum",0,165,14,-10,-10,0,FALSE,2,1.5,0,0,1,,,
+2018,15,"1571","Eriogonum umbellatum","Eriogonum umbellatum",0,71,164,-10,-10,0,FALSE,13,3,12,0,1,,,
+2018,15,"165","Ivesia gordonii","Ivesia gordonii",0,64,57,-10,-10,0,FALSE,12.5,3.5,0,0,1,,,
+2018,15,"167","Eriogonum umbellatum","Eriogonum umbellatum",0,54,83,-10,-10,0,FALSE,16.5,2,13,0,1,,,
+2018,15,"169","Lupinus argenteus","Lupinus argenteus",0,55,105,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"170","Lupinus argenteus","Lupinus argenteus",0,55,115,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"172","Lupinus argenteus","Lupinus argenteus",0,35,130,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"173","Ivesia gordonii","Ivesia gordonii",0,39,188,-10,-10,0,FALSE,12.5,8,2,0,1,,,
+2018,15,"175","Ivesia gordonii","Ivesia gordonii",0,60,181,-10,-10,0,FALSE,16.5,5,3,0,1,,,
+2018,15,"176","Ivesia gordonii","Ivesia gordonii",0,67,173,-10,-10,0,FALSE,10,3,2,0,1,,,
+2018,15,"177","Ivesia gordonii","Ivesia gordonii",0,85,170,-10,-10,0,FALSE,6.5,3,0,0,1,,,
+2018,15,"178","Ivesia gordonii","Ivesia gordonii",0,90,165,-10,-10,0,FALSE,4.5,3.5,0,0,1,,,
+2018,15,"179","Ivesia gordonii","Ivesia gordonii",0,95,165,-10,-10,0,FALSE,11.5,4,7,0,1,,,
+2018,15,"1795","Eriogonum umbellatum","Eriogonum umbellatum",0,165,165,-10,-10,0,FALSE,9,2,0,0,1,,,
+2018,15,"1797","Ivesia gordonii","Ivesia gordonii",0,172,96,-10,-10,0,FALSE,5.5,5,0,0,1,,,
+2018,15,"1799","Lupinus argenteus","Lupinus argenteus",0,75,65,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"1800","Lupinus argenteus","Lupinus argenteus",0,9,98,-10,-10,0,FALSE,2.5,1,0,0,1,,,
+2018,15,"1801","Lupinus argenteus","Lupinus argenteus",0,55,170,-10,-10,0,FALSE,3.5,3,0,0,1,,,
+2018,15,"1802","Lupinus argenteus","Lupinus argenteus",0,52,166,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"1806","Lupinus argenteus","Lupinus argenteus",0,120,60,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"190","Ivesia gordonii","Ivesia gordonii",0,177,177,0,10,0,FALSE,7,4,0,0,1,,,
+2018,15,"197","Ivesia gordonii","Ivesia gordonii",0,115,90,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"198","Arenaria congesta","Arenaria congesta",0,107,80,-10,-10,0,FALSE,10,3,0,0,1,,,
+2018,15,"203","Lupinus argenteus","Lupinus argenteus",0,185,55,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"208","Lupinus argenteus","Lupinus argenteus",0,160,25,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"209","Lupinus argenteus","Lupinus argenteus",0,165,20,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"2219","Phacelia hastata","Phacelia hastata",0,89.5,172,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,15,"2220","Heterotheca villosa","Heterotheca villosa",0,101,165,-10,-10,0,FALSE,1.5,1.5,0,0,1,,,
+2018,15,"2221","Lupinus argenteus","Lupinus argenteus",0,145,4,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"1149","Ivesia gordonii","Ivesia gordonii",0,38,33,-5,-5,0,FALSE,2.5,2.5,0,0,1,,,
+2018,16,"1151","Eriogonum umbellatum","Eriogonum umbellatum",0,28,62,-10,-10,0,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,16,"1160","Eriogonum umbellatum","Eriogonum umbellatum",0,130,50,-10,-10,0,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"1161","Eriogonum umbellatum","Eriogonum umbellatum",0,121,45,-10,-10,0,FALSE,13,3,1,0,1,,,
+2018,16,"1162","Ivesia gordonii","Ivesia gordonii",0,110,52,-10,-10,0,FALSE,5.5,4,1,0,1,,,
+2018,16,"1579","Arnica latifolia","Arnica latifolia",0,43,30.5,-10,-10,0,FALSE,4,3,0,0,1,,,
+2018,16,"1582","Eriogonum umbellatum","Eriogonum umbellatum",0,52,45,-5,-5,0,FALSE,4.5,1,0,0,1,,,"back from dead"
+2018,16,"1584","Agoseris glauca","Agoseris glauca",0,19,95,-10,-10,0,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,16,"1807","Eriogonum umbellatum","Eriogonum umbellatum",0,11,13,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"1808","Senecio crassulus","Senecio crassulus",0,28,61,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"1810","Eriogonum umbellatum","Eriogonum umbellatum",0,42,47,-10,-10,0,FALSE,2.5,1,0,0,1,,,
+2018,16,"1811","Agoseris glauca","Agoseris glauca",0,52,60,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"1816","Eriogonum umbellatum","Eriogonum umbellatum",0,46,93,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"1817","Lupinus argenteus","Lupinus argenteus",0,3,189,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, tag was found and collected"
+2018,16,"1820","Senecio crassulus","Senecio crassulus",0,127,65,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"1821","Eriogonum umbellatum","Eriogonum umbellatum",0,127,65,-10,-10,0,FALSE,1.5,1.5,0,0,1,,,
+2018,16,"1823","Lupinus argenteus","Lupinus argenteus",0,150,160,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"216","Lupinus argenteus","Lupinus argenteus",0,5,30,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"2236","Lupinus argenteus","Lupinus argenteus",0,67,8,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"2238","Agoseris glauca","Agoseris glauca",0,13,73,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"2239","Lupinus argenteus","Lupinus argenteus",0,11,80,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"2240","Senecio crassulus","Senecio crassulus",0,36,70,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"2241","Senecio crassulus","Senecio crassulus",0,41,79,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"2242","Senecio crassulus","Senecio crassulus",0,36,72,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"2243","Senecio crassulus","Senecio crassulus",0,153,150,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"230","Lupinus argenteus","Lupinus argenteus",0,24,70,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"231","Lupinus argenteus","Lupinus argenteus",0,18,73,-10,-10,0,TRUE,0,0,0,0,1,,,"dead"
+2018,16,"275","Ivesia gordonii","Ivesia gordonii",0,158,171,-10,-10,0,FALSE,9,4.5,14,0,1,,,
+2018,16,"279","Elymus lanceolatus","Elymus lanceolatus",0,31,94,10,0,0,FALSE,40,31,36,0,1,,,
+2018,16,"280","Phacelia hastata","Phacelia hastata",0,127,45,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,17,"1591","Elymus lanceolatus","Elymus lanceolatus",0,31,78,-10,-10,0,FALSE,4.5,6,0,0,1,,,
+2018,17,"1596","Lupinus argenteus","Lupinus argenteus",0,108,88,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,17,"1825","Agoseris glauca","Agoseris glauca",0,104,76,-10,-10,0,FALSE,2.5,3,0,0,1,,,
+2018,17,"1826","Lupinus argenteus","Lupinus argenteus",0,90,85,-10,-10,0,FALSE,3.5,4,0,0,1,,,"back from dead"
+2018,17,"1827","Lupinus argenteus","Lupinus argenteus",0,153,92,-10,-10,0,FALSE,3,3,0,0,1,,,
+2018,17,"1828","Lupinus argenteus","Lupinus argenteus",0,171,181,-10,-10,0,FALSE,9.5,5.5,0,0,1,,,
+2018,17,"1829","Lupinus argenteus","Lupinus argenteus",0,159,155,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,17,"2764","Lupinus argenteus","Lupinus argenteus",0,169,198,-5,-5,0,FALSE,2,1.5,0,0,1,,,"Data entered on 19 Sep 2019."
+2018,17,"285","Eriogonum umbellatum","Eriogonum umbellatum",0,16,76,-10,-10,0,FALSE,65,3.5,98,0,1,,,
+2018,17,"286","Heterotheca villosa","Heterotheca villosa",0,2,87,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,17,"287","Elymus lanceolatus","Elymus lanceolatus",0,20,76,-10,-10,0,FALSE,20,22,9,0,1,,,"2 clumps"
+2018,17,"288","Elymus lanceolatus","Elymus lanceolatus",0,18,82,-10,0,0,FALSE,2.5,18.5,1,0,1,,,"4 clumps"
+2018,17,"289","Elymus lanceolatus","Elymus lanceolatus",0,28,81,10,0,0,FALSE,3,9,0,0,1,,,"1 clump"
+2018,17,"290","Elymus lanceolatus","Elymus lanceolatus",0,24,89,-10,0,0,FALSE,4,9,0,0,1,,,"2 clumps"
+2018,17,"291","Elymus lanceolatus","Elymus lanceolatus",0,23,99,-10,0,0,FALSE,32,23,10,0,1,,,"1 clump"
+2018,17,"292","Elymus lanceolatus","Elymus lanceolatus",0,28,91,5,-5,0,FALSE,4,15,1,0,1,,,"1 clump"
+2018,17,"297","Lupinus argenteus","Lupinus argenteus",0,40,183,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,17,"300","Lupinus argenteus","Lupinus argenteus",0,80,110,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,17,"305","Lupinus argenteus","Lupinus argenteus",0,65,1,-5,0,0,FALSE,8.5,9,0,0,1,,,
+2018,17,"306","Heterotheca villosa","Heterotheca villosa",0,65,10,-5,0,0,FALSE,3,2.5,0,0,1,,,"sick"
+2018,17,"309","Lupinus argenteus","Lupinus argenteus",0,75,60,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,17,"313","Lupinus argenteus","Lupinus argenteus",0,85,80,0,5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,17,"318","Lupinus argenteus","Lupinus argenteus",0,149,50,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,18,"2372","Heterotheca villosa","Heterotheca villosa",0,58,72,-10,-10,0,FALSE,10.5,5,4,0,1,,,"back from dead?"
+2018,18,"2765","Ivesia gordonii","Ivesia gordonii",0,166,164,-10,-10,0,FALSE,9,4.5,0,0,1,,,
+2018,18,"328","Ivesia gordonii","Ivesia gordonii",0,34,11.5,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,18,"330","Eriogonum umbellatum","Eriogonum umbellatum",0,54,78,-10,-10,0,FALSE,35,3,30,0,1,,,
+2018,18,"334","Elymus lanceolatus","Elymus lanceolatus",0,56,83,-10,10,0,FALSE,28,24,30,0,1,,,
+2018,18,"335","Ivesia gordonii","Ivesia gordonii",0,80,81,-10,-10,0,FALSE,5.5,3.5,2,0,1,,,
+2018,18,"336","Elymus lanceolatus","Elymus lanceolatus",0,94,115,-10,-10,0,FALSE,22.5,25,28,0,1,,,
+2018,18,"337","Ivesia gordonii","Ivesia gordonii",0,176,166,-10,-10,0,FALSE,13.5,5.5,0,0,1,,,
+2018,18,"338","Ivesia gordonii","Ivesia gordonii",0,108,60,-10,-10,0,FALSE,23,9,17,0,1,,,
+2018,19,"1167","Senecio crassulus","Senecio crassulus",0,176,35,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,19,"1171","Ivesia gordonii","Ivesia gordonii",0,190,10,-10,-10,0,FALSE,3,3.5,0,0,1,,,
+2018,19,"1172","Ivesia gordonii","Ivesia gordonii",0,156,109,-10,-10,0,FALSE,0.5,1.1,0,0,1,,,
+2018,19,"1173","Lupinus argenteus","Lupinus argenteus",0,21,17,-10,-10,0,FALSE,5.5,5,0,0,1,,,
+2018,19,"1597","Eriogonum umbellatum","Eriogonum umbellatum",0,194,65,5,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,19,"1600","Eriogonum umbellatum","Eriogonum umbellatum",0,171,122,-10,-10,0,FALSE,1,0.3,0,0,1,,,"back from dead"
+2018,19,"1602","Ivesia gordonii","Ivesia gordonii",0,139,110,-10,0,0,FALSE,1.5,1.5,0,0,1,,,
+2018,19,"1603","Ivesia gordonii","Ivesia gordonii",0,95,112,-10,-10,0,FALSE,3.5,2.5,0,0,1,,,
+2018,19,"1604","Ivesia gordonii","Ivesia gordonii",0,91,101,-10,-10,0,FALSE,2,1.5,0,0,1,,,
+2018,19,"1605","Ivesia gordonii","Ivesia gordonii",0,92,76,-10,-10,0,FALSE,2,1.5,0,0,1,,,
+2018,19,"1606","Ivesia gordonii","Ivesia gordonii",0,103,89,-10,-10,0,FALSE,2,1.5,0,0,1,,,
+2018,19,"1830","Lupinus argenteus","Lupinus argenteus",0,69,28,-10,-10,0,FALSE,8,6,0,0,1,,,"back from dead"
+2018,19,"1831","Ivesia gordonii","Ivesia gordonii",0,102,88,-10,-10,0,FALSE,1,0.5,0,0,1,,,
+2018,19,"1833","Ivesia gordonii","Ivesia gordonii",0,160,120,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,19,"1835","Eriogonum umbellatum","Eriogonum umbellatum",0,180,46,-10,-10,0,FALSE,0.5,0.5,0,0,1,,,
+2018,19,"1836","Ivesia gordonii","Ivesia gordonii",0,174,39,-10,-10,0,FALSE,2.5,2.5,0,0,1,,,
+2018,19,"1837","Eriogonum umbellatum","Eriogonum umbellatum",0,174,40,-10,-10,0,FALSE,1,1,0,0,1,,,
+2018,19,"1839","Ivesia gordonii","Ivesia gordonii",0,130,64,-10,-10,0,FALSE,4.5,4,0,0,1,,,
+2018,19,"2229","Senecio crassulus","Senecio crassulus",0,5,77,-10,-10,1,TRUE,0,0,0,0,1,,,"dead. Moved from plot 20 to 19."
+2018,19,"2234","Lupinus argenteus","Lupinus argenteus",0,92,72,-10,-10,0,FALSE,11.5,8.5,0,0,1,,,"Location was updated"
+2018,19,"2235","Elymus lanceolatus","Elymus lanceolatus",0,130,58,-10,-10,0,FALSE,2.5,4.5,0,0,1,,,
+2018,19,"2237","Lupinus argenteus","Lupinus argenteus",0,172,46,-10,-10,0,FALSE,2.5,2.5,0,0,1,,,
+2018,19,"2373","Heterotheca villosa","Heterotheca villosa",0,84,140,-10,-10,0,FALSE,1,2,0,0,1,,,
+2018,19,"2374","Lupinus argenteus","Lupinus argenteus",0,65,34,-10,-10,0,FALSE,10,8,0,0,1,,,
+2018,19,"2375","Lupinus argenteus","Lupinus argenteus",0,49,29,-10,-10,0,FALSE,7,8,0,0,1,,,
+2018,19,"2376","Lupinus argenteus","Lupinus argenteus",0,92,42,-10,-10,0,FALSE,6,6,0,0,1,,,
+2018,19,"2377","Chaenactis douglasii","Chaenactis douglasii",0,83,53,-10,-10,0,FALSE,0.9,0.5,0,1,1,,,
+2018,19,"2378","Ivesia gordonii","Ivesia gordonii",0,74,48,-10,-10,0,FALSE,1,1,0,1,1,,,
+2018,19,"2379","Eriogonum umbellatum","Eriogonum umbellatum",0,170,120,5,0,0,FALSE,2.5,0.5,0,0,1,,,
+2018,19,"2380","Eriogonum umbellatum","Eriogonum umbellatum",0,178,35,-10,-10,0,FALSE,1,0.5,0,0,1,,,
+2018,19,"340","Ivesia gordonii","Ivesia gordonii",0,53,17,-10,-10,0,FALSE,11.5,6,0,0,1,,,
+2018,19,"341","Ivesia gordonii","Ivesia gordonii",0,77,28,-10,-10,0,FALSE,8,5,5,0,1,,,
+2018,19,"342","Eriogonum umbellatum","Eriogonum umbellatum",0,110,26,-40,-12,0,FALSE,112,3.5,50,0,1,,,"fairy ring plant"
+2018,19,"343","Senecio crassulus","Senecio crassulus",0,103,10,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,19,"344","Heterotheca villosa","Heterotheca villosa",0,105,30,0,5,0,FALSE,53,7,7,0,1,,,"fairy ring plant"
+2018,19,"345","Lupinus argenteus","Lupinus argenteus",0,91,32,0,0,0,FALSE,8,6.5,0,0,1,,,
+2018,19,"346","Elymus lanceolatus","Elymus lanceolatus",0,109,23,-10,-10,0,FALSE,8.5,14,0,0,1,,,
+2018,19,"347","Elymus lanceolatus","Elymus lanceolatus",0,142,14,10,0,0,FALSE,20,15,2,0,1,,,"3 clumps"
+2018,19,"348","Ivesia gordonii","Ivesia gordonii",0,125,62,-10,-10,0,FALSE,2.5,3,0,0,1,,,"1 clump"
+2018,19,"349","Heterotheca villosa","Heterotheca villosa",0,185,62,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,19,"350","Eriogonum umbellatum","Eriogonum umbellatum",0,182,47,-5,0,0,FALSE,4,1,0,0,1,,,
+2018,19,"351","Ivesia gordonii","Ivesia gordonii",0,161,66,-10,-10,0,FALSE,9,4,4,0,1,,,
+2018,19,"352","Ivesia gordonii","Ivesia gordonii",0,179,66,-10,-10,0,FALSE,6,3.5,3,0,1,,,
+2018,19,"353","Eriogonum umbellatum","Eriogonum umbellatum",0,108,90,-10,-10,0,FALSE,12,1,4,0,1,,,
+2018,19,"355","Ivesia gordonii","Ivesia gordonii",0,105,105,-5,-5,0,FALSE,6,4,0,0,1,,,
+2018,19,"356","Ivesia gordonii","Ivesia gordonii",0,110,100,5,0,0,FALSE,11,2,4,0,1,,,
+2018,19,"357","Ivesia gordonii","Ivesia gordonii",0,105,105,-1,-7,0,FALSE,3.5,2.5,0,0,1,,,
+2018,19,"358","Ivesia gordonii","Ivesia gordonii",0,169,100,-10,-10,0,FALSE,5.5,2.5,0,0,1,,,
+2018,19,"359","Eriogonum umbellatum","Eriogonum umbellatum",0,150,110,-1,0,0,FALSE,7,1.5,0,0,1,,,
+2018,19,"360","Ivesia gordonii","Ivesia gordonii",0,136,113,-5,0,0,FALSE,3,2.5,0,0,1,,,
+2018,19,"361","Ivesia gordonii","Ivesia gordonii",0,170,107,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,19,"363","Heterotheca villosa","Heterotheca villosa",0,169,116,-10,0,0,FALSE,13.5,3.5,5,0,1,,,
+2018,19,"364","Eriogonum umbellatum","Eriogonum umbellatum",0,161,128,-5,0,0,FALSE,7,1,1,0,1,,,
+2018,19,"365","Ivesia gordonii","Ivesia gordonii",0,155,130,-5,0,0,FALSE,5,4,0,0,1,,,
+2018,19,"366","Elymus lanceolatus","Elymus lanceolatus",0,165,130,10,0,0,FALSE,13.5,12.5,4,0,1,,,"6 clumps"
+2018,19,"367","Eriogonum umbellatum","Eriogonum umbellatum",0,180,156,-10,-10,0,FALSE,4,1.5,0,0,1,,,
+2018,19,"368","Eriogonum umbellatum","Eriogonum umbellatum",0,113,177,-10,-10,0,FALSE,43,3.5,26,0,1,,,
+2018,19,"369","Heterotheca villosa","Heterotheca villosa",0,103,145,-10,-10,0,FALSE,15,4,3,0,1,,,
+2018,19,"370","Eriogonum umbellatum","Eriogonum umbellatum",0,86,145,-10,-10,0,FALSE,14,3.5,6,0,1,,,
+2018,19,"371","Ivesia gordonii","Ivesia gordonii",0,79,150,-10,-10,0,FALSE,13.5,5,0,0,1,,,
+2018,19,"372","Ivesia gordonii","Ivesia gordonii",0,5,80,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1175","Eriogonum umbellatum","Eriogonum umbellatum",0,9,7,0,-10,0,FALSE,1,1,0,0,1,,,
+2018,20,"1176","Eriogonum umbellatum","Eriogonum umbellatum",0,3,5,0,-10,0,FALSE,0.9,1,0,0,1,,,
+2018,20,"1179","Arenaria congesta","Arenaria congesta",0,18,23,-10,-10,0,FALSE,19,5,22,0,18,1.5,1.5,
+2018,20,"1180","Eriogonum umbellatum","Eriogonum umbellatum",0,10,25,-10,-10,1,TRUE,0,0,0,0,1,,,
+2018,20,"1181","Arenaria congesta","Arenaria congesta",0,4,28,-5,-5,0,FALSE,1,2,0,0,1,,,
+2018,20,"1182","Eriogonum umbellatum","Eriogonum umbellatum",0,23,44,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1183","Arenaria congesta","Arenaria congesta",0,48,35,-10,-10,0,FALSE,14,4,2,0,4,4,4,
+2018,20,"1191","Lupinus argenteus","Lupinus argenteus",0,195,15,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1193","Lupinus argenteus","Lupinus argenteus",0,134,186,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1198","Lupinus argenteus","Lupinus argenteus",0,155,167,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1609","Eriogonum umbellatum","Eriogonum umbellatum",0,45,35,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1610","Senecio crassulus","Senecio crassulus",0,0,73,0,-33,0,FALSE,4.5,9.5,0,0,1,,,
+2018,20,"1615","Eriogonum umbellatum","Eriogonum umbellatum",0,47,58,-10,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1841","Lupinus argenteus","Lupinus argenteus",0,189,115,-10,-10,0,FALSE,13,8.5,1,0,1,,,
+2018,20,"1842","Heterotheca villosa","Heterotheca villosa",0,143,147,-10,-10,0,FALSE,5.5,1.5,0,0,1,,,
+2018,20,"1843","Eriogonum umbellatum","Eriogonum umbellatum",0,135,183,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1844","Ivesia gordonii","Ivesia gordonii",0,149,188,-10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1845","Eriogonum umbellatum","Eriogonum umbellatum",0,159,182,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1846","Heterotheca villosa","Heterotheca villosa",0,159,196,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1848","Eriogonum umbellatum","Eriogonum umbellatum",0,182,196,10,0,0,FALSE,1,0.5,0,0,1,,,"back from dead"
+2018,20,"1849","Lupinus argenteus","Lupinus argenteus",0,155,160,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1850","Poa stenantha","Poa stenantha",0,164,146,-10,-10,0,FALSE,25,11.5,0,0,1,,,"new species code"
+2018,20,"1852","Eriogonum umbellatum","Eriogonum umbellatum",0,182,155,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1853","Lupinus argenteus","Lupinus argenteus",0,125,135,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1854","Lupinus argenteus","Lupinus argenteus",0,95,86,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1855","Lupinus argenteus","Lupinus argenteus",0,125,66,-10,-10,0,FALSE,16,7.5,0,0,1,,,
+2018,20,"1858","Eriogonum umbellatum","Eriogonum umbellatum",0,52,65,-5,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1861","Eriogonum umbellatum","Eriogonum umbellatum",0,69,31,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1862","Phacelia hastata","Phacelia hastata",0,56,17,-10,-10,0,FALSE,1.5,1,0,0,1,,,
+2018,20,"1865","Arenaria congesta","Arenaria congesta",0,64,43,-10,-10,0,FALSE,1,1,0,0,1,,,
+2018,20,"1866","Arenaria congesta","Arenaria congesta",0,49,29,-2,-11,0,FALSE,14,3,1,0,6,1,1,
+2018,20,"1867","Lupinus argenteus","Lupinus argenteus",0,50,28,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1868","Chaenactis douglasii","Chaenactis douglasii",0,49,35,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1873","Ivesia gordonii","Ivesia gordonii",0,40,42,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1874","Heterotheca villosa","Heterotheca villosa",0,40,35,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1877","Eriogonum umbellatum","Eriogonum umbellatum",0,32,35,-10,-10,0,FALSE,3,1,0,0,1,,,
+2018,20,"1879","Penstemon whippleanus","Penstemon whippleanus",0,5.5,11,-10,-10,0,FALSE,10.5,4,0,0,1,,,
+2018,20,"1880","Heterotheca villosa","Heterotheca villosa",0,15,7,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1882","Ivesia gordonii","Ivesia gordonii",0,35,26,-10,-10,0,FALSE,2,3,0,0,1,,,"sick"
+2018,20,"1885","Agoseris glauca","Agoseris glauca",0,13,24,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1886","Heterotheca villosa","Heterotheca villosa",0,5,27,-10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"1889","Eriogonum umbellatum","Eriogonum umbellatum",0,25,24,-30,-30,0,FALSE,22,1,0,0,3,1,1,
+2018,20,"2178","Phacelia hastata","Phacelia hastata",0,173,52,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"2222","Elymus lanceolatus","Elymus lanceolatus",1,4,4,-10,-10,0,FALSE,8,14,0,0,1,,,
+2018,20,"2223","Phacelia hastata","Phacelia hastata",0,177,10,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"2224","Heterotheca villosa","Heterotheca villosa",0,9.5,38,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"2225","Agoseris glauca","Agoseris glauca",0,24,33,0,10,0,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"2226","Eriogonum umbellatum","Eriogonum umbellatum",0,38,30,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"2227","Ivesia gordonii","Ivesia gordonii",0,33,44,-10,-10,0,FALSE,3,2.5,0,0,1,,,
+2018,20,"2228","Heterotheca villosa","Heterotheca villosa",0,42,40,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"2230","Heterotheca villosa","Heterotheca villosa",0,50,35,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"2231","Lupinus argenteus","Lupinus argenteus",0,180,144,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"2232","Ivesia gordonii","Ivesia gordonii",0,160,170,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"2233","Lupinus argenteus","Lupinus argenteus",0,125,171,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"2382","Chaenactis douglasii","Chaenactis douglasii",0,30,33,-2,-2,0,FALSE,1,1,0,1,1,,,
+2018,20,"2448","Ivesia gordonii","Ivesia gordonii",0,19,25,-10,-10,0,FALSE,9,5,0,0,1,,,"Data entered on 19 Sep 2019. Was originally tagged as 2434"
+2018,20,"2767","Elymus lanceolatus","Elymus lanceolatus",0,179,176,-5,-5,0,FALSE,33,34,69,0,1,,,
+2018,20,"374","Ivesia gordonii","Ivesia gordonii",0,6,8,0,-10,0,FALSE,6,5.5,0,0,1,,,
+2018,20,"380","Arenaria congesta","Arenaria congesta",0,19,29,-5,-5,0,FALSE,3.5,3,2,0,1,,,
+2018,20,"382","Ivesia gordonii","Ivesia gordonii",0,12,37,0,5,0,FALSE,2.5,2,1,0,1,,,"dying"
+2018,20,"386","Arenaria congesta","Arenaria congesta",0,30.5,34,5,-5,0,FALSE,11.5,3,14,0,1,,,
+2018,20,"387","Arenaria congesta","Arenaria congesta",0,28,35,5,-5,0,FALSE,1,2,0,0,1,,,
+2018,20,"392","Ivesia gordonii","Ivesia gordonii",0,43,70,-10,-10,0,FALSE,19,7,4,0,1,,,"center ibutton fell out; replaced"
+2018,20,"393","Heterotheca villosa","Heterotheca villosa",0,42,55,5,-3,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"394","Eriogonum umbellatum","Eriogonum umbellatum",0,49,55,5,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"395","Eriogonum umbellatum","Eriogonum umbellatum",0,49,55,5,0,0,FALSE,1,1,0,0,1,,,
+2018,20,"398","Ivesia gordonii","Ivesia gordonii",0,55,26,-10,-10,0,FALSE,0.2,0.6,0,0,1,,,"mostly dead"
+2018,20,"400","Eriogonum umbellatum","Eriogonum umbellatum",0,43,4,-10,5,0,FALSE,26,3,14,0,1,,,
+2018,20,"401","Chaenactis douglasii","Chaenactis douglasii",0,41,1,-10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"402","Arenaria congesta","Arenaria congesta",0,76,26,-10,-10,0,FALSE,13.5,4.5,21,0,1,,,
+2018,20,"403","Elymus lanceolatus","Elymus lanceolatus",0,72,30,-10,-10,0,FALSE,18,17,10,0,1,,,
+2018,20,"404","Arenaria congesta","Arenaria congesta",0,74,32,-10,-10,0,FALSE,10,5,18,0,1,,,
+2018,20,"406","Senecio crassulus","Senecio crassulus",0,65,47,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"407","Heterotheca villosa","Heterotheca villosa",0,70,55,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"408","Elymus lanceolatus","Elymus lanceolatus",0,97,20,-10,-10,0,FALSE,20.5,19,13,0,1,,,
+2018,20,"412","Eriogonum umbellatum","Eriogonum umbellatum",0,130,102,0,1,0,FALSE,44,3,10,0,1,,,
+2018,20,"413","Elymus lanceolatus","Elymus lanceolatus",0,118,79,-10,-10,0,FALSE,38,26,49,0,1,,,
+2018,20,"416","Elymus lanceolatus","Elymus lanceolatus",0,130,90,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"421","Lupinus argenteus","Lupinus argenteus",0,160,170,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"423","Ivesia gordonii","Ivesia gordonii",0,179,178,-10,-10,0,FALSE,15,6,1,0,1,,,
+2018,20,"426","Chaenactis douglasii","Chaenactis douglasii",0,180,198,-10,-10,0,FALSE,2,1,0,0,1,,,"mostly dead"
+2018,20,"428","Lupinus argenteus","Lupinus argenteus",0,165,198,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"431","Lupinus argenteus","Lupinus argenteus",0,100,175,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,20,"432","Ivesia gordonii","Ivesia gordonii",0,40,181,-10,-10,0,FALSE,8.5,4,0,0,1,,,
+2018,20,"433","Ivesia gordonii","Ivesia gordonii",0,7,167,-10,-10,0,FALSE,13,3.5,0,0,1,,,
+2018,20,"434","Ivesia gordonii","Ivesia gordonii",0,0,151,-5,-5,0,FALSE,7.5,4,0,0,1,,,
+2018,20,"435","Ivesia gordonii","Ivesia gordonii",0,10,147,-10,-10,0,FALSE,16,6,4,0,1,,,
+2018,20,"436","Eriogonum umbellatum","Eriogonum umbellatum",0,0,73,0,-10,0,FALSE,68,2,140,0,1,,,
+2018,20,"437","Agoseris glauca","Agoseris glauca",0,1,85,0,-10,1,TRUE,0,0,0,0,1,,,"shaded out, doing badly"
+2018,20,"442","Achnatherum lettermanii","Achnatherum lettermanii",0,0,73,0,-10,0,FALSE,6,12,0,0,1,,,
+2018,21,"1210","Lupinus argenteus","Lupinus argenteus",0,107,145,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,21,"1622","Poa stenantha","Poa stenantha",0,149,188,-10,-10,0,FALSE,5,8.5,0,0,1,,,
+2018,21,"1892","Phacelia hastata","Phacelia hastata",0,131,187,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,21,"1895","Achnatherum lettermanii","Achnatherum lettermanii",0,70,98,0,10,0,FALSE,4.5,3,0,0,1,,,
+2018,21,"1896","Ivesia gordonii","Ivesia gordonii",0,80,105,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,21,"2244","Ivesia gordonii","Ivesia gordonii",0,25,114,-10,-10,0,FALSE,5,4,0,0,1,,,
+2018,21,"2384","Phacelia hastata","Phacelia hastata",0,136,38,-10,-10,0,FALSE,5,3,0,1,1,,,
+2018,21,"444","Eriogonum umbellatum","Eriogonum umbellatum",0,73,94,0,-10,0,FALSE,30,3,21,0,1,,,
+2018,21,"446","Eriogonum umbellatum","Eriogonum umbellatum",0,131,35,-10,-10,0,FALSE,25,2.5,5,0,1,,,"back from dead. Fairy ring. 2 clumps alive."
+2018,21,"449","Ivesia gordonii","Ivesia gordonii",0,180,160,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,21,"458","Eriogonum umbellatum","Eriogonum umbellatum",0,141,197,-10,-10,0,FALSE,28,1.5,0,0,1,,,"mostly dead"
+2018,21,"462","Heterotheca villosa","Heterotheca villosa",0,30,140,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,21,"463","Achnatherum lettermanii","Achnatherum lettermanii",0,20,155,-10,-10,0,FALSE,11,5,0,0,1,,,"some dieback"
+2018,21,"464","Achnatherum lettermanii","Achnatherum lettermanii",0,34,144,-10,-10,0,FALSE,2,2,0,0,1,,,"very sick"
+2018,22,"1211","Phacelia hastata","Phacelia hastata",0,137,47,-10,-10,0,FALSE,6.5,3,0,0,1,,,
+2018,22,"1212","Agoseris glauca","Agoseris glauca",0,162,55,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,22,"1213","Lupinus argenteus","Lupinus argenteus",0,190,10,-10,-10,0,FALSE,7,5,0,0,1,,,
+2018,22,"1897","Penstemon whippleanus","Penstemon whippleanus",0,3,37,-10,-10,0,FALSE,10,15.5,2,0,1,,,
+2018,22,"1898","Arenaria congesta","Arenaria congesta",0,144,22,-10,-10,0,FALSE,2.5,3,0,0,1,,,"almost dead"
+2018,22,"1899","Agoseris glauca","Agoseris glauca",0,144,31,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,22,"1900","Phacelia hastata","Phacelia hastata",0,146,33,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,22,"2245","Phacelia hastata","Phacelia hastata",0,10,50,-5,-5,0,FALSE,6,4,0,0,1,,,
+2018,22,"2246","Chaenactis douglasii","Chaenactis douglasii",0,99,33,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,22,"2247","Phacelia hastata","Phacelia hastata",0,162,64,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,22,"2248","Elymus lanceolatus","Elymus lanceolatus",0,150,54,0,10,0,FALSE,6,13,0,0,1,,,
+2018,22,"2249","Chaenactis douglasii","Chaenactis douglasii",0,145,63,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,22,"466","Eriogonum umbellatum","Eriogonum umbellatum",0,63,0,0,0,0,FALSE,52,3,36,0,1,,,
+2018,22,"467","Eriogonum umbellatum","Eriogonum umbellatum",0,49,36,-10,-10,0,FALSE,13.5,2.5,2,0,1,,,
+2018,22,"468","Eriogonum umbellatum","Eriogonum umbellatum",0,127,46,-10,-10,0,FALSE,92,2.5,196,0,1,,,
+2018,22,"469","Heterotheca villosa","Heterotheca villosa",0,120,55,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,22,"470","Elymus lanceolatus","Elymus lanceolatus",0,121,49,-10,-10,0,FALSE,20,22.5,11,0,1,,,
+2018,22,"471","Ivesia gordonii","Ivesia gordonii",0,25,170,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,22,"472","Eriogonum umbellatum","Eriogonum umbellatum",0,8,53,0,-10,0,FALSE,53,2.5,48,0,1,,,
+2018,22,"473","Elymus lanceolatus","Elymus lanceolatus",0,9,63,-5,-5,0,FALSE,12.5,17.5,9,0,1,,,
+2018,22,"474","Elymus lanceolatus","Elymus lanceolatus",0,7,66,-5,-5,0,FALSE,8.5,16,1,0,1,,,
+2018,23,"1214","Lupinus argenteus","Lupinus argenteus",0,50,50,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,23,"1903","Lupinus argenteus","Lupinus argenteus",0,185,97,-10,-10,0,FALSE,4,3.5,0,0,1,,,
+2018,23,"2385","Heterotheca villosa","Heterotheca villosa",0,94,0,-5,0,0,FALSE,6,3,1,0,1,,,
+2018,23,"475","Eriogonum umbellatum","Eriogonum umbellatum",0,12,31,0,-5,0,FALSE,12,1.5,1,0,1,,,
+2018,23,"476","Heterotheca villosa","Heterotheca villosa",0,72,30,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,23,"477","Ivesia gordonii","Ivesia gordonii",0,96,3,-10,-10,0,FALSE,10.5,3,13,0,1,,,
+2018,23,"478","Eriogonum umbellatum","Eriogonum umbellatum",0,75,72,-10,-10,0,FALSE,13,2,2,0,1,,,
+2018,23,"479","Ivesia gordonii","Ivesia gordonii",0,113,33,-10,-10,0,FALSE,14,6.5,5,0,1,,,
+2018,23,"480","Ivesia gordonii","Ivesia gordonii",0,105,70,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,23,"481","Eriogonum umbellatum","Eriogonum umbellatum",0,192,53,-10,-10,0,FALSE,48,3.5,41,0,1,,,
+2018,23,"482","Elymus lanceolatus","Elymus lanceolatus",0,181,53,-5,0,0,FALSE,22,21,13,0,1,,,
+2018,23,"483","Agoseris glauca","Agoseris glauca",0,185,50,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,23,"484","Elymus lanceolatus","Elymus lanceolatus",0,194,60,0,-10,0,FALSE,24,15,3,0,1,,,
+2018,23,"488","Heterotheca villosa","Heterotheca villosa",0,190,135,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,23,"489","Ivesia gordonii","Ivesia gordonii",0,111,157,-10,-10,0,FALSE,17,5.5,9,0,1,,,
+2018,23,"490","Elymus lanceolatus","Elymus lanceolatus",0,183,60,5,5,0,FALSE,14.5,20,5,0,1,,,
+2018,24,"1216","Pseudocymopterus montanus","Pseudocymopterus montanus",0,80,175,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,24,"1904","Elymus lanceolatus","Elymus lanceolatus",0,72,177,-10,-10,0,FALSE,5,6.5,0,0,1,,,
+2018,24,"1905","Agoseris glauca","Agoseris glauca",0,188,85,-10,-10,0,FALSE,2,2,0,0,1,,,"unwell"
+2018,24,"1906","Chaenactis douglasii","Chaenactis douglasii",0,184,103,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,24,"1907","Senecio crassulus","Senecio crassulus",0,158,48,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,24,"1908","Senecio crassulus","Senecio crassulus",0,156,51,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,24,"2250","Chaenactis douglasii","Chaenactis douglasii",0,181,83,-10,-10,0,FALSE,1.2,0.5,0,0,1,,,
+2018,24,"2386","Elymus lanceolatus","Elymus lanceolatus",0,179,91,-10,-10,0,FALSE,5.5,10,0,0,1,,,
+2018,24,"2387","Elymus lanceolatus","Elymus lanceolatus",0,101,9.5,-10,0,0,FALSE,7,15,0,0,1,,,
+2018,24,"2388","Elymus lanceolatus","Elymus lanceolatus",0,100,5,-10,0,0,FALSE,8,15,1,0,1,,,
+2018,24,"492","Eriogonum umbellatum","Eriogonum umbellatum",0,119,2,-10,0,0,FALSE,45,3,30,0,1,,,
+2018,24,"493","Elymus lanceolatus","Elymus lanceolatus",0,117,0,-5,0,0,FALSE,38,25,10,0,1,,,
+2018,24,"498","Eriogonum umbellatum","Eriogonum umbellatum",0,147,35,-10,-10,0,FALSE,11,2.5,1,0,1,,,
+2018,24,"499","Elymus lanceolatus","Elymus lanceolatus",0,153,44,-10,-10,0,FALSE,8,9,0,0,1,,,
+2018,24,"500","Elymus lanceolatus","Elymus lanceolatus",0,154,56,10,0,0,FALSE,18,15,3,0,1,,,
+2018,24,"501","Senecio crassulus","Senecio crassulus",0,160,50,10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,24,"502","Eriogonum umbellatum","Eriogonum umbellatum",0,160,50,-10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,24,"503","Elymus lanceolatus","Elymus lanceolatus",0,180,83,-10,-10,0,FALSE,22.5,21,6,0,1,,,
+2018,24,"504","Eriogonum umbellatum","Eriogonum umbellatum",0,195,96,-10,0,0,FALSE,29,2.5,15,0,1,,,
+2018,24,"506","Elymus lanceolatus","Elymus lanceolatus",0,195,175,-10,-10,0,FALSE,17,18.5,7,0,1,,,
+2018,24,"507","Eriogonum umbellatum","Eriogonum umbellatum",0,66,182,-10,-10,0,FALSE,67,4,80,0,1,,,
+2018,24,"508","Senecio crassulus","Senecio crassulus",0,68,176,-10,-10,0,FALSE,2.5,5,0,0,1,,,
+2018,24,"509","Heterotheca villosa","Heterotheca villosa",0,80,175,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,24,"510","Elymus lanceolatus","Elymus lanceolatus",0,62,189,-10,-10,0,FALSE,24,14,2,0,1,,,
+2018,24,"511","Elymus lanceolatus","Elymus lanceolatus",0,64,189,-10,-10,0,FALSE,9,22,2,0,1,,,"back from dead"
+2018,24,"512","Elymus lanceolatus","Elymus lanceolatus",0,69,197,-10,-10,0,FALSE,24,16,6,0,1,,,
+2018,24,"514","Eriogonum umbellatum","Eriogonum umbellatum",0,10,110,0,-10,0,FALSE,31,3,22,0,1,,,"81 flowers in larger mat"
+2018,24,"515","Heterotheca villosa","Heterotheca villosa",0,0,105,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,24,"516","Elymus lanceolatus","Elymus lanceolatus",0,8,109,-10,-10,0,FALSE,35,22.5,17,0,1,,,
+2018,25,"1926","Lupinus argenteus","Lupinus argenteus",0,195,103,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"1224","Elymus lanceolatus","Elymus lanceolatus",0,85,0,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"1226","Ivesia gordonii","Ivesia gordonii",0,0,146,-10,-10,0,FALSE,2.5,2,0,0,1,,,
+2018,27,"1227","Agoseris glauca","Agoseris glauca",0,4,182,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"1229","Arenaria congesta","Arenaria congesta",0,100,64,-10,-10,0,FALSE,7,4,8,0,1,,,
+2018,27,"1624","Elymus lanceolatus","Elymus lanceolatus",0,48,110,-10,-10,0,FALSE,3.5,9,0,0,1,,,
+2018,27,"1934","Ivesia gordonii","Ivesia gordonii",0,33,165,-5,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"1936","Agoseris glauca","Agoseris glauca",0,190,73,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"1937","Agoseris glauca","Agoseris glauca",0,200,65,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"1938","Eriogonum umbellatum","Eriogonum umbellatum",0,110,43,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"2256","Agoseris glauca","Agoseris glauca",0,38,96,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"2257","Agoseris glauca","Agoseris glauca",0,54,100,-10,-10,0,FALSE,2.5,3.5,0,0,1,,,
+2018,27,"2258","Agoseris glauca","Agoseris glauca",0,38,110,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"2259","Senecio crassulus","Senecio crassulus",0,21,116,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"2260","Agoseris glauca","Agoseris glauca",0,62,102,10,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"2261","Elymus lanceolatus","Elymus lanceolatus",0,64,103,10,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"2262","Ivesia gordonii","Ivesia gordonii",0,3,141,-10,-10,1,TRUE,0,0,0,0,1,,,"Data added 20 September 2019. Plant assumed dead since no data recorded for it, and no new IVEGOR tags in area. No evidence of a missed ivegor in the orthophoto."
+2018,27,"2263","Eriogonum umbellatum","Eriogonum umbellatum",0,8,147,-15,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"2264","Heterotheca villosa","Heterotheca villosa",0,9,149,-15,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"2265","Ivesia gordonii","Ivesia gordonii",0,9,152,-15,0,0,FALSE,2.5,1,0,0,1,,,
+2018,27,"2389","Ivesia gordonii","Ivesia gordonii",0,15,121,-10,-10,0,FALSE,2.5,4,0,0,1,,,
+2018,27,"531","Eriogonum umbellatum","Eriogonum umbellatum",0,86,0,-30,0,0,FALSE,88,2.5,36,0,1,,,
+2018,27,"532","Elymus lanceolatus","Elymus lanceolatus",0,112,5,-10,0,0,FALSE,18,13,1,0,1,,,"sick"
+2018,27,"533","Eriogonum umbellatum","Eriogonum umbellatum",0,118,55,-10,-10,0,FALSE,25,3,18,0,1,,,
+2018,27,"534","Heterotheca villosa","Heterotheca villosa",0,162,25,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"535","Eriogonum umbellatum","Eriogonum umbellatum",0,191,65,-10,-10,0,FALSE,53,2.5,93,0,1,,,
+2018,27,"536","Eriogonum umbellatum","Eriogonum umbellatum",0,106,97,-10,-10,0,FALSE,15.5,4,6,0,1,,,
+2018,27,"538","Eriogonum umbellatum","Eriogonum umbellatum",0,115,90,10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"539","Agoseris glauca","Agoseris glauca",0,95,140,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"540","Heterotheca villosa","Heterotheca villosa",0,115,185,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"541","Agoseris glauca","Agoseris glauca",0,30,180,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"542","Achnatherum lettermanii","Achnatherum lettermanii",0,24,181,-10,-10,0,FALSE,6,5.5,0,0,1,,,"dead"
+2018,27,"543","Heterotheca villosa","Heterotheca villosa",0,35,180,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"544","Ivesia gordonii","Ivesia gordonii",0,3,171,0,10,0,FALSE,10.5,3.5,0,0,1,,,
+2018,27,"545","Eriogonum umbellatum","Eriogonum umbellatum",0,8,163,10,-10,0,FALSE,12,1.5,1,0,1,,,
+2018,27,"547","Senecio crassulus","Senecio crassulus",0,2,150,0,-10,1,TRUE,0,0,0,0,1,,,
+2018,27,"548","Eriogonum umbellatum","Eriogonum umbellatum",0,44,110,-10,-10,0,FALSE,76,3,64,0,1,,,
+2018,27,"549","Heterotheca villosa","Heterotheca villosa",0,65,105,0,-20,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"550","Elymus lanceolatus","Elymus lanceolatus",0,15,121,-10,-10,0,FALSE,24,24.5,11,0,1,,,"3 clumps"
+2018,27,"551","Agoseris glauca","Agoseris glauca",0,30,120,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"552","Elymus lanceolatus","Elymus lanceolatus",0,59,92,-10,0,0,FALSE,15,15.5,2,0,1,,,"4 clumps"
+2018,27,"553","Agoseris glauca","Agoseris glauca",0,40,120,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"554","Elymus lanceolatus","Elymus lanceolatus",0,47,114,-5,-5,0,FALSE,10.5,10,0,0,1,,,
+2018,27,"555","Elymus lanceolatus","Elymus lanceolatus",0,53,129,-10,-10,0,FALSE,8,16.5,1,0,1,,,
+2018,27,"556","Ivesia gordonii","Ivesia gordonii",0,45,125,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,27,"557","Elymus lanceolatus","Elymus lanceolatus",0,54,116,-10,-10,0,FALSE,20,14,2,0,1,,,
+2018,27,"558","Elymus lanceolatus","Elymus lanceolatus",0,55,90,-10,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,28,"2251","Senecio crassulus","Senecio crassulus",0,18,23,-10,-10,0,FALSE,2.5,2.5,0,0,1,,,
+2018,28,"2252","Senecio crassulus","Senecio crassulus",0,23,35,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,28,"2253","Elymus lanceolatus","Elymus lanceolatus",0,48,46,0,10,0,FALSE,20,15,3,0,1,,,
+2018,28,"2254","Phacelia hastata","Phacelia hastata",0,71,130,-10,-10,0,FALSE,14,4,1,0,1,,,
+2018,28,"2255","Arnica latifolia","Arnica latifolia",0,169,98,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,28,"2390","Elymus lanceolatus","Elymus lanceolatus",0,90,101,-10,-10,0,FALSE,2,2,0,1,1,,,
+2018,28,"2391","Elymus lanceolatus","Elymus lanceolatus",0,175,134,-10,-10,0,FALSE,3,7,0,1,1,,,
+2018,28,"2433","Ivesia gordonii","Ivesia gordonii",0,178,168,-10,-10,0,FALSE,1.5,1,0,0,1,,,"Data entered on 19 Sep 2019."
+2018,28,"563","Eriogonum umbellatum","Eriogonum umbellatum",0,27,32,-20,-30,0,FALSE,91,4,68,0,1,,,
+2018,28,"564","Heterotheca villosa","Heterotheca villosa",0,50,25,-20,-20,1,TRUE,0,0,0,0,1,,,"dead"
+2018,28,"570","Elymus lanceolatus","Elymus lanceolatus",0,40,23,-10,-10,0,FALSE,21,17,14,0,1,,,
+2018,28,"571","Ivesia gordonii","Ivesia gordonii",0,55,45,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,28,"572","Elymus lanceolatus","Elymus lanceolatus",0,15,38,0,-5,1,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,28,"576","Elymus lanceolatus","Elymus lanceolatus",0,11,41,-10,-10,0,FALSE,35,25,47,0,1,,,
+2018,28,"587","Eriogonum umbellatum","Eriogonum umbellatum",0,162,107,-10,-10,0,FALSE,9,1,4,0,1,,,
+2018,28,"589","Eriogonum umbellatum","Eriogonum umbellatum",0,180,140,-10,-10,0,FALSE,39,2.5,34,0,1,,,
+2018,28,"590","Ivesia gordonii","Ivesia gordonii",0,180,130,-10,-10,0,FALSE,3,1.5,0,0,1,,,
+2018,28,"592","Eriogonum umbellatum","Eriogonum umbellatum",0,149,124,-10,-10,0,FALSE,24,2.5,13,0,1,,,
+2018,28,"596","Elymus lanceolatus","Elymus lanceolatus",0,150,123,10,10,0,FALSE,32,24,22,0,1,,,
+2018,28,"597","Elymus lanceolatus","Elymus lanceolatus",0,146,134,-5,5,0,FALSE,0,0,0,0,1,,,"dead"
+2018,28,"599","Senecio crassulus","Senecio crassulus",0,145,105,0,-10,0,FALSE,1.5,4,0,0,1,,,
+2018,28,"602","Ivesia gordonii","Ivesia gordonii",0,141,112,-10,10,0,FALSE,7.5,3.5,2,0,1,,,"back from dead"
+2018,28,"603","Eriogonum umbellatum","Eriogonum umbellatum",0,138,107,-5,-5,0,FALSE,2,1,0,0,1,,,
+2018,28,"605","Eriogonum umbellatum","Eriogonum umbellatum",0,126,149,-10,-10,0,FALSE,37,3,67,0,1,,,
+2018,29,"1952","Lupinus argenteus","Lupinus argenteus",0,6,175,-10,-10,0,FALSE,3.5,3,0,0,1,,,"1 stem"
+2018,29,"1953","Lupinus argenteus","Lupinus argenteus",0,17,184,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,29,"1955","Eriogonum umbellatum","Eriogonum umbellatum",0,50,185,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,29,"1956","Eriogonum umbellatum","Eriogonum umbellatum",0,71,160,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,29,"1960","Eriogonum umbellatum","Eriogonum umbellatum",0,183,63,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,29,"631","Elymus lanceolatus","Elymus lanceolatus",0,138,74,-10,-10,0,FALSE,30,28,15,0,1,,,
+2018,29,"642","Lupinus argenteus","Lupinus argenteus",0,140,180,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,29,"646","Ivesia gordonii","Ivesia gordonii",0,80,190,-10,-10,0,FALSE,18,5,34,0,1,,,
+2018,29,"651","Lupinus argenteus","Lupinus argenteus",0,50,180,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,29,"652","Heterotheca villosa","Heterotheca villosa",0,34,159,0,0,0,FALSE,7.5,3.5,2,0,1,,,
+2018,29,"654","Chaenactis douglasii","Chaenactis douglasii",0,5,170,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,29,"655","Eriogonum umbellatum","Eriogonum umbellatum",0,21,145,-10,-10,0,FALSE,55,3,20,0,1,,,
+2018,29,"656","Elymus lanceolatus","Elymus lanceolatus",0,15,159,-10,-10,0,FALSE,14,21,5,0,1,,,"2 clumps"
+2018,29,"657","Elymus lanceolatus","Elymus lanceolatus",0,19,167,-10,-10,0,FALSE,18,21,5,0,1,,,"3 clumps"
+2018,29,"658","Elymus lanceolatus","Elymus lanceolatus",0,15,175,-10,-10,0,FALSE,5,6,0,0,1,,,"1 clump"
+2018,29,"659","Elymus lanceolatus","Elymus lanceolatus",0,25,155,-10,-10,0,FALSE,3,17,0,0,1,,,"1 clump"
+2018,29,"660","Elymus lanceolatus","Elymus lanceolatus",0,30,165,-10,-10,0,FALSE,26,16.5,2,0,1,,,"2 clumps"
+2018,30,"661","Elymus lanceolatus","Elymus lanceolatus",0,39,99,-10,-10,0,FALSE,21,26,19,0,1,,,
+2018,31,"1237","Lupinus argenteus","Lupinus argenteus",0,8,182,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,31,"1964","Elymus lanceolatus","Achnatherum lettermanii",0,118,23,-10,-10,0,FALSE,8,13,0,0,1,,,
+2018,31,"662","Phacelia hastata","Phacelia hastata",0,42,79,-10,-10,0,FALSE,16,5,0,0,1,,,
+2018,31,"663","Eriogonum umbellatum","Eriogonum umbellatum",0,115,25,-47,-10,0,FALSE,85,4,92,0,1,,,"center ibutton replaced 8/1"
+2018,31,"664","Achnatherum lettermanii","Achnatherum lettermanii",0,102,24,-10,-10,0,FALSE,21,19.5,11,0,1,,,
+2018,31,"665","Achnatherum lettermanii","Achnatherum lettermanii",0,102,14,-10,-10,0,FALSE,11,11,0,0,1,,,
+2018,31,"667","Elymus lanceolatus","Elymus lanceolatus",0,115,33,0,-5,0,FALSE,6,10,0,0,1,,,"2 clumps"
+2018,31,"668","Elymus lanceolatus","Elymus lanceolatus",0,115,39,0,10,0,FALSE,17,12,0,0,1,,,
+2018,31,"670","Elymus lanceolatus","Elymus lanceolatus",0,119,35,0,10,0,FALSE,20,18,4,0,1,,,
+2018,31,"672","Elymus lanceolatus","Elymus lanceolatus",0,133,16,-10,-10,0,FALSE,37,26.5,22,0,1,,,
+2018,31,"674","Elymus lanceolatus","Elymus lanceolatus",0,163,3,10,0,0,FALSE,4,11.5,0,0,1,,,"back from dead"
+2018,31,"677","Eriogonum umbellatum","Eriogonum umbellatum",0,50,195,-10,-10,0,FALSE,12,2,0,0,1,,,"appears to be out of plot; very sick."
+2018,31,"678","Achnatherum lettermanii","Achnatherum lettermanii",0,38,196,-10,-10,0,FALSE,12,9,12,0,1,,,"appears to be out of plot"
+2018,31,"679","Achnatherum lettermanii","Achnatherum lettermanii",0,30,160,-10,-10,0,FALSE,13,6,0,0,1,,,"sick hard times"
+2018,31,"680","Eriogonum umbellatum","Eriogonum umbellatum",0,55,150,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,32,"1239","Lupinus argenteus","Lupinus argenteus",0,26,63,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,32,"1240","Lupinus argenteus","Lupinus argenteus",0,75,11,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,32,"1241","Lupinus argenteus","Lupinus argenteus",0,113,22,-10,-10,0,FALSE,4.5,4.5,0,0,1,,,
+2018,32,"1242","Lupinus argenteus","Lupinus argenteus",0,125,59,-5,-5,0,FALSE,4.5,3.5,0,0,1,,,
+2018,32,"1243","Lupinus argenteus","Lupinus argenteus",0,132,94,-10,-10,0,FALSE,11,4.5,0,0,1,,,
+2018,32,"1244","Lupinus argenteus","Lupinus argenteus",0,195,125,-10,-10,0,FALSE,3.5,2.5,0,0,1,,,
+2018,32,"1246","Lupinus argenteus","Lupinus argenteus",0,199,77,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,32,"1640","Lupinus argenteus","Lupinus argenteus",0,108,36,-5,-5,0,FALSE,1.5,1,0,0,1,,,"sick dying"
+2018,32,"1966","Ivesia gordonii","Ivesia gordonii",0,166,68,-10,-10,0,FALSE,0.8,0.9,0,0,1,,,
+2018,32,"1967","Ivesia gordonii","Ivesia gordonii",0,182,59,-10,-10,0,FALSE,0.5,0.5,0,0,1,,,
+2018,32,"681","Lupinus argenteus","Lupinus argenteus",0,23,28,-10,-10,0,FALSE,4.5,2.5,0,0,1,,,
+2018,32,"683","Eriogonum umbellatum","Eriogonum umbellatum",0,101,0,-5,-5,0,FALSE,28,3,1,0,1,,,
+2018,32,"684","Ivesia gordonii","Ivesia gordonii",0,87,19,-10,-10,0,FALSE,6.5,2,2,0,1,,,
+2018,32,"685","Ivesia gordonii","Ivesia gordonii",0,137,0,-10,0,0,FALSE,7,3.5,1,0,1,,,
+2018,32,"686","Eriogonum umbellatum","Eriogonum umbellatum",0,121,71,-10,-10,0,FALSE,35,2.5,45,0,1,,,
+2018,32,"688","Ivesia gordonii","Ivesia gordonii",0,125,146,-10,-10,0,FALSE,11.5,4,1,0,1,,,
+2018,32,"689","Ivesia gordonii","Ivesia gordonii",0,120,160,-10,-10,0,FALSE,11.5,4,0,0,1,,,
+2018,33,"1245","Lupinus argenteus","Lupinus argenteus",0,168,127,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1248","Lupinus argenteus","Lupinus argenteus",0,9,20,-10,-10,0,FALSE,10,7.5,0,0,1,,,
+2018,33,"1249","Agoseris glauca","Agoseris glauca",0,0,78,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1250","Ivesia gordonii","Ivesia gordonii",0,148,54,-5,0,0,FALSE,12,7,2,0,1,,,
+2018,33,"1251","Lupinus argenteus","Lupinus argenteus",0,143,102,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1252","Phacelia hastata","Phacelia hastata",0,157,200,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1256","Lupinus argenteus","Lupinus argenteus",0,170,186,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1261","Ivesia gordonii","Ivesia gordonii",0,93,169,-10,-10,0,FALSE,3.5,4.5,0,0,1,,,
+2018,33,"1262","Elymus lanceolatus","Elymus lanceolatus",0,61,196,-10,-10,0,FALSE,11,15,0,0,1,,,"back from dead.2 clumps"
+2018,33,"1641","Ivesia gordonii","Ivesia gordonii",0,132,27,-10,-10,0,FALSE,11,4,0,0,1,,,
+2018,33,"1644","Lupinus argenteus","Lupinus argenteus",0,23,196,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1645","Phacelia hastata","Phacelia hastata",0,20,200,-10,-10,0,FALSE,8,4.5,0,0,1,,,"migrated out ofplot"
+2018,33,"1647","Lupinus argenteus","Lupinus argenteus",0,78,148,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1648","Heterotheca villosa","Heterotheca villosa",0,170,101,-10,-10,0,FALSE,1.5,1,0,0,1,,,"back from dead"
+2018,33,"1968","Agoseris glauca","Agoseris glauca",0,1,35,-10,-10,0,FALSE,0.6,3,0,0,1,,,
+2018,33,"1970","Poa stenantha","Elymus lanceolatus",1,73,180,-10,-10,0,FALSE,9,16,0,0,1,,,"might be ELYLAN"
+2018,33,"1971","Heterotheca villosa","Heterotheca villosa",0,78,184,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1974","Lupinus argenteus","Lupinus argenteus",0,175,112,-10,-10,0,FALSE,3,2,0,0,1,,,"back from dead"
+2018,33,"1975","Lupinus argenteus","Lupinus argenteus",0,102,189,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1976","Heterotheca villosa","Heterotheca villosa",0,180,93,-10,-10,0,FALSE,7.5,3.5,2,0,1,,,"position fixed."
+2018,33,"1979","Eriogonum umbellatum","Eriogonum umbellatum",0,53,167,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1980","Lupinus argenteus","Lupinus argenteus",0,56,168,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1981","Lupinus argenteus","Lupinus argenteus",0,56,173,-5,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1982","Lupinus argenteus","Lupinus argenteus",0,61,174,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1983","Lupinus argenteus","Lupinus argenteus",0,61,165,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"1989","Elymus lanceolatus","Elymus lanceolatus",0,145,39,-10,-10,0,FALSE,19,19.5,1,0,1,,,
+2018,33,"2266","Senecio crassulus","Senecio crassulus",0,12,42,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"2267","Ivesia gordonii","Ivesia gordonii",0,48,22,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"2268","Chaenactis douglasii","Chaenactis douglasii",0,17,76,-10,-10,0,FALSE,3.5,2,0,0,1,,,
+2018,33,"2269","Eriogonum umbellatum","Eriogonum umbellatum",0,52,128,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"2270","Heterotheca villosa","Heterotheca villosa",0,87,193,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"2271","Heterotheca villosa","Heterotheca villosa",0,82,185,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"2272","Elymus lanceolatus","Elymus lanceolatus",0,90,185,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"2273","Lupinus argenteus","Lupinus argenteus",0,44,162,-10,-10,0,FALSE,1,0.2,0,0,1,,,"mostly dead"
+2018,33,"2274","Lupinus argenteus","Lupinus argenteus",0,48,168,-10,-10,0,FALSE,3,1,0,0,1,,,"sickly, crunchy"
+2018,33,"2275","Ivesia gordonii","Ivesia gordonii",0,72,176,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"2276","Poa stenantha","Poa stenantha",0,77,175,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"2277","Senecio crassulus","Senecio crassulus",0,84,180,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"2278","Lupinus argenteus","Lupinus argenteus",0,162,112,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"2279","Lupinus argenteus","Lupinus argenteus",0,154,117,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"2392","Senecio crassulus","Senecio crassulus",0,68,200,-10,-10,0,FALSE,6.5,5,0,0,1,,,
+2018,33,"2393","Senecio crassulus","Senecio crassulus",0,191,85,-10,-10,0,FALSE,2.5,3,0,1,1,,,
+2018,33,"692","Eriogonum umbellatum","Eriogonum umbellatum",0,21,47,-16,-25,0,FALSE,70,5,138,0,1,,,
+2018,33,"693","Agoseris glauca","Agoseris glauca",0,5,40,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"695","Achnatherum lettermanii","Achnatherum lettermanii",0,25,46,-10,-10,0,FALSE,18,8,2,0,1,,,
+2018,33,"696","Heterotheca villosa","Heterotheca villosa",0,53,43,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"697","Ivesia gordonii","Ivesia gordonii",0,58,20,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"700","Ivesia gordonii","Ivesia gordonii",0,130,5,-10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"705","Ivesia gordonii","Ivesia gordonii",0,142,47,-5,-5,0,FALSE,15,7,18,0,1,,,
+2018,33,"709","Lupinus argenteus","Lupinus argenteus",0,166,100,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"712","Lupinus argenteus","Lupinus argenteus",0,175,100,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"715","Eriogonum umbellatum","Eriogonum umbellatum",0,175,84,-10,-10,0,FALSE,13.5,1.5,3,0,1,,,
+2018,33,"716","Eriogonum umbellatum","Eriogonum umbellatum",0,194,81,-5,-15,0,FALSE,41,3,13,0,1,,,
+2018,33,"717","Ivesia gordonii","Ivesia gordonii",0,196,76,-10,-10,0,FALSE,21,9,28,0,1,,,
+2018,33,"723","Heterotheca villosa","Heterotheca villosa",0,175,180,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"724","Ivesia gordonii","Ivesia gordonii",0,127,197,-10,-10,0,FALSE,9.5,3,4,0,1,,,
+2018,33,"725","Ivesia gordonii","Ivesia gordonii",0,117,187,-10,-10,0,FALSE,18,5,13,0,1,,,"2 clumps"
+2018,33,"726","Ivesia gordonii","Ivesia gordonii",0,120,165,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"727","Agoseris glauca","Agoseris glauca",0,130,155,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,33,"729","Poa stenantha","Poa stenantha",0,125,146,-10,-10,0,FALSE,22,15,10,0,1,,,
+2018,33,"730","Poa stenantha","Poa stenantha",0,115,150,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"731","Heterotheca villosa","Heterotheca villosa",0,114,144,-10,-10,0,FALSE,12,6.5,2,0,1,,,"dieback. Position moved."
+2018,33,"732","Eriogonum umbellatum","Eriogonum umbellatum",0,105,166,-30,-15,0,FALSE,100,4,99,0,1,,,
+2018,33,"733","Poa stenantha","Poa stenantha",0,135,135,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"734","Poa stenantha","Poa stenantha",0,100,135,-10,-10,0,FALSE,11,6,0,0,1,,,
+2018,33,"736","Elymus lanceolatus","Elymus lanceolatus",0,92,186,-2,-5,0,FALSE,8,18,2,0,1,,,
+2018,33,"737","Elymus lanceolatus","Elymus lanceolatus",0,91,190,-10,-10,0,FALSE,8.5,13.5,1,0,1,,,
+2018,33,"739","Heterotheca villosa","Heterotheca villosa",0,70,200,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"740","Lupinus argenteus","Lupinus argenteus",0,80,190,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"743","Lupinus argenteus","Lupinus argenteus",0,50,160,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,33,"746","Eriogonum umbellatum","Eriogonum umbellatum",0,32,178,-10,-10,0,FALSE,38,3,50,0,1,,,"ibutton plant"
+2018,33,"747","Eriogonum umbellatum","Eriogonum umbellatum",0,20,124,-45,-20,0,FALSE,60,5,23,0,1,,,"fairy ring plant. Dieback. 3 clumps."
+2018,33,"748","Achnatherum lettermanii","Poa stenantha",0,17,129,-10,-10,0,FALSE,17,12.5,1,0,1,,,
+2018,33,"749","Elymus lanceolatus","Elymus lanceolatus",0,18,137,-10,-10,0,FALSE,33,26,17,0,1,,,
+2018,33,"750","Elymus lanceolatus","Elymus lanceolatus",0,14,105,-2,-10,0,FALSE,18,19.5,1,0,1,,,
+2018,34,"1264","Elymus lanceolatus","Elymus lanceolatus",0,36,198,-5,-5,0,FALSE,14,13,1,0,1,,,
+2018,34,"1265","Elymus lanceolatus","Elymus lanceolatus",0,41,200,-10,-10,0,FALSE,5,8,0,0,1,,,
+2018,34,"1992","Elymus lanceolatus","Elymus lanceolatus",0,118,54,-10,-10,0,FALSE,20,22.5,0,0,1,,,
+2018,34,"1993","Phacelia hastata","Phacelia hastata",0,119,56,-10,-10,0,FALSE,14,7,2,0,1,,,
+2018,34,"2394","Chaenactis douglasii","Chaenactis douglasii",0,108,51,-10,-10,0,FALSE,2,2,0,1,1,,,
+2018,34,"751","Eriogonum umbellatum","Eriogonum umbellatum",0,121,46,-10,-10,0,FALSE,40,3,41,0,1,,,
+2018,34,"752","Elymus lanceolatus","Elymus lanceolatus",0,117,54,-10,-10,0,FALSE,30,27,30,0,1,,,
+2018,34,"753","Eriogonum umbellatum","Eriogonum umbellatum",0,91,197,-10,-10,0,FALSE,5,2.5,0,0,1,,,
+2018,34,"754","Eriogonum umbellatum","Eriogonum umbellatum",0,84,174,-10,-10,0,FALSE,43,2.5,46,0,1,,,"ibutton plant"
+2018,34,"755","Elymus lanceolatus","Elymus lanceolatus",0,31,200,-5,-5,0,FALSE,5.5,14,0,0,1,,,
+2018,34,"756","Elymus lanceolatus","Elymus lanceolatus",0,28,200,-10,-10,0,FALSE,8,20,1,0,1,,,
+2018,34,"757","Elymus lanceolatus","Elymus lanceolatus",0,33,197,8,5,0,FALSE,6,7,0,0,1,,,
+2018,34,"759","Eriogonum umbellatum","Eriogonum umbellatum",0,0,178,0,-10,0,FALSE,28,2,6,0,1,,,
+2018,36,"1277","Arnica latifolia","Arnica latifolia",0,158,143,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"1279","Lupinus argenteus","Lupinus argenteus",0,200,177,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"1280","Arnica latifolia","Arnica latifolia",0,103,175,-10,-10,0,FALSE,2,1.5,0,0,1,,,
+2018,36,"1282","Lupinus argenteus","Lupinus argenteus",0,105,183,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"1285","Lupinus argenteus","Lupinus argenteus",0,13,166,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"1651","Lupinus argenteus","Lupinus argenteus",0,104,158,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"1995","Agoseris glauca","Agoseris glauca",0,80,13,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"1996","Lupinus argenteus","Lupinus argenteus",0,153,5,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"1997","Agoseris glauca","Agoseris glauca",0,104,160,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"1998","Heterotheca villosa","Heterotheca villosa",0,108,136,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"2000","Agoseris glauca","Agoseris glauca",0,112,153,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"2001","Agoseris glauca","Agoseris glauca",0,102,152,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"2003","Eriogonum umbellatum","Eriogonum umbellatum",0,97,157,-10,-10,0,FALSE,81,3,166,0,1,,,
+2018,36,"2283","Lupinus argenteus","Lupinus argenteus",0,56,20,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"2291","Arnica latifolia","Arnica latifolia",0,106,145,-7,-5,0,FALSE,8,10,0,0,1,,,"shares nail with 2294"
+2018,36,"2293","Arnica latifolia","Arnica latifolia",0,98,166,-10,-10,1,FALSE,0,0,0,0,1,,,"dead"
+2018,36,"2294","Arnica latifolia","Arnica latifolia",0,102,158,-10,-10,0,FALSE,6,4,0,0,1,,,"shares nail with 2291"
+2018,36,"2295","Ivesia gordonii","Ivesia gordonii",0,106,155,10,0,0,FALSE,4,3.5,0,0,1,,,
+2018,36,"2296","Ivesia gordonii","Ivesia gordonii",0,103,168,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"2297","Ivesia gordonii","Ivesia gordonii",0,179,128,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"2298","Lupinus argenteus","Lupinus argenteus",0,154,27,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"2395","Senecio crassulus","Senecio crassulus",0,108,158,0,2,0,FALSE,2,3.5,0,1,1,,,
+2018,36,"762","Ivesia gordonii","Ivesia gordonii",0,70,10,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"763","Eriogonum umbellatum","Eriogonum umbellatum",0,74,5,-10,-10,0,FALSE,22,1.5,3,0,1,,,
+2018,36,"767","Eriogonum umbellatum","Eriogonum umbellatum",0,85,30,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"769","Elymus lanceolatus","Elymus lanceolatus",0,76,26,-10,10,0,FALSE,28,19.5,17,0,1,,,
+2018,36,"770","Eriogonum umbellatum","Eriogonum umbellatum",0,142,0,-35,-15,0,FALSE,71,2,81,0,1,,,
+2018,36,"771","Achnatherum lettermanii","Poa stenantha",0,153,21,-10,-10,0,FALSE,27,16.5,13,0,1,,,
+2018,36,"774","Eriogonum umbellatum","Eriogonum umbellatum",0,190,34,-10,-10,0,FALSE,1.5,0.6,0,0,1,,,
+2018,36,"776","Ivesia gordonii","Ivesia gordonii",0,175,135,-10,-10,0,FALSE,7,2.5,3,0,1,,,
+2018,36,"780","Lupinus argenteus","Lupinus argenteus",0,110,190,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,36,"781","Arnica latifolia","Arnica latifolia",0,99,176,-10,-10,0,FALSE,10.5,11.5,1,0,1,,,
+2018,36,"782","Elymus lanceolatus","Elymus lanceolatus",0,104,162,-10,-10,0,FALSE,14,22,2,0,1,,,
+2018,36,"784","Agoseris glauca","Agoseris glauca",0,110,150,-10,-10,0,FALSE,2.5,4,0,0,1,,,
+2018,36,"786","Achnatherum lettermanii","Achnatherum lettermanii",0,106,134,-10,-10,0,FALSE,11.5,13.5,7,0,1,,,
+2018,37,"1287","Ivesia gordonii","Ivesia gordonii",0,54,36,-10,-10,0,FALSE,2.5,1,0,0,1,,,
+2018,37,"1288","Eriogonum umbellatum","Eriogonum umbellatum",0,50,49,-10,-10,0,FALSE,1,0.5,0,0,1,,,
+2018,37,"1289","Agoseris glauca","Agoseris glauca",0,62,60,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"1290","Lupinus argenteus","Lupinus argenteus",0,69,60,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"1291","Ivesia gordonii","Ivesia gordonii",0,62,62,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"1292","Lupinus argenteus","Lupinus argenteus",0,105,35,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"1299","Lupinus argenteus","Lupinus argenteus",0,115,105,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"1300","Ivesia gordonii","Ivesia gordonii",0,97,110,-10,-10,0,FALSE,1,1,0,0,1,,,
+2018,37,"1302","Lupinus argenteus","Lupinus argenteus",0,58,123,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"1305","Lupinus argenteus","Lupinus argenteus",0,146,140,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"1307","Lupinus argenteus","Lupinus argenteus",0,43,132,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"1312","Lupinus argenteus","Lupinus argenteus",0,52,200,-10,-10,0,FALSE,5,4.5,0,0,1,,,
+2018,37,"1314","Lupinus argenteus","Lupinus argenteus",0,144,200,-10,-10,0,FALSE,9.5,6.5,0,0,1,,,
+2018,37,"1316","Ivesia gordonii","Ivesia gordonii",0,132,159,-10,-10,0,FALSE,3,2.5,0,0,1,,,
+2018,37,"1652","Lupinus argenteus","Lupinus argenteus",0,176,9,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"1659","Heterotheca villosa","Heterotheca villosa",0,78,91,-10,-10,0,FALSE,1.1,0.7,0,0,1,,,
+2018,37,"1662","Ivesia gordonii","Ivesia gordonii",0,72,99,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"1663","Heterotheca villosa","Heterotheca villosa",0,118,172,0,10,0,FALSE,4.5,2,0,0,1,,,
+2018,37,"1664","Heterotheca villosa","Heterotheca villosa",0,116,156,-10,-10,0,FALSE,2,1,0,0,1,,,
+2018,37,"1665","Ivesia gordonii","Ivesia gordonii",0,121,156,-5,-5,0,FALSE,3,2,0,0,1,,,
+2018,37,"2004","Ivesia gordonii","Ivesia gordonii",0,52,2,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2005","Poa stenantha","Poa stenantha",0,50,0,-10,-10,0,FALSE,3,4,0,0,1,,,
+2018,37,"2018","Eriogonum umbellatum","Eriogonum umbellatum",0,59,60,-10,-10,0,FALSE,1.5,0.5,0,0,1,,,
+2018,37,"2020","Ivesia gordonii","Ivesia gordonii",0,70,70,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2022","Lupinus argenteus","Lupinus argenteus",0,64,72,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2023","Lupinus argenteus","Lupinus argenteus",0,59,73,-10,-10,0,FALSE,5.5,4.5,0,0,1,,,"back from dead"
+2018,37,"2025","Agoseris glauca","Agoseris glauca",0,83,96,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2026","Ivesia gordonii","Ivesia gordonii",0,86,104,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2027","Senecio crassulus","Senecio crassulus",0,84,102,-10,-10,0,FALSE,5,6,0,0,1,,,"back from dead"
+2018,37,"2028","Ivesia gordonii","Ivesia gordonii",0,76,102,-10,-10,0,FALSE,3,3,0,0,1,,,
+2018,37,"2029","Eriogonum umbellatum","Eriogonum umbellatum",0,80,109,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2030","Ivesia gordonii","Ivesia gordonii",0,48,142,-10,-10,0,FALSE,2,2,0,0,1,,,
+2018,37,"2033","Lupinus argenteus","Lupinus argenteus",0,96,147,-10,-10,0,FALSE,5.5,4,0,0,1,,,
+2018,37,"2035","Ivesia gordonii","Ivesia gordonii",0,110,156,-10,-10,0,FALSE,12.5,2,0,0,6,2,2,
+2018,37,"2036","Lupinus argenteus","Lupinus argenteus",0,128,178,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2040","Ivesia gordonii","Ivesia gordonii",0,168,145,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2042","Lupinus argenteus","Lupinus argenteus",0,165,70,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2043","Lupinus argenteus","Lupinus argenteus",0,181,38,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2046","Eriogonum umbellatum","Eriogonum umbellatum",0,194,38,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2281","Lupinus argenteus","Lupinus argenteus",0,58,37,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2282","Ivesia gordonii","Ivesia gordonii",0,66,19,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2284","Eriogonum umbellatum","Eriogonum umbellatum",0,50,78,-10,-10,0,FALSE,2,1.5,0,0,1,,,
+2018,37,"2285","Ivesia gordonii","Ivesia gordonii",0,73,61,-10,-10,0,FALSE,1.5,0.5,0,0,1,,,
+2018,37,"2286","Eriogonum umbellatum","Eriogonum umbellatum",0,67,114,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2287","Phacelia hastata","Phacelia hastata",0,93,118,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2288","Lupinus argenteus","Lupinus argenteus",0,121,150,-10,-10,0,FALSE,12,7,0,0,1,,,"1 stem"
+2018,37,"2289","Lupinus argenteus","Lupinus argenteus",0,115,157,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"2290","Ivesia gordonii","Ivesia gordonii",0,141,131,-10,-10,0,FALSE,2,1.5,0,0,1,,,
+2018,37,"2397","Lupinus argenteus","Lupinus argenteus",0,19,200,-10,-10,0,FALSE,9,9,0,0,1,,,
+2018,37,"2398","Lupinus argenteus","Lupinus argenteus",0,22,199,-10,-10,0,FALSE,10,7.5,0,0,1,,,"Ibutton plant"
+2018,37,"2399","Lupinus argenteus","Lupinus argenteus",0,68,90,-10,-10,0,FALSE,3,3,0,0,1,,,
+2018,37,"788","Lupinus argenteus","Lupinus argenteus",0,30,25,-10,-10,0,FALSE,12.5,9,0,0,1,,,
+2018,37,"790","Ivesia gordonii","Ivesia gordonii",0,63,13,-10,-10,0,FALSE,9,4,0,0,1,,,
+2018,37,"793","Ivesia gordonii","Ivesia gordonii",0,75,44,-10,-10,0,FALSE,11,3.5,1,0,1,,,
+2018,37,"795","Lupinus argenteus","Lupinus argenteus",0,55,60,-10,-10,0,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"796","Lupinus argenteus","Lupinus argenteus",0,48,70,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"797","Lupinus argenteus","Lupinus argenteus",0,65,75,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"798","Ivesia gordonii","Ivesia gordonii",0,52,80,-10,-10,0,FALSE,10,3.5,0,0,1,,,
+2018,37,"805","Heterotheca villosa","Heterotheca villosa",0,185,40,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"806","Lupinus argenteus","Lupinus argenteus",0,185,45,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"807","Lupinus argenteus","Lupinus argenteus",0,160,50,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"808","Ivesia gordonii","Ivesia gordonii",0,146,163,-10,-10,0,FALSE,12,5.5,0,0,1,,,
+2018,37,"809","Ivesia gordonii","Ivesia gordonii",0,117,163,-10,-10,0,FALSE,6,3.5,0,0,1,,,"3 clumps"
+2018,37,"810","Ivesia gordonii","Ivesia gordonii",0,105,169,-10,-10,0,FALSE,21,7,5,0,1,,,"ibutton plant"
+2018,37,"812","Lupinus argenteus","Lupinus argenteus",0,10,200,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"814","Ivesia gordonii","Ivesia gordonii",0,62,116,-10,-10,0,FALSE,9.5,3.5,0,0,1,,,
+2018,37,"815","Ivesia gordonii","Ivesia gordonii",0,83,121,-10,-10,0,FALSE,12.5,3,0,0,1,,,
+2018,37,"816","Eriogonum umbellatum","Eriogonum umbellatum",0,103,128,-10,-10,0,FALSE,19,1.5,13,0,1,,,
+2018,37,"817","Achnatherum lettermanii","Achnatherum lettermanii",0,100,135,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,37,"818","Heterotheca villosa","Heterotheca villosa",0,103,115,-10,-10,0,FALSE,5.5,1.5,0,0,1,,,
+2018,37,"820","Ivesia gordonii","Ivesia gordonii",0,89,105,-10,-10,0,FALSE,10.5,5,2,0,1,,,
+2018,37,"822","Ivesia gordonii","Ivesia gordonii",0,83,83,-10,-10,0,FALSE,11,3,1,0,1,,,
+2018,37,"823","Ivesia gordonii","Ivesia gordonii",0,103,108,-10,-10,0,FALSE,5,2,0,0,1,,,
+2018,37,"824","Ivesia gordonii","Ivesia gordonii",0,104,99,-10,-10,0,FALSE,17,3,2,0,1,,,
+2018,39,"1318","Lupinus argenteus","Lupinus argenteus",0,124,184,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,39,"827","Eriogonum umbellatum","Eriogonum umbellatum",0,51,70,-10,-10,0,FALSE,11,1.5,0,0,1,,,
+2018,39,"828","Lupinus argenteus","Lupinus argenteus",0,165,170,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,40,"1321","Eriogonum umbellatum","Eriogonum umbellatum",0,0,11,-10,-10,0,FALSE,2.5,1.5,0,0,1,,,
+2018,40,"2047","Elymus lanceolatus","Elymus lanceolatus",0,48,16,-10,-10,0,FALSE,20.5,21,8,0,1,,,"ibutton plant"
+2018,40,"2280","Eriogonum umbellatum","Eriogonum umbellatum",0,109,156,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,40,"833","Elymus lanceolatus","Elymus lanceolatus",0,60,0,0,5,0,FALSE,19.5,14,1,0,1,,,"2 clumps"
+2018,40,"834","Elymus lanceolatus","Elymus lanceolatus",0,62,0,0,5,0,FALSE,33,23.5,31,0,1,,,
+2018,40,"835","Eriogonum umbellatum","Eriogonum umbellatum",0,75,10,0,10,0,FALSE,11.5,1.5,0,0,1,,,"upper 2 clumps"
+2018,40,"836","Heterotheca villosa","Heterotheca villosa",0,80,10,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"1324","Lupinus argenteus","Lupinus argenteus",0,4,24,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,41,"1325","Lupinus argenteus","Lupinus argenteus",0,13,32,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"1327","Lupinus argenteus","Lupinus argenteus",0,67,40,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"1350","Lupinus argenteus","Lupinus argenteus",0,92,144,-10,-10,0,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"1353","Lupinus argenteus","Lupinus argenteus",0,134,129,-10,-10,0,FALSE,0.5,0.4,0,0,1,,,"back fom dead"
+2018,41,"1361","Phacelia hastata","Phacelia hastata",0,184,174,0,-10,0,FALSE,4,1,0,0,1,,,
+2018,41,"1364","Lupinus argenteus","Lupinus argenteus",0,181,167,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"1365","Lupinus argenteus","Lupinus argenteus",0,150,184,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"1366","Eriogonum umbellatum","Eriogonum umbellatum",0,135,182,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"1367","Eriogonum umbellatum","Eriogonum umbellatum",0,198,178,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"1374","Lupinus argenteus","Lupinus argenteus",0,190,58,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"1671","Senecio crassulus","Senecio crassulus",0,144,182,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"1672","Phacelia hastata","Phacelia hastata",0,184,177,-10,-10,0,FALSE,0.9,0.4,0,0,1,,,
+2018,41,"2048","Ivesia gordonii","Ivesia gordonii",0,30,12,-10,-10,0,FALSE,6,3,1,0,1,,,
+2018,41,"2049","Arenaria congesta","Arenaria congesta",0,67,52,-10,-10,0,FALSE,6,4,3,0,1,,,"ibutton plant"
+2018,41,"2051","Heterotheca villosa","Heterotheca villosa",0,126,128,-10,-10,0,FALSE,9.5,6,3,0,1,,,"back from dead"
+2018,41,"2053","Senecio crassulus","Senecio crassulus",0,112,154,-10,-10,0,FALSE,14,6.5,0,0,1,,,"ibutton plant"
+2018,41,"2054","Heterotheca villosa","Heterotheca villosa",0,157,162,-10,-10,0,FALSE,9,5.5,0,0,1,,,
+2018,41,"2056","Arnica latifolia","Arnica latifolia",0,155,175,-10,-10,0,FALSE,7,4,0,0,1,,,"new species code"
+2018,41,"2057","Arenaria congesta","Arenaria congesta",0,150,187,-10,-10,0,FALSE,2,2,0,0,1,,,
+2018,41,"2060","Senecio crassulus","Senecio crassulus",0,140,189,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"2062","Senecio crassulus","Senecio crassulus",0,139,176,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"2292","Elymus lanceolatus","Elymus lanceolatus",0,125,133,-10,-10,0,FALSE,22.5,19,1,0,1,,,
+2018,41,"2299","Lupinus argenteus","Lupinus argenteus",0,136,151,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"2300","Heterotheca villosa","Heterotheca villosa",0,158,154,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"2301","Eriogonum umbellatum","Eriogonum umbellatum",0,152,149,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"2302","Senecio crassulus","Senecio crassulus",0,147,190,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"2303","Arenaria congesta","Arenaria congesta",0,0,83,-10,-10,0,FALSE,1.5,2.5,0,0,1,,,
+2018,41,"2304","Arenaria congesta","Arenaria congesta",0,1,78,-10,-10,0,FALSE,1,2,0,0,1,,,
+2018,41,"2305","Lupinus argenteus","Lupinus argenteus",0,27,47,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"848","Eriogonum umbellatum","Eriogonum umbellatum",0,169,187,-10,-10,0,FALSE,81,3,56,0,1,,,
+2018,41,"849","Senecio crassulus","Senecio crassulus",0,170,175,10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"851","Agoseris glauca","Agoseris glauca",0,185,190,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"852","Achnatherum lettermanii","Achnatherum lettermanii",0,183,189,-10,-10,0,FALSE,3.5,2,0,0,1,,,
+2018,41,"853","Achnatherum lettermanii","Achnatherum lettermanii",0,190,190,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"854","Arnica latifolia","Arnica latifolia",0,155,180,-10,-10,0,FALSE,6,4.5,0,0,1,,,"2 clumps"
+2018,41,"855","Arnica latifolia","Arnica latifolia",0,150,200,-10,-10,0,FALSE,3,5,0,0,1,,,
+2018,41,"856","Achnatherum lettermanii","Achnatherum lettermanii",0,156,200,10,0,0,FALSE,7,6,0,0,1,,,
+2018,41,"857","Arnica latifolia","Arnica latifolia",0,145,190,-10,-10,0,FALSE,4,6.5,1,0,1,,,
+2018,41,"859","Arenaria congesta","Arenaria congesta",0,25,148,-10,-10,0,FALSE,10,7,14,0,1,,,"ibutton plant"
+2018,41,"860","Elymus lanceolatus","Elymus lanceolatus",0,0,112,-5,-5,0,FALSE,26,19,25,0,1,,,"ibutton plant"
+2018,41,"861","Heterotheca villosa","Heterotheca villosa",0,10,95,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,41,"862","Eriogonum umbellatum","Eriogonum umbellatum",0,3,85,-10,-10,0,FALSE,25,1.5,13,0,1,,,"offplot individual"
+2018,42,"1380","Lupinus argenteus","Lupinus argenteus",0,31,28,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"1382","Lupinus argenteus","Lupinus argenteus",0,25,85,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"1383","Lupinus argenteus","Lupinus argenteus",0,24,37,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"1385","Lupinus argenteus","Lupinus argenteus",0,38,77,-10,-10,0,FALSE,6,3.5,0,0,1,,,
+2018,42,"1386","Lupinus argenteus","Lupinus argenteus",0,33,88,-10,-10,0,FALSE,6.5,4.5,0,0,1,,,
+2018,42,"1387","Lupinus argenteus","Lupinus argenteus",0,15,100,-10,-10,1,TRUE,0,0,0,0,1,,,
+2018,42,"1389","Lupinus argenteus","Lupinus argenteus",0,8,120,-10,-10,0,FALSE,0.5,0.2,0,0,1,,,
+2018,42,"1390","Lupinus argenteus","Lupinus argenteus",0,5,130,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"1393","Lupinus argenteus","Lupinus argenteus",0,10,160,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"1394","Lupinus argenteus","Lupinus argenteus",0,19,184,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"1398","Lupinus argenteus","Lupinus argenteus",0,26,196,0,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"1399","Lupinus argenteus","Lupinus argenteus",0,63,195,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"1402","Lupinus argenteus","Lupinus argenteus",0,118,171,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"1403","Lupinus argenteus","Lupinus argenteus",0,142,67,-10,-10,0,FALSE,12.5,6.5,0,0,1,,,"ibutton"
+2018,42,"1676","Lupinus argenteus","Lupinus argenteus",0,1,142,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"1677","Senecio crassulus","Senecio crassulus",0,14,198,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"2411","Lupinus argenteus","Lupinus argenteus",0,135,194,-10,-10,0,FALSE,4,1.5,0,0,1,,,
+2018,42,"864","Lupinus argenteus","Lupinus argenteus",0,12,48,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,42,"865","Eriogonum umbellatum","Eriogonum umbellatum",0,0,64,0,-10,0,FALSE,37,3,3,0,1,,,"fairy ring"
+2018,42,"872","Lupinus argenteus","Lupinus argenteus",0,0,165,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,45,"2075","Agoseris glauca","Agoseris glauca",0,78,58,-10,-10,0,FALSE,5,6,1,0,1,,,"back from dead"
+2018,45,"874","Eriogonum umbellatum","Eriogonum umbellatum",0,71,53,-10,-10,0,FALSE,23,1.5,1,0,1,,,
+2018,45,"876","Ivesia gordonii","Ivesia gordonii",0,33,118,-10,-10,0,FALSE,17,5.5,4,0,1,,,"ibutton"
+2018,46,"1002","Elymus lanceolatus","Elymus lanceolatus",0,160,149,0,-5,0,FALSE,30,24,4,0,1,,,"back from dead"
+2018,46,"1007","Elymus lanceolatus","Elymus lanceolatus",0,170,168,-10,-10,0,FALSE,21,23,7,0,1,,,
+2018,46,"1008","Carex siccata","Carex siccata",0,185,185,0,2,0,FALSE,26,18,0,0,1,,,"many clumps"
+2018,46,"1009","Carex siccata","Carex siccata",0,180,178,-5,-5,0,FALSE,2,1,0,0,1,,,"1 clump, sick"
+2018,46,"1010","Carex siccata","Carex siccata",0,160,180,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1011","Carex siccata","Carex siccata",0,150,185,0,-5,0,FALSE,5.5,9,0,0,1,,,"2 clumps"
+2018,46,"1014","Eriogonum umbellatum","Eriogonum umbellatum",0,100,175,-10,-10,0,FALSE,10,1.5,3,0,1,,,"ibutton"
+2018,46,"1015","Eriogonum umbellatum","Eriogonum umbellatum",0,80,175,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1017","Heterotheca villosa","Heterotheca villosa",0,120,145,-2,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1018","Eriogonum umbellatum","Eriogonum umbellatum",0,130,135,-10,-2,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1019","Eriogonum umbellatum","Eriogonum umbellatum",0,133,143,-10,-10,0,FALSE,2.5,1,0,0,1,,,
+2018,46,"1020","Carex siccata","Carex siccata",0,27,127,-10,-10,0,FALSE,14,12,0,0,1,,,"5 clumps"
+2018,46,"1022","Carex siccata","Carex siccata",0,34,113,-3,-2,0,FALSE,15,12,0,0,1,,,"4 clumps"
+2018,46,"1446","Agoseris glauca","Agoseris glauca",0,51,8,-10,-10,0,FALSE,3,2.5,1,0,1,,,
+2018,46,"1449","Senecio crassulus","Senecio crassulus",0,67,23,-5,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1452","Arenaria congesta","Arenaria congesta",0,73,7,-10,-10,0,FALSE,3,1,0,0,1,,,
+2018,46,"1453","Senecio crassulus","Senecio crassulus",0,79,16,-10,-10,0,FALSE,4,4,0,0,1,,,
+2018,46,"1454","Senecio crassulus","Senecio crassulus",0,85,15.5,-10,-10,0,FALSE,12.5,10.5,1,0,1,,,"ibutton"
+2018,46,"1455","Viola praemorsa","Viola praemorsa",0,96,16,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1462","Senecio crassulus","Senecio crassulus",0,76,50,-10,-10,0,FALSE,9,6,0,0,1,,,
+2018,46,"1471","Senecio crassulus","Senecio crassulus",0,128,40,-10,-10,0,FALSE,2,4,0,0,1,,,
+2018,46,"1473","Arenaria congesta","Arenaria congesta",0,88,32,-10,-10,0,FALSE,4,3.5,4,0,1,,,
+2018,46,"1475","Eriogonum umbellatum","Eriogonum umbellatum",0,67,23,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1477","Phacelia hastata","Phacelia hastata",0,125,46,-10,-10,0,FALSE,3.5,3.5,0,0,1,,,
+2018,46,"1478","Ivesia gordonii","Ivesia gordonii",0,125,32,-2,-5,0,FALSE,11,6,3,0,2,10,6,
+2018,46,"1479","Arenaria congesta","Arenaria congesta",0,147,5,-10,-10,0,FALSE,1,0.5,0,0,1,,,
+2018,46,"1481","Senecio crassulus","Senecio crassulus",0,129,19,-10,-10,0,FALSE,8,8.5,0,0,1,,,
+2018,46,"1482","Ivesia gordonii","Ivesia gordonii",0,153,13,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1483","Agoseris glauca","Agoseris glauca",0,145,11,-10,-10,0,FALSE,11,5.5,8,0,1,,,
+2018,46,"1489","Senecio crassulus","Senecio crassulus",0,142,45,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1490","Senecio crassulus","Senecio crassulus",0,147,45,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1491","Eriogonum umbellatum","Eriogonum umbellatum",0,159,42,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1492","Eriogonum umbellatum","Eriogonum umbellatum",0,163,41,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1504","Carex siccata","Carex siccata",0,173,85,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1505","Arenaria congesta","Arenaria congesta",0,192,97,-5,-5,0,FALSE,5.6,3.5,0,0,1,,,
+2018,46,"1506","Lupinus argenteus","Lupinus argenteus",0,193,100,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1507","Arenaria congesta","Arenaria congesta",0,193,101,-5,-5,0,FALSE,5.5,2,0,0,1,,,
+2018,46,"1513","Eriogonum umbellatum","Eriogonum umbellatum",0,126,98,-10,-10,0,FALSE,3.5,1,0,0,1,,,
+2018,46,"1520","Lupinus argenteus","Lupinus argenteus",0,84,160,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1521","Lupinus argenteus","Lupinus argenteus",0,103,179,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1525","Lupinus argenteus","Lupinus argenteus",0,120,115,-2,-2,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1529","Agoseris glauca","Agoseris glauca",0,195,155,-10,-2,0,FALSE,4,4.5,0,0,1,,,
+2018,46,"1530","Lupinus argenteus","Lupinus argenteus",0,179,185,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1531","Senecio crassulus","Senecio crassulus",0,186,123,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1533","Heterotheca villosa","Heterotheca villosa",0,178,118,-8,-2,0,FALSE,3,2.5,0,0,1,,,"back from dead"
+2018,46,"1534","Carex siccata","Carex siccata",0,199,151,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1536","Senecio crassulus","Senecio crassulus",0,85,85,-5,-5,0,FALSE,2,3,0,0,1,,,
+2018,46,"1684","Ivesia gordonii","Ivesia gordonii",0,52,28,-10,-10,0,FALSE,3,5,0,0,1,,,
+2018,46,"1685","Senecio crassulus","Senecio crassulus",0,50,19,-5,-5,0,FALSE,7,6,0,0,1,,,
+2018,46,"1686","Senecio crassulus","Senecio crassulus",0,31,68,-10,-10,0,FALSE,6.5,3,0,0,1,,,
+2018,46,"1689","Carex siccata","Carex siccata",0,34,132,-10,-10,0,FALSE,13.5,16.5,0,0,1,,,"4 clumps"
+2018,46,"1691","Carex siccata","Carex siccata",0,32,130,0,10,0,FALSE,8,10,0,0,1,,,
+2018,46,"1696","Lupinus argenteus","Lupinus argenteus",0,105,21,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1702","Agoseris glauca","Agoseris glauca",0,198,14,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1703","Agoseris glauca","Agoseris glauca",0,192,33,-10,-10,0,FALSE,8.9,5.5,1,0,1,,,"In PHAHAS"
+2018,46,"1704","Senecio crassulus","Senecio crassulus",0,174,19,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1706","Senecio crassulus","Senecio crassulus",0,101,43,-10,-10,0,FALSE,5.5,5,0,0,1,,,
+2018,46,"1708","Senecio crassulus","Senecio crassulus",0,91,53,0,-10,0,FALSE,2,2.5,0,0,1,,,
+2018,46,"1714","Arnica latifolia","Arnica latifolia",0,107,128,-10,-10,0,FALSE,8.5,4,0,0,1,,,
+2018,46,"1715","Senecio crassulus","Senecio crassulus",0,137,115,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1717","Senecio crassulus","Senecio crassulus",0,184,129,-10,-10,0,FALSE,1.2,3.5,0,0,1,,,
+2018,46,"1719","Viola praemorsa","Viola praemorsa",0,177,141,-5,-5,0,FALSE,4,4,0,0,1,,,"back from dead, looks sick"
+2018,46,"1724","Eriogonum umbellatum","Eriogonum umbellatum",0,154,128,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1725","Senecio crassulus","Senecio crassulus",0,170,137,-10,-10,0,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1726","Senecio crassulus","Senecio crassulus",0,158,132,-10,-10,1,FALSE,0,0,0,0,1,,,"dead"
+2018,46,"1727","Senecio crassulus","Senecio crassulus",0,135,133,-10,-10,0,FALSE,1.5,3,0,0,1,,,
+2018,46,"1730","Senecio crassulus","Senecio crassulus",0,188,145,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1731","Senecio crassulus","Senecio crassulus",0,189,147,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1733","Carex siccata","Carex siccata",0,184,151,-10,-10,0,FALSE,4,12,0,0,1,,,"back from dead"
+2018,46,"1734","Elymus lanceolatus","Elymus lanceolatus",0,175,148,-5,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"1737","Agoseris glauca","Agoseris glauca",0,171,170,-5,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2086","Lupinus argenteus","Lupinus argenteus",0,69,199,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2087","Senecio crassulus","Senecio crassulus",0,84,186,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2088","Carex siccata","Carex siccata",0,21,117,-10,-10,0,FALSE,9.5,8.5,0,0,1,,,"1 clump"
+2018,46,"2091","Arenaria congesta","Arenaria congesta",0,66,75,-10,-10,0,FALSE,3,3,0,0,1,,,"back from dead"
+2018,46,"2092","Viola praemorsa","Viola praemorsa",0,7,46,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2093","Lupinus argenteus","Lupinus argenteus",0,11,49,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2094","Lupinus argenteus","Lupinus argenteus",0,13,45,0,10,1,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,46,"2096","Agoseris glauca","Agoseris glauca",0,12,40,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2097","Senecio crassulus","Senecio crassulus",0,20,59,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2108","Agoseris glauca","Agoseris glauca",0,61,6,-10,-10,0,FALSE,2.5,1,0,0,1,,,"sick"
+2018,46,"2109","Arenaria congesta","Arenaria congesta",0,58,3,-10,-10,0,FALSE,5,3,0,0,1,,,
+2018,46,"2111","Arenaria congesta","Arenaria congesta",0,50,18,-10,-10,0,FALSE,5.5,4,0,0,1,,,
+2018,46,"2113","Agoseris glauca","Agoseris glauca",0,60,24,-5,-5,0,FALSE,4,3,0,0,1,,,"dying"
+2018,46,"2114","Arenaria congesta","Arenaria congesta",0,76,26,-10,-10,0,FALSE,2,0.5,0,0,1,,,"sick"
+2018,46,"2115","Phacelia hastata","Phacelia hastata",0,70,10,-10,-10,0,FALSE,7,2,1,0,1,,,
+2018,46,"2117","Ivesia gordonii","Ivesia gordonii",0,84,38,-10,-10,0,FALSE,4.5,4,0,0,1,,,
+2018,46,"2120","Ivesia gordonii","Ivesia gordonii",0,141,9,-10,-10,0,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2121","Ivesia gordonii","Ivesia gordonii",0,122,4,-10,-10,0,FALSE,5.5,3.5,0,0,1,,,
+2018,46,"2125","Lupinus argenteus","Lupinus argenteus",0,176,40,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2128","Senecio crassulus","Senecio crassulus",0,170,10,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2131","Heterotheca villosa","Heterotheca villosa",0,188,5,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2133","Carex siccata","Carex siccata",0,194,45,-10,-10,0,FALSE,17,17.5,0,0,1,,,"1 clump"
+2018,46,"2141","Agoseris glauca","Agoseris glauca",0,87,60,-10,-10,0,FALSE,9,4,0,0,1,,,
+2018,46,"2143","Senecio crassulus","Senecio crassulus",0,84,70,-10,-10,0,FALSE,6,5,1,0,1,,,
+2018,46,"2146","Senecio crassulus","Senecio crassulus",0,88,107,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2148","Lupinus argenteus","Lupinus argenteus",0,78,97,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, tag was found in plot 6 (x=157, y=165)"
+2018,46,"2149","Lupinus argenteus","Lupinus argenteus",0,91,128,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2150","Senecio crassulus","Senecio crassulus",0,101,72,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2151","Senecio crassulus","Senecio crassulus",0,110,73,-10,-10,0,FALSE,2.5,5.5,1,0,1,,,"sick"
+2018,46,"2152","Senecio crassulus","Senecio crassulus",0,67,109,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2156","Senecio crassulus","Senecio crassulus",0,112,135,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2157","Senecio crassulus","Senecio crassulus",0,120,135,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2159","Senecio crassulus","Senecio crassulus",0,102,176,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, note new position"
+2018,46,"2160","Eriogonum umbellatum","Eriogonum umbellatum",0,118,124,-10,-10,0,FALSE,3,1.5,0,0,1,,,
+2018,46,"2164","Arenaria congesta","Arenaria congesta",0,143,92,-10,-10,0,FALSE,5,3.5,0,0,1,,,
+2018,46,"2165","Arenaria congesta","Arenaria congesta",0,147,124,-10,-10,0,FALSE,2,3,2,0,1,,,
+2018,46,"2169","Carex siccata","Carex siccata",0,183,163,-5,-5,0,FALSE,11,10,0,0,1,,,
+2018,46,"2170","Arenaria congesta","Arenaria congesta",0,167,132,-10,-10,0,FALSE,2.5,1.5,0,0,1,,,"back from dead"
+2018,46,"2171","Carex siccata","Carex siccata",0,193,109,-10,-10,0,FALSE,7,8.5,0,0,1,,,
+2018,46,"2172","Eriogonum umbellatum","Eriogonum umbellatum",0,158,121,-10,-10,0,FALSE,3.5,3,0,0,1,,,
+2018,46,"2173","Eriogonum umbellatum","Eriogonum umbellatum",0,164,124,0,-5,1,FALSE,0,0,0,0,1,,,"dead"
+2018,46,"2306","Eriogonum umbellatum","Eriogonum umbellatum",0,81,24,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2307","Lupinus argenteus","Lupinus argenteus",0,87,28,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2308","Senecio crassulus","Senecio crassulus",0,86,18,-10,-10,0,FALSE,7.5,6,0,0,1,,,
+2018,46,"2309","Senecio crassulus","Senecio crassulus",0,100,41,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2310","Senecio crassulus","Senecio crassulus",0,87,60,-10,-10,1,FALSE,0,0,0,0,1,,,"dead"
+2018,46,"2311","Agoseris glauca","Viola praemorsa",0,79,62,-10,-10,0,FALSE,9,4,0,0,1,,,
+2018,46,"2312","Senecio crassulus","Senecio crassulus",0,94,92,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2313","Agoseris glauca","Agoseris glauca",0,90,94,-10,-10,0,FALSE,7.5,5.5,0,0,1,,,
+2018,46,"2314","Senecio crassulus","Senecio crassulus",0,98,110,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2315","Carex siccata","Carex siccata",0,87,54,-10,-10,0,FALSE,79,14.5,1,0,1,,,"long vertical cluster"
+2018,46,"2316","Eriogonum umbellatum","Eriogonum umbellatum",0,114,50,-10,-10,1,FALSE,0,0,0,0,1,,,"dead"
+2018,46,"2317","Agoseris glauca","Agoseris glauca",0,115,52,-10,-10,0,FALSE,2.5,6,0,0,1,,,
+2018,46,"2318","Ivesia gordonii","Ivesia gordonii",0,112,30,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2319","Arenaria congesta","Arenaria congesta",0,150,11,0,-5,0,FALSE,1.5,1,0,0,1,,,
+2018,46,"2320","Agoseris glauca","Agoseris glauca",0,130,30,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2321","Senecio crassulus","Senecio crassulus",0,128,51,-5,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2322","Agoseris glauca","Agoseris glauca",0,130,30,-5,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2323","Senecio crassulus","Senecio crassulus",0,191,18,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2324","Agoseris glauca","Agoseris glauca",0,196,16,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2325","Senecio crassulus","Senecio crassulus",0,188,23,-5,-5,1,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,46,"2326","Senecio crassulus","Senecio crassulus",0,194,34,-10,-10,0,FALSE,7,4.5,0,0,1,,,
+2018,46,"2327","Eriogonum umbellatum","Eriogonum umbellatum",0,168,49,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2328","Senecio crassulus","Senecio crassulus",0,97,57,-5,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2329","Senecio crassulus","Senecio crassulus",0,99,60,-5,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2330","Senecio crassulus","Senecio crassulus",0,100,65,10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2331","Senecio crassulus","Senecio crassulus",0,102,73,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2332","Lupinus argenteus","Lupinus argenteus",0,101,100,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2333","Eriogonum umbellatum","Eriogonum umbellatum",0,127,95,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2334","Senecio crassulus","Senecio crassulus",0,156,66,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2335","Senecio crassulus","Senecio crassulus",0,133,75,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2336","Senecio crassulus","Senecio crassulus",0,130,80,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2337","Senecio crassulus","Senecio crassulus",0,134,81,-10,-10,0,FALSE,3,6.5,0,0,1,,,
+2018,46,"2338","Lupinus argenteus","Lupinus argenteus",0,116,103,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2339","Phacelia hastata","Phacelia hastata",0,119,85,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2340","Ivesia gordonii","Ivesia gordonii",0,185,133,-10,-10,0,FALSE,1,0.7,0,0,1,,,
+2018,46,"2341","Senecio crassulus","Agoseris glauca",0,151,116,-5,-5,0,FALSE,7,6,1,0,1,,,"Used measurements taken on 27 Aug 2018. Data entered on 19 Sep 2019."
+2018,46,"2342","Senecio crassulus","Senecio crassulus",0,190,146,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2343","Senecio crassulus","Senecio crassulus",0,181,135,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2344","Agoseris glauca","Agoseris glauca",0,178,145,-10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2345","Lupinus argenteus","Lupinus argenteus",0,196,157,-10,-10,0,FALSE,3,4,0,0,1,,,
+2018,46,"2346","Senecio crassulus","Senecio crassulus",0,153,163,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2347","Senecio crassulus","Senecio crassulus",0,159,165,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2348","Heterotheca villosa","Heterotheca villosa",0,162,167,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2349","Carex siccata","Carex siccata",0,181,200,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2350","Ivesia gordonii","Ivesia gordonii",0,116,152,-10,-10,0,FALSE,9.5,6.5,0,0,1,,,
+2018,46,"2351","Eriogonum umbellatum","Eriogonum umbellatum",0,112,129,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2352","Senecio crassulus","Senecio crassulus",0,101,132,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2353","Senecio crassulus","Senecio crassulus",0,111,128,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2354","Heterotheca villosa","Heterotheca villosa",0,142,48,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"2401","Carex siccata","Carex siccata",0,28,103,-2,-2,0,FALSE,2,3,0,0,1,,,"1 clump"
+2018,46,"2402","Carex siccata","Carex siccata",0,28,132,-10,-10,0,FALSE,7.5,11,0,0,1,,,"1 clump"
+2018,46,"2403","Carex siccata","Carex siccata",0,23,42,10,0,0,FALSE,7.5,8.5,0,0,1,,,"1 clump"
+2018,46,"2405","Heterotheca villosa","Heterotheca villosa",0,100,168,-10,-10,0,FALSE,8,3.5,1,0,1,,,
+2018,46,"2406","Phacelia hastata","Phacelia hastata",0,105,171,0,10,0,FALSE,1,0.5,0,1,1,,,
+2018,46,"2409","Carex siccata","Carex siccata",0,157,192,-10,-10,0,FALSE,8,13,0,0,1,,,
+2018,46,"2412","Arenaria congesta","Arenaria congesta",0,31,15,-10,-10,0,FALSE,6,6,9,0,1,,,
+2018,46,"2413","Arenaria congesta","Arenaria congesta",0,37,20,-10,-10,0,FALSE,4.5,3.5,1,0,1,,,
+2018,46,"2414","Agoseris glauca","Agoseris glauca",0,20,31,-5,-5,0,FALSE,4.5,3,1,0,1,,,
+2018,46,"2415","Carex siccata","Carex siccata",0,166,5,0,5,0,FALSE,12,7.5,0,0,1,,,"3 clumps"
+2018,46,"2416","Carex siccata","Carex siccata",0,176,31,-5,-5,0,FALSE,17,16,0,0,1,,,"1 clump"
+2018,46,"2417","Carex siccata","Carex siccata",0,103,26,-5,-5,0,FALSE,1.5,3.5,0,0,1,,,"1 clump"
+2018,46,"2418","Agoseris glauca","Agoseris glauca",0,96,52,-5,-5,0,FALSE,5,5,0,1,1,,,
+2018,46,"2419","Carex siccata","Carex siccata",0,65,95,-10,-10,0,FALSE,8,10,0,0,1,,,"1 clump"
+2018,46,"2420","Phacelia hastata","Phacelia hastata",0,83,105,0,10,0,FALSE,2,0.5,0,1,1,,,
+2018,46,"2421","Carex siccata","Carex siccata",0,101,127,-10,-10,0,FALSE,3.5,9.5,0,0,1,,,
+2018,46,"2422","Senecio crassulus","Senecio crassulus",0,139,116,-10,-10,0,FALSE,3.5,1,0,0,1,,,
+2018,46,"2423","Senecio crassulus","Senecio crassulus",0,163,129,5,0,0,FALSE,2,2.5,0,1,1,,,
+2018,46,"2425","Agoseris glauca","Agoseris glauca",1,200,127,-10,-10,0,FALSE,1.5,4,0,1,1,,,
+2018,46,"2426","Arenaria congesta","Arenaria congesta",0,178,81,-10,-10,0,FALSE,1.5,1.5,0,0,1,,,
+2018,46,"2427","Carex siccata","Carex siccata",0,179,82,-10,-10,0,FALSE,1,2.5,0,0,1,,,
+2018,46,"2428","Carex siccata","Carex siccata",0,181,85,-10,-10,0,FALSE,2,2.5,0,0,1,,,
+2018,46,"2429","Carex siccata","Carex siccata",0,185,70,-10,-10,0,FALSE,16,16,0,0,1,,,"3 clumps"
+2018,46,"2430","Carex siccata","Elymus lanceolatus",0,134,29,-10,-10,0,FALSE,4.5,9.5,0,0,1,,,"1 clump"
+2018,46,"2431","Ivesia gordonii","Ivesia gordonii",0,130,33,0,-5,0,FALSE,7,4.5,0,0,1,,,
+2018,46,"2432","Agoseris glauca","Agoseris glauca",0,130,38,-10,0,0,FALSE,5.5,5,1,0,1,,,
+2018,46,"877","Eriogonum umbellatum","Eriogonum umbellatum",0,5,0,0,-10,0,FALSE,79,2,22,0,1,,,"3 clumps"
+2018,46,"878","Carex siccata","Carex siccata",0,18,12,0,-5,0,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"885","Arenaria congesta","Arenaria congesta",0,40,12,-5,5,0,FALSE,8,5,9,0,1,,,
+2018,46,"886","Senecio crassulus","Senecio crassulus",0,53,10,0,-5,0,FALSE,7,4,1,0,1,,,"2 stems, unwell"
+2018,46,"888","Eriogonum umbellatum","Eriogonum umbellatum",0,50,20,1,-5,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"892","Carex siccata","Carex siccata",0,28,27,17,3,0,FALSE,22,11,0,0,1,,,"7 clumps"
+2018,46,"893","Heterotheca villosa","Heterotheca villosa",0,30,35,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"894","Agoseris glauca","Agoseris glauca",0,33,42,-10,10,0,FALSE,3.5,4,1,0,1,,,
+2018,46,"895","Carex siccata","Carex siccata",0,12,47,-10,-10,0,FALSE,27,15,1,0,1,,,
+2018,46,"898","Eriogonum umbellatum","Eriogonum umbellatum",0,51,24,-10,-10,0,FALSE,23.4,2,8,0,1,,,
+2018,46,"899","Lupinus argenteus","Lupinus argenteus",0,62,30,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"904","Lupinus argenteus","Lupinus argenteus",0,75,40,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"906","Heterotheca villosa","Heterotheca villosa",0,73,36,-10,-10,0,FALSE,2,1.5,0,0,1,,,
+2018,46,"912","Senecio crassulus","Senecio crassulus",0,95,27,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"913","Viola praemorsa","Viola praemorsa",0,95,20,-10,-10,0,FALSE,11,6,1,0,1,,,
+2018,46,"914","Eriogonum umbellatum","Eriogonum umbellatum",0,104,75,-13,-25,0,FALSE,67,3.5,62,0,1,,,"main left clump, plus middle clump"
+2018,46,"920","Phacelia hastata","Phacelia hastata",0,117,36,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"922","Agoseris glauca","Agoseris glauca",0,107,75,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"923","Carex siccata","Carex siccata",0,115,65,10,0,0,FALSE,17,14.5,0,0,1,,,"9 clumps"
+2018,46,"925","Agoseris glauca","Agoseris glauca",0,112,70,0,-5,0,FALSE,4,6,1,0,1,,,"almost dead"
+2018,46,"926","Carex siccata","Carex siccata",0,136,63,-5,-5,0,FALSE,17,13,0,0,1,,,"5 clumps"
+2018,46,"928","Agoseris glauca","Agoseris glauca",0,130,65,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"929","Carex siccata","Carex siccata",0,110,85,0,-5,0,FALSE,14,15,0,0,1,,,"5 clumps"
+2018,46,"930","Senecio crassulus","Senecio crassulus",0,105,84,-10,0,0,FALSE,5.5,4,0,0,1,,,
+2018,46,"933","Heterotheca villosa","Heterotheca villosa",0,100,105,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"934","Carex siccata","Carex siccata",0,100,105,-10,-10,0,FALSE,12,11,0,0,1,,,
+2018,46,"936","Eriogonum umbellatum","Eriogonum umbellatum",0,130,42,-20,-10,0,FALSE,24,4,2,0,1,,,"only main patch"
+2018,46,"937","Heterotheca villosa","Heterotheca villosa",0,128,37,10,0,0,FALSE,5.5,5,0,0,1,,,
+2018,46,"947","Carex siccata","Carex siccata",0,167,55,-15,-10,0,FALSE,28,20,0,0,1,,,
+2018,46,"948","Carex siccata","Carex siccata",0,167,54,-10,-10,0,FALSE,20,16,0,0,1,,,"3 clumps"
+2018,46,"951","Carex siccata","Carex siccata",0,178,39,-13,-14,0,FALSE,21,10,0,0,1,,,"2 clumps"
+2018,46,"953","Carex siccata","Carex siccata",0,183,5,-10,-10,0,FALSE,11,17.5,0,0,1,,,"4 clumps"
+2018,46,"954","Elymus lanceolatus","Elymus lanceolatus",0,190,5,-10,-10,0,FALSE,6,9.5,0,0,1,,,"back from dead"
+2018,46,"955","Carex siccata","Carex siccata",0,191,3,-10,-10,0,FALSE,10,16,0,0,1,,,
+2018,46,"956","Carex siccata","Carex siccata",0,183,18,-10,-10,0,FALSE,13,19.5,0,0,1,,,"2 clumps"
+2018,46,"957","Elymus lanceolatus","Elymus lanceolatus",0,190,15,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"960","Carex siccata","Carex siccata",0,200,5,-5,0,0,FALSE,43,26,0,0,1,,,"1 clump"
+2018,46,"962","Eriogonum umbellatum","Eriogonum umbellatum",0,200,48,-15,-20,0,FALSE,70,3.5,51,0,1,,,"mostly off plot, fairy ring"
+2018,46,"963","Phacelia hastata","Phacelia hastata",0,187,31,-10,-10,0,FALSE,16,5,0,0,1,,,
+2018,46,"964","Heterotheca villosa","Heterotheca villosa",0,195,38,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"965","Carex siccata","Carex siccata",0,192,95,0,-7,0,FALSE,21,11,0,0,1,,,
+2018,46,"974","Heterotheca villosa","Heterotheca villosa",0,176,116,-10,-10,0,FALSE,11,2,0,0,1,,,"position moved to die back"
+2018,46,"976","Carex siccata","Carex siccata",0,130,130,-10,-10,1,TRUE,0,0,0,0,1,,,"dead, tag missing"
+2018,46,"979","Heterotheca villosa","Heterotheca villosa",0,184,123,-10,-10,0,FALSE,2.5,3,0,0,1,,,"nested in #974?"
+2018,46,"981","Arenaria congesta","Arenaria congesta",0,191,121,-10,-10,0,FALSE,11,5,9,0,1,,,"Plant was thought dead & tag missing in 2018, but then in 2019 tag was found and 2424's data was merged with 981's to reflect that they're the same plant. Copied over 2424's 218 data to 981 here. 2019 note: deleted tag 2424 since plant is the same as 981. Tag 2424 was removed since tag 981 was found"
+2018,46,"982","Ivesia gordonii","Ivesia gordonii",0,194,125,-10,-10,0,FALSE,7,4.5,1,0,1,,,
+2018,46,"984","Carex siccata","Carex siccata",0,200,150,-10,-10,0,FALSE,10,11,1,0,1,,,"back from dead"
+2018,46,"985","Heterotheca villosa","Heterotheca villosa",0,185,145,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"986","Senecio crassulus","Senecio crassulus",0,180,140,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"988","Agoseris glauca","Agoseris glauca",0,180.5,145.5,-5,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"989","Heterotheca villosa","Heterotheca villosa",0,175,130,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"990","Achnatherum lettermanii","Achnatherum lettermanii",0,160,124,-10,-10,0,FALSE,13,10.5,3,0,1,,,
+2018,46,"991","Eriogonum umbellatum","Eriogonum umbellatum",0,147,128,-10,-10,0,FALSE,15,3,8,0,1,,,
+2018,46,"992","Eriogonum umbellatum","Eriogonum umbellatum",0,178,151,-10,-10,0,FALSE,90,3,61,0,1,,,
+2018,46,"993","Agoseris glauca","Agoseris glauca",0,190,165,-10,-10,0,FALSE,4,4,0,0,1,,,
+2018,46,"996","Heterotheca villosa","Heterotheca villosa",0,165,160,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"997","Heterotheca villosa","Heterotheca villosa",0,155,160,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"998","Senecio crassulus","Senecio crassulus",0,155,170,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,46,"999","Elymus lanceolatus","Elymus lanceolatus",0,155,141,-10,-10,0,FALSE,19,24,5,0,1,,,
+2018,47,"1412","Lupinus argenteus","Lupinus argenteus",0,26,15,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,47,"1413","Carex siccata","Carex siccata",0,7,3,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,47,"1420","Lupinus argenteus","Lupinus argenteus",0,1,197,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,47,"1422","Lupinus argenteus","Lupinus argenteus",0,118,159,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,47,"1425","Lupinus argenteus","Lupinus argenteus",0,151,155,-10,-10,0,FALSE,10.5,6.5,0,0,1,,,"sick"
+2018,47,"1432","Lupinus argenteus","Lupinus argenteus",0,173,60,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,47,"2355","Carex siccata","Carex siccata",0,1,23,-10,-10,0,FALSE,21,11,0,0,1,,,"3 clumps"
+2018,47,"2356","Carex siccata","Carex siccata",0,0,78,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,47,"2357","Carex siccata","Carex siccata",0,0,86,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,47,"2358","Lupinus argenteus","Lupinus argenteus",0,72,146,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,47,"2359","Lupinus argenteus","Lupinus argenteus",0,126,150,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,49,"1031","Eriogonum umbellatum","Eriogonum umbellatum",0,76,151,-10,-10,0,FALSE,16,3,2,0,1,,,"ibutton"
+2018,49,"1032","Heterotheca villosa","Heterotheca villosa",0,55,195,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,49,"1436","Lupinus argenteus","Lupinus argenteus",0,15,107,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,49,"2083","Lupinus argenteus","Lupinus argenteus",0,177,69,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,49,"2360","Lupinus argenteus","Lupinus argenteus",0,81,172,-10,-10,0,FALSE,3,3,0,0,1,,,
+2018,49,"2361","Elymus lanceolatus","Elymus lanceolatus",0,189,87,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"1034","Ivesia gordonii","Ivesia gordonii",0,10,15,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"1035","Eriogonum umbellatum","Eriogonum umbellatum",0,15,3,-10,-10,0,FALSE,10,1,0,0,1,,,
+2018,50,"1037","Ivesia gordonii","Ivesia gordonii",0,23,1,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"1038","Ivesia gordonii","Ivesia gordonii",0,27,3,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"1039","Ivesia gordonii","Ivesia gordonii",0,52,15,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"1040","Heterotheca villosa","Heterotheca villosa",0,57,8,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"1041","Ivesia gordonii","Ivesia gordonii",0,60,25,0,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"1043","Ivesia gordonii","Ivesia gordonii",0,98,5,0,10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"1047","Eriogonum umbellatum","Eriogonum umbellatum",0,163,57,-5,-5,0,FALSE,8.5,1.5,0,0,1,,,
+2018,50,"1048","Elymus lanceolatus","Elymus lanceolatus",0,167,82,-10,-10,0,FALSE,16,13.5,7,0,1,,,"ibutton"
+2018,50,"1049","Eriogonum umbellatum","Eriogonum umbellatum",0,10,185,-10,-10,0,FALSE,31,1.5,0,0,1,,,"very sick, fairy ring"
+2018,50,"1439","Lupinus argenteus","Lupinus argenteus",0,82,153,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"1680","Eriogonum umbellatum","Eriogonum umbellatum",0,5,4,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"2077","Senecio crassulus","Senecio crassulus",0,97,0,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"2078","Arnica latifolia","Arnica latifolia",0,177,49,-10,-10,0,FALSE,4.5,2,0,0,1,,,
+2018,50,"2080","Elymus lanceolatus","Elymus lanceolatus",0,27,88,-10,-10,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"2362","Phacelia hastata","Phacelia hastata",0,11,181,10,0,1,TRUE,0,0,0,0,1,,,"dead"
+2018,50,"2363","Senecio crassulus","Senecio crassulus",0,170,51,-10,-10,0,TRUE,0,0,0,0,1,,,"dead"
