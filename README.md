@@ -3,14 +3,14 @@
 Benjamin Blonder (UC Berkeley)
 
 ## Collaborators
-Courtenay Ray, Rozália Kapás, Roberto Salguero Gómez
+Courtenay Ray, Rozália Kapás, Rebecca Dalton, Øystein Opedal, Bente Graae, Roberto Salguero Gómez
 
 ## Funding
 * United States National Science Foundation, DEB-2425575
 * Norwegian Research Council, KLIMAFORSK #250233, 223257
 * United Kingdom Natural Environment Research Council, NE/M019160
-* Rocky Mountain Biological Laboratory (Navjot Sodhi fellowship, Johnson Family endowment, and other sources)
-* Peder Saether Center for Advanced Study.
+* Rocky Mountain Biological Laboratory, Navjot Sodhi fellowship, Johnson Family endowment, and other sources
+* Peder Saether Center for Advanced Study
 
 # How to use
 Census data (in `census/`) are updated on an annual basis in subfolders (e.g., `2023`, `2024`). If you are conducting time series analyses, you should use the data in the newest-year subfolder only. Prior years are provided for historical reference. Current-year `.xlsx` files may have been manually edited relative to prior year datasets to fix known errors or introduce additional functionality.
